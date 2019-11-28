@@ -1,0 +1,712 @@
+
+%% bare_conf.tex
+%% V1.3
+%% 2007/01/11
+%% by Michael Shell
+%% See:
+%% http://www.michaelshell.org/
+%% for current contact information.
+%%
+%% This is a skeleton file demonstrating the use of IEEEtran.cls
+%% (requires IEEEtran.cls version 1.7 or later) with an IEEE conference paper.
+%%
+%% Support sites:
+%% http://www.michaelshell.org/tex/ieeetran/
+%% http://www.ctan.org/tex-archive/macros/latex/contrib/IEEEtran/
+%% and
+%% http://www.ieee.org/
+
+%%*************************************************************************
+%% Legal Notice:
+%% This code is offered as-is without any warranty either expressed or
+%% implied; without even the implied warranty of MERCHANTABILITY or
+%% FITNESS FOR A PARTICULAR PURPOSE! 
+%% User assumes all risk.
+%% In no event shall IEEE or any contributor to this code be liable for
+%% any damages or losses, including, but not limited to, incidental,
+%% consequential, or any other damages, resulting from the use or misuse
+%% of any information contained here.
+%%
+%% All comments are the opinions of their respective authors and are not
+%% necessarily endorsed by the IEEE.
+%%
+%% This work is distributed under the LaTeX Project Public License (LPPL)
+%% ( http://www.latex-project.org/ ) version 1.3, and may be freely used,
+%% distributed and modified. A copy of the LPPL, version 1.3, is included
+%% in the base LaTeX documentation of all distributions of LaTeX released
+%% 2003/12/01 or later.
+%% Retain all contribution notices and credits.
+%% ** Modified files should be clearly indicated as such, including  **
+%% ** renaming them and changing author support contact information. **
+%%
+%% File list of work: IEEEtran.cls, IEEEtran_HOWTO.pdf, bare_adv.tex,
+%%                    bare_conf.tex, bare_jrnl.tex, bare_jrnl_compsoc.tex
+%%*************************************************************************
+
+% *** Authors should verify (and, if needed, correct) their LaTeX system  ***
+% *** with the testflow diagnostic prior to trusting their LaTeX platform ***
+% *** with production work. IEEE's font choices can trigger bugs that do  ***
+% *** not appear when using other class files.                            ***
+% The testflow support page is at:
+% http://www.michaelshell.org/tex/testflow/
+
+
+
+% Note that the a4paper option is mainly intended so that authors in
+% countries using A4 can easily print to A4 and see how their papers will
+% look in print - the typesetting of the document will not typically be
+% affected with changes in paper size (but the bottom and side margins will).
+% Use the testflow package mentioned above to verify correct handling of
+% both paper sizes by the user's LaTeX system.
+%
+% Also note that the "draftcls" or "draftclsnofoot", not "draft", option
+% should be used if it is desired that the figures are to be displayed in
+% draft mode.
+%
+\documentclass[10pt, a4paper, conference, compsocconf]{IEEEtran}
+\usepackage{fontspec}
+\usepackage{array}
+\usepackage{tabularx}
+\usepackage{multirow}
+\newfontfamily{\sifont}[Script=Sinhala]{LKLUG} 
+\newfontfamily{\tam}[Script=Tamil]{Lohit-Tamil}
+% Add the compsocconf option for Computer Society conferences.
+%
+% If IEEEtran.cls has not been installed into the LaTeX system files,
+% manually specify the path to it like:
+% \documentclass[conference]{../sty/IEEEtran}
+
+
+
+
+
+% Some very useful LaTeX packages include:
+% (uncomment the ones you want to load)
+
+
+% *** MISC UTILITY PACKAGES ***
+%
+%\usepackage{ifpdf}
+% Heiko Oberdiek's ifpdf.sty is very useful if you need conditional
+% compilation based on whether the output is pdf or dvi.
+% usage:
+% \ifpdf
+%   % pdf code
+% \else
+%   % dvi code
+% \fi
+% The latest version of ifpdf.sty can be obtained from:
+% http://www.ctan.org/tex-archive/macros/latex/contrib/oberdiek/
+% Also, note that IEEEtran.cls V1.7 and later provides a builtin
+% \ifCLASSINFOpdf conditional that works the same way.
+% When switching from latex to pdflatex and vice-versa, the compiler may
+% have to be run twice to clear warning/error messages.
+
+
+
+
+
+
+% *** CITATION PACKAGES ***
+%
+%\usepackage{cite}
+% cite.sty was written by Donald Arseneau
+% V1.6 and later of IEEEtran pre-defines the format of the cite.sty package
+% \cite{} output to follow that of IEEE. Loading the cite package will
+% result in citation numbers being automatically sorted and properly
+% "compressed/ranged". e.g., [1], [9], [2], [7], [5], [6] without using
+% cite.sty will become [1], [2], [5]--[7], [9] using cite.sty. cite.sty's
+% \cite will automatically add leading space, if needed. Use cite.sty's
+% noadjust option (cite.sty V3.8 and later) if you want to turn this off.
+% cite.sty is already installed on most LaTeX systems. Be sure and use
+% version 4.0 (2003-05-27) and later if using hyperref.sty. cite.sty does
+% not currently provide for hyperlinked citations.
+% The latest version can be obtained at:
+% http://www.ctan.org/tex-archive/macros/latex/contrib/cite/
+% The documentation is contained in the cite.sty file itself.
+
+
+
+
+
+
+% *** GRAPHICS RELATED PACKAGES ***
+%
+\ifCLASSINFOpdf
+  % \usepackage[pdftex]{graphicx}
+  % declare the path(s) where your graphic files are
+  % \graphicspath{{../pdf/}{../jpeg/}}
+  % and their extensions so you won't have to specify these with
+  % every instance of \includegraphics
+  % \DeclareGraphicsExtensions{.pdf,.jpeg,.png}
+\else
+  % or other class option (dvipsone, dvipdf, if not using dvips). graphicx
+  % will default to the driver specified in the system graphics.cfg if no
+  % driver is specified.
+  % \usepackage[dvips]{graphicx}
+  % declare the path(s) where your graphic files are
+  % \graphicspath{{../eps/}}
+  % and their extensions so you won't have to specify these with
+  % every instance of \includegraphics
+  % \DeclareGraphicsExtensions{.eps}
+\fi
+% graphicx was written by David Carlisle and Sebastian Rahtz. It is
+% required if you want graphics, photos, etc. graphicx.sty is already
+% installed on most LaTeX systems. The latest version and documentation can
+% be obtained at: 
+% http://www.ctan.org/tex-archive/macros/latex/required/graphics/
+% Another good source of documentation is "Using Imported Graphics in
+% LaTeX2e" by Keith Reckdahl which can be found as epslatex.ps or
+% epslatex.pdf at: http://www.ctan.org/tex-archive/info/
+%
+% latex, and pdflatex in dvi mode, support graphics in encapsulated
+% postscript (.eps) format. pdflatex in pdf mode supports graphics
+% in .pdf, .jpeg, .png and .mps (metapost) formats. Users should ensure
+% that all non-photo figures use a vector format (.eps, .pdf, .mps) and
+% not a bitmapped formats (.jpeg, .png). IEEE frowns on bitmapped formats
+% which can result in "jaggedy"/blurry rendering of lines and letters as
+% well as large increases in file sizes.
+%
+% You can find documentation about the pdfTeX application at:
+% http://www.tug.org/applications/pdftex
+
+
+
+
+
+% *** MATH PACKAGES ***
+%
+%\usepackage[cmex10]{amsmath}
+% A popular package from the American Mathematical Society that provides
+% many useful and powerful commands for dealing with mathematics. If using
+% it, be sure to load this package with the cmex10 option to ensure that
+% only type 1 fonts will utilized at all point sizes. Without this option,
+% it is possible that some math symbols, particularly those within
+% footnotes, will be rendered in bitmap form which will result in a
+% document that can not be IEEE Xplore compliant!
+%
+% Also, note that the amsmath package sets \interdisplaylinepenalty to 10000
+% thus preventing page breaks from occurring within multiline equations. Use:
+%\interdisplaylinepenalty=2500
+% after loading amsmath to restore such page breaks as IEEEtran.cls normally
+% does. amsmath.sty is already installed on most LaTeX systems. The latest
+% version and documentation can be obtained at:
+% http://www.ctan.org/tex-archive/macros/latex/required/amslatex/math/
+
+
+
+
+
+% *** SPECIALIZED LIST PACKAGES ***
+%
+%\usepackage{algorithmic}
+% algorithmic.sty was written by Peter Williams and Rogerio Brito.
+% This package provides an algorithmic environment fo describing algorithms.
+% You can use the algorithmic environment in-text or within a figure
+% environment to provide for a floating algorithm. Do NOT use the algorithm
+% floating environment provided by algorithm.sty (by the same authors) or
+% algorithm2e.sty (by Christophe Fiorio) as IEEE does not use dedicated
+% algorithm float types and packages that provide these will not provide
+% correct IEEE style captions. The latest version and documentation of
+% algorithmic.sty can be obtained at:
+% http://www.ctan.org/tex-archive/macros/latex/contrib/algorithms/
+% There is also a support site at:
+% http://algorithms.berlios.de/index.html
+% Also of interest may be the (relatively newer and more customizable)
+% algorithmicx.sty package by Szasz Janos:
+% http://www.ctan.org/tex-archive/macros/latex/contrib/algorithmicx/
+
+
+
+
+% *** ALIGNMENT PACKAGES ***
+%
+%
+
+% Frank Mittelbach's and David Carlisle's array.sty patches and improves
+% the standard LaTeX2e array and tabular environments to provide better
+% appearance and additional user controls. As the default LaTeX2e table
+% generation code is lacking to the point of almost being broken with
+% respect to the quality of the end results, all users are strongly
+% advised to use an enhanced (at the very least that provided by array.sty)
+% set of table tools. array.sty is already installed on most systems. The
+% latest version and documentation can be obtained at:
+% http://www.ctan.org/tex-archive/macros/latex/required/tools/
+
+
+%\usepackage{mdwmath}
+%\usepackage{mdwtab}
+% Also highly recommended is Mark Wooding's extremely powerful MDW tools,
+% especially mdwmath.sty and mdwtab.sty which are used to format equations
+% and tables, respectively. The MDWtools set is already installed on most
+% LaTeX systems. The lastest version and documentation is available at:
+% http://www.ctan.org/tex-archive/macros/latex/contrib/mdwtools/
+
+
+% IEEEtran contains the IEEEeqnarray family of commands that can be used to
+% generate multiline equations as well as matrices, tables, etc., of high
+% quality.
+
+
+%\usepackage{eqparbox}
+% Also of notable interest is Scott Pakin's eqparbox package for creating
+% (automatically sized) equal width boxes - aka "natural width parboxes".
+% Available at:
+% http://www.ctan.org/tex-archive/macros/latex/contrib/eqparbox/
+
+
+
+
+
+% *** SUBFIGURE PACKAGES ***
+%\usepackage[tight,footnotesize]{subfigure}
+% subfigure.sty was written by Steven Douglas Cochran. This package makes it
+% easy to put subfigures in your figures. e.g., "Figure 1a and 1b". For IEEE
+% work, it is a good idea to load it with the tight package option to reduce
+% the amount of white space around the subfigures. subfigure.sty is already
+% installed on most LaTeX systems. The latest version and documentation can
+% be obtained at:
+% http://www.ctan.org/tex-archive/obsolete/macros/latex/contrib/subfigure/
+% subfigure.sty has been superceeded by subfig.sty.
+
+
+
+%\usepackage[caption=false]{caption}
+%\usepackage[font=footnotesize]{subfig}
+% subfig.sty, also written by Steven Douglas Cochran, is the modern
+% replacement for subfigure.sty. However, subfig.sty requires and
+% automatically loads Axel Sommerfeldt's caption.sty which will override
+% IEEEtran.cls handling of captions and this will result in nonIEEE style
+% figure/table captions. To prevent this problem, be sure and preload
+% caption.sty with its "caption=false" package option. This is will preserve
+% IEEEtran.cls handing of captions. Version 1.3 (2005/06/28) and later 
+% (recommended due to many improvements over 1.2) of subfig.sty supports
+% the caption=false option directly:
+%\usepackage[caption=false,font=footnotesize]{subfig}
+%
+% The latest version and documentation can be obtained at:
+% http://www.ctan.org/tex-archive/macros/latex/contrib/subfig/
+% The latest version and documentation of caption.sty can be obtained at:
+% http://www.ctan.org/tex-archive/macros/latex/contrib/caption/
+
+
+
+
+% *** FLOAT PACKAGES ***
+%
+%\usepackage{fixltx2e}
+% fixltx2e, the successor to the earlier fix2col.sty, was written by
+% Frank Mittelbach and David Carlisle. This package corrects a few problems
+% in the LaTeX2e kernel, the most notable of which is that in current
+% LaTeX2e releases, the ordering of single and double column floats is not
+% guaranteed to be preserved. Thus, an unpatched LaTeX2e can allow a
+% single column figure to be placed prior to an earlier double column
+% figure. The latest version and documentation can be found at:
+% http://www.ctan.org/tex-archive/macros/latex/base/
+
+
+
+%\usepackage{stfloats}
+% stfloats.sty was written by Sigitas Tolusis. This package gives LaTeX2e
+% the ability to do double column floats at the bottom of the page as well
+% as the top. (e.g., "\begin{figure*}[!b]" is not normally possible in
+% LaTeX2e). It also provides a command:
+%\fnbelowfloat
+% to enable the placement of footnotes below bottom floats (the standard
+% LaTeX2e kernel puts them above bottom floats). This is an invasive package
+% which rewrites many portions of the LaTeX2e float routines. It may not work
+% with other packages that modify the LaTeX2e float routines. The latest
+% version and documentation can be obtained at:
+% http://www.ctan.org/tex-archive/macros/latex/contrib/sttools/
+% Documentation is contained in the stfloats.sty comments as well as in the
+% presfull.pdf file. Do not use the stfloats baselinefloat ability as IEEE
+% does not allow \baselineskip to stretch. Authors submitting work to the
+% IEEE should note that IEEE rarely uses double column equations and
+% that authors should try to avoid such use. Do not be tempted to use the
+% cuted.sty or midfloat.sty packages (also by Sigitas Tolusis) as IEEE does
+% not format its papers in such ways.
+
+
+
+
+
+% *** PDF, URL AND HYPERLINK PACKAGES ***
+%
+%\usepackage{url}
+% url.sty was written by Donald Arseneau. It provides better support for
+% handling and breaking URLs. url.sty is already installed on most LaTeX
+% systems. The latest version can be obtained at:
+% http://www.ctan.org/tex-archive/macros/latex/contrib/misc/
+% Read the url.sty source comments for usage information. Basically,
+% \url{my_url_here}.
+
+
+
+
+
+% *** Do not adjust lengths that control margins, column widths, etc. ***
+% *** Do not use packages that alter fonts (such as pslatex).         ***
+% There should be no need to do such things with IEEEtran.cls V1.6 and later.
+% (Unless specifically asked to do so by the journal or conference you plan
+% to submit to, of course. )
+
+
+% correct bad hyphenation here
+\hyphenation{op-tical net-works semi-conduc-tor}
+
+\begin{document}
+
+
+\title{Statistical Machine Learning for Transliteration: Transliterating  names between Sinhala, Tamil and English}
+
+\author{\IEEEauthorblockN{H.S. Priyadarshani, M.D.W. Rajapaksha, M.M.S.P. Ranasinghe, K. Sarveswaran, G.V. Dias}
+\IEEEauthorblockA{ Department of Computer Science and Engineering\\
+University of Moratuwa\\
+Katubedda 10400, Sri Lanka\\
+\{shanika.15, wimukthi.15, sharmila.15, sarves, gihan\}@cse.mrt.ac.lk}
+}
+
+\maketitle
+
+
+\begin{abstract}
+\textbf{In this paper, we focus on building models for transliteration of personal names between the primary languages of Sri Lanka namely Sinhala, Tamil and English. Currently there a Rule-based system has been used to transliterate names between Sinhala and Tamil. However, we found that it fails in several cases. Further, there are no systems available to transliterate names to English. We have reported a hybrid approach in this paper where we use machine learning and statistical machine translation to do the transliteration. We built a parallel trilingual corpus of personal names. Then we trained a machine learner to classify names based on the ethnicity as Sinhalese, Tamil and Muslim names as we found it is an influencing factor in transliteration. Then we took the transliteration as a translation problem and applied the statistical machine translation to generate the most probable transliteration for personal names. The system shows very promising results compare to the existing rule-based system. It gives the BLEU score of 89 in all the test cases and produces the top BLEU score of 93.7 for Sinhala to English transliteration.}  
+
+\end{abstract}
+
+\begin{IEEEkeywords}
+statistical machine translation; transliteration; naive bayes; sinhala; tamil 
+
+\end{IEEEkeywords}
+
+
+
+\IEEEpeerreviewmaketitle
+
+
+
+\section{Introduction}
+
+Transliteration can be defined as the phonetic translation of names across languages [1]. It is essential to pronounce the proper names such as names of people, places and other entities in the same way as possible as it is pronounced in the original language. However, it is a challenging task to write these names in another script to produce the same pronunciation. Because not every language has letters to produce all the sounds. On the other hand,  the International Phonetic Alphabet (IPA) can be used to produce the exact pronunciation, however, a common person will find difficulties to read the IPA. Therefore, in practice names are transliterated to produce the closest pronunciation. For example, the name {\sifont අනගාරික ධර්මපාල} in Sinhala language can be transliterated to Tamil language as {\tam அனகாரிக தர்மபால} and to English language as Anagarika Dharmapala which gives very closest pronunciation.
+
+Apart from pronunciation, writing names also may be influenced by other factors like numerology. For instance, people sometimes may include characters intentionally to comply with their numerology requirements. For instance, a person can write his name as Anagaarika instead of Anagarika. However, it is not very straight forward to generate the closest transliteration of names. 
+Sinhala and Tamil are the official languages of Sri Lanka and English is the link language. All these are used widely in government documents and other varieties. The department for registration of people in Sri Lanka has a system to transliterate between Sinhala in Tamil which is used to transliterate names in national identity cards \footnote{https://bit.ly/2Z8TEBV}. However, there are not many formal studies on transliteration among Sinhala, Tamil and English languages are found except the work by Hettige et al [2].
+
+
+\section{Motivation}
+The need for a transliteration system emerges due to several reasons. As per the present policy in Sri Lanka, it is a must to have all the names in all three languages. Especially, the government documents are issued mostly in all three languages and those documents contain a lot of personal names. Currently, these names are transliterated manually in government documents. Different translators find different ways to transliterate as there is no one to one mapping between Sinhala – Tamil and English characters and sounds. As an example, the characters {\sifont ද}, {\sifont  ධ}, {\sifont ත}, {\sifont ථ } in Sinhala are mapped to letter {\tam த}  in Tamil. 
+
+Therefore phonemes which can be transcribed using Sinhala cannot be done exactly in Tamil or English and vice versa also true. One such case is that the phoneme ‘z’ is not in Sinhala or Tamil languages. As an example, how to write the name Fouza in Sinhala is somewhat confusing as some write it as  {\sifont ෆවුසා}  and some others as {\sifont ෆවු}z{\sifont සා}.
+
+In some cases, the influence of other languages including Sanskrit, Dutch, Portuguese, Arabic can be seen in proper names and especially in personal names. As an example, the names like Fernando and De Silva has a Dutch origin. In Sinhala language, those become {\sifont ප්‍රනාන්දු} and {\sifont ද සිල්වා}, which does not represent the exact phonetic mapping to English.
+
+Due to some numerology reasons, people prefer certain construction than others as well, this also adds some difficulties to the transliteration. 
+
+On the other hand, a transliteration system of this nature is also useful for Natural Language Processing (NLP) tasks such as machine translation between these languages, corpus or sentence alignment, cross-language information retrieval, information extraction and automatic lexicon acquisition.
+
+Therefore there is a need for transliteration system which can transliterate names between Sinhala – Tamil and English Languages.
+
+\section{Related Work}
+There have been several research studies done on this area for different languages. Basically, transliteration is considered as a key component of translation. In this field, there are a number of models have been developed based on machine transliteration approaches such as phoneme based transliteration model, grapheme based transliteration model, hybrid transliteration model and also correspondence-based transliteration model [3].
+
+Grapheme based transliteration model is a direct mapping of spellings or grapheme from a source language to a target language. Most of the time this is an orthogonal mapping. Channel Model and Decision Tree Model are such transliteration methods proposed using the above approach [4]. Phoneme-based transliteration model is basically built on pronunciation or the source phoneme of words in the language rather than the spellings. A Hybrid approach is one that uses both of the above for more accurate transliteration since some of these do not match with certain language specifications.
+
+In 2007, Jiang et al [4] have proposed a method of improving the translation of named entities with the help of transliteration together with web mining. There in the transliteration model, they consider both the similarity in pronunciation and co-occurrence of bilingual contextual information of the words. A list of generated candidates is kept scoring with the help of web mining and improve the quality of the translation with better transliteration.
+
+Later in 2014, Mathur et al [5] have reported a transliteration method for named entities in Hindi language following a Hybrid approach. There, they have used a technique of Rule-based approach for the extraction of named entities and a statistical-based approach in converting named entities in English to the accurate corresponding Hindi phoneme. This is because it is called a hybrid approach. Further, they have applied this mechanism to their system and calculated the accuracy using precision, standard recall, and f-score. The results obtained from these experiments were compared with the results of manually transliterated named entities that was done with the help of human translators. Those results have shown better progress than the previous occasions. In 2016, Y. Lin et al [6] have reported how the transliteration methods ignore source context information and inter-dependency among entities for entity disambiguation. They bring out a novel approach to leverage state-of-the-art Entity Linking (EL) techniques to automatically correct name transliteration results, using collective inference from source contexts and additional evidence from the knowledge base. 
+
+Grundkiewicz and Heafield [7] proposed a neural machine translation based approach for transliteration in 2018 using deep attentional RNN encoder-decoder models. Mihaela and Breuel presents another approach for neural network based model for transliteration using a sequence to sequence model [8]. Their data is based on Arabic and English parallel text. Kundu et al [9] proposed an approach for transliteration based on both recurrent neural networks and convolutional sequence to sequence based neural machine translation.
+
+When it comes to Sinhala language machine transliteration have been done for over a decade in terms of translation. In 2007, Hettige and Karunananda [2] propose a system for transliteration from English to Sinhala language. There the approach they used is based on finite-state automaton. They have used a finite state automaton to develop transducers for language transliteration and the system is developed using Prolog server page and SWI-PROLOG. Those generated transducers are tested using Sinhala Chat-bot and English WordNet to obtain the expected results. They claim that handling the pronunciations of an English word is critical as one letter could have different sounds and it causes to leave some ambiguity in transliteration. The team intended to improve this system by incorporating IPA to their system as future work.
+
+In 2010, B. Hettige et al [10] reported a methodology for English to Sinhala machine translation supported by a transliteration agent using finite-state transducers. 
+
+In 2018, Tennage et al [11] have built a system for neural machine translation supported with transliteration from Tamil to Sinhala language. This transliteration model was implemented using English as a middle language. The model has given a BLEU score of 8.36 for Tamil to Sinhala transliteration, which was a rule based approach that used character mapping without considering named entities.
+
+In 2018, Thayaparan [12] has proposed a named entity translation model which encompassed word-embedding models to improve translation in between Sinhala and Tamil. The model was able to gain BLEU score of 35.28 for Sinhala to Tamil, and 23.75 for Tamil to Sinhala, after intergrating into existing translation system.
+
+In 2003, Kohen et al [13] present about phrase-based machine translation and in 2007 Kohen and his team introduce Moses toolkit [14] for statistical translation. In 2009, Chinnakotla and Daman [15] talks about using Moses toolkit for transliteration, following a phrase-based SMT approach. There the words are replaced by characters and sentences are replaced by words. Again Rejwanul et al [16] follow the same approach for English-Hindi transliteration.
+
+\section{Transliteration System}
+
+\subsection{Our Approach}
+
+There are several transliteration systems that were built basically following a rule-based approach [5, 17, 18]. However, there are so many cases where the rules cannot handle these character mappings in between these languages alone [2]. Considering these difficulties, we moved with a statistical machine translation approach and there also we came across with the way the people use languages based on their ethnicity: basically Sinhalese, Tamils and Muslims.  Therefore, before the transliteration of personal names we had to classify names based on ethnicity. That was solved with a simple classification followed by the Naive Bayes algorithm. These classified names were then used for separate model construction based on both ethnicity and languages. Therefore, altogether there are 10 models to achieve the correct transliteration of Sinhalese, Tamil and Muslim names in the context of Sinhala, Tamil and English languages.
+	 	 	
+In transliteration, there are several techniques which have been used in previous research studies. Direct mapping approach is one of them [19], which generates the results using parallel corpus which is given for training. It consumes minimum time than other approaches [19], however,  it can transliterate only words which are present in the parallel corpus. 
+
+There are several other transliteration systems that were built basically following a rule-based approach. In this approach, different rules will be used to generate transliteration results. Rules can be created by considering the key properties of source and target languages. The rule-based approach is not widely used since it takes time, money and trained personnel to make and test the rules.
+
+Other than the above two approaches of direct mapping and Rule-based, neural machine translation (NMT) is also a current technique which learns directly and treats the words as smallest units for transliteration. Its slower training and inference speed, ineffectiveness in dealing with rare words, and sometimes fail to translate all the words in the source sentence. NMT lacks robustness in translating rare words[20] and  NMT needs large parallel data sets to train the model for getting better results than SMT [11].
+
+Considering those difficulties, we moved with a statistical machine translation (SMT) approach. SMT is a language-independent and data-oriented approach to transliterate text from a source language to a target language. SMT has high accuracy results and time efficient than rule-based approach [19]. SMT transliterate not only Sinhala origin names but other names as well. When corpus size is small, SMT performs better than the NMT according to results obtained by Tennage et al. [21]
+
+Using IPA is also giving better results in the process of transliteration. But, reading and understanding these standard mappings in a complex transliteration is difficult for a general user. Therefore, it is not widely used.
+
+Our transliteration system development involves the following steps:
+
+\begin{itemize}
+  \item[$\bullet$] Pre-processing the data in Sinhala - Tamil parallel name corpus:
+  \begin{itemize}
+  \item[$\ast$] cleaning the data remove duplicates, correct spelling, correct Unicode errors and break names to different labels
+  \end{itemize}	
+  \item[$\bullet$] Training and tuning models for Sinhala to Tamil and Tamil to Sinhala transliteration using Moses decoder \footnote{https://github.com/moses-smt/mosesdecoder}. Then testing the models, measuring the BLEU score and identifying the issues with transliteration model.
+   \item[$\bullet$] Manually classifying a part of Sinhala Tamil parallel name corpus based on the ethnicity of the names.
+   \item[$\bullet$]Creating a model for ethnicity-based classification of names using the manually classified data using the Naive Bayes algorithm.
+   \item[$\bullet$] Classifying the rest of the data in the parallel corpus with the built classification models, and manually validating the accuracy.
+   \item[$\bullet$]Retraining models for Sinhala to Tamil and Tamil to Sinhala transliteration based on ethnicity and building six models representing each transliteration with Moses decoder. Then tuning and testing each model for the BLEU score.
+   \item[$\bullet$]Conducting a survey to collect proper names from all three languages.
+   \item[$\bullet$]Scraping web and collecting a list of English proper names. Then transliterating them to Sinhala language using a rule-based approach and manually correcting the result and building an English Sinhala parallel name corpus.
+   \item[$\bullet$]Building models for Sinhala to English, and English to Sinhala Transliteration, with the data from English Sinhala parallel corpus, and testing for the accuracy of the model.
+   \item[$\bullet$]Using the developed Sinhala to English Transliteration model, transliterating a set of Sinhala names from the Sinhala English name corpus, to English language. Then manually validating the names and creating an English Tamil parallel corpus.
+   \item[$\bullet$]Building the models for English to Tamil and Tamil to English transliteration with Moses decoder, using the English Tamil parallel data. Then tuning and testing the models for the accuracy.
+   
+\end{itemize}
+
+\subsection{Dataset}
+
+A parallel name corpus of 100,000 Sinhala and Tamil was obtained from the department for registration of people. However, some of these names, especially Sinhala names had multiple tokens in their names. For instance, the name Chathuri Ishaka Harshani has three tokens all belonging to one personal name and also mapped to corresponding Tamil labels in the corpus. 
+
+However, no publically available Sinhala-English or Tamil -English found on the web. Therefore, we tried a survey approach to collect names from the university students and the general public through a survey and we ended up collecting 2000 names which were insufficient for us to train the system.
+Then we crawled the web to find proper names in English, mostly from the websites with examination results published. Finally, we collected around 80000 proper names in English. These names were then transliterated to Sinhala language with a rule-based approach followed by H.M. Weerasingha [17] which had a BLEU score of 80.03\%. However, there were a lot of issues with the transliterated results, some of them are shown in Table 1.
+
+ It is not that these transliterations are incorrect, but when it comes to proper names in Sri Lankan context the name in the last column is preferred or widely used than the transliterated output in the second one as in Table 1. Therefore, all these transliterations were checked for errors and corrected manually. But still, there are some ambiguities in names, especially gender-wise. As an example, the name Maneesha can be transliterated either as {\sifont මනීෂා} or {\sifont මනීෂ}, a name of a female or a male.
+
+
+\begin{table}
+    \caption{Examples for confusing results from English to Sinhala rule-based Transliteration}
+    \begin{tabularx}{\columnwidth}{X|X|X}
+        \hline
+        Name in English  &  Transliterated result in Sinhala & The expected result in Sinhala\\
+        
+        \hline
+        Sandakelum   &   {\sifont සන්දකෙළුම} \newline (sʌndʌkelʊmʌ) & {\sifont සඳකැලුම්} \newline (sʌndʌkælʊm)\\
+        \hline
+    	Imasha    &   {\sifont ඉමෂ} \newline (imʌʃʌ) & {\sifont ඉමාෂා}/{\sifont ඉමාෂ} \newline (imɑːʃɑː / imɑːʃʌ)\\
+    	\hline
+    	Menike  &   {\sifont මෙනික} \newline (Menikʌ) & {\sifont මැණිකේ}\newline (Mænikeː)\\
+    	\hline
+    	Yogaraj  &   {\sifont යොගරජ්}\newline (jogʌrʌʤ~ʥ) & {\sifont යෝගරාජ්}\newline(joːgʌrɑːʤ~ʥ)\\
+    	\hline  
+    	Margret & {\sifont මර්ග්‍රෙට්} \newline (mʌrgreʈ) & {\sifont මාග්‍රට්} \newline (mɑːgrʌʈ)\\
+        \hline
+    \end{tabularx}
+    \label{table: table 1}
+\end{table}
+
+\subsection{Model Creation}
+In each model creation process, between pairs of two languages from Sinhala, Tamil and English, the Moses-decoder was fed with the parallel corpus of personal names in source and target languages. The corpus was made of names in random order and it was also partitioned to a ratio of 5:2:1 for training, tuning and testing respectively. Here, we fed the system with a series of characters replacing phrases with words and words with characters. That means, we used character segmentation rather than word segmentation.
+
+Before training the transliteration model, a language model was built with the target language using KenLM. It was to find the most widely used or preferred from the number of outputs generated by the SMT. In this case, it was a three-gram language model is generated and also binarised with KenLM\footnote{https://kheafield.com/code/kenlm/} to achieve faster loading.  We used  Giza++\footnote{https://github.com/moses-smt/giza-pp}, which is the default tool in Moses, to build the translation models, in our case the transliteration models. Once the extraction of terms, scoring and lexicalized reordering tables creations are done, the final Moses configuration file is taken as the output of the training phase. Then each model is tuned for better results and tested for the BLEU (Bilingual Evaluation Understudy)  score.
+
+\subsection{Sinhala-Tamil Transliteration Model	}
+
+The first model we created was to transliterate  between Sinhala and Tamil languages. As stated above it was done with a parallel corpus of 100000 entries of full names. Though the model was giving better results, still there were some confusing cases and some such examples are displayed in Table 2 and Table 3. 
+
+ In these cases, also, it is not that the character mapping in transliteration is incorrect, but the possibility of having such names, in general, is rare. 
+However, when analysing further we found that this irregularities arose may be due to the ethnicity of those names belongs to. In Sri Lanka, the way names are written in a language depends on their ethnicity. At the same time, the mapping in between the characters in Sinhala, Tamil and English names are not one to one. Therefore, we had to address this issue of diversity by classifying names based on these irregularities in ethnicity.
+	
+
+\begin{table}
+\caption{ Examples for confusing results from Sinhala to Tamil Transliteration}
+\begin{tabularx}{\columnwidth}{X|X|X}
+    \hline
+    Input name in Sinhala  &  Transliterated result in Tamil & The expected result in Tamil\\
+   
+    
+    \hline
+    {\sifont රාමනායකලාගේ } \newline (rɑːmʌnɑːjʌkʌlɑːge) & {\tam ராமநாயக்கலாகே} \newline (ɾ̪aːman̪aːjakal̪aːkeː) & {\tam ராமனாயகலாகே} \newline (ɾ̪aːman̪aːjakal̪aːkeː) \\
+    \hline
+	{\sifont වේලුසාමි} \newline (ʋeːlʊsɑːmi) & {\tam வேலுசாமி} \newline (ʋeːl̪usaːmi) & {\tam வேலுச்சாமி} \newline (ʋeːl̪ussaːmi)\\
+	\hline
+ 	{\sifont සෙල්වරාජා } \newline (Selʋʌrɑːʤ~ʥɑː) & {\tam செல்வராஜா} \newline (sel̪ʋaɾ̪aːd͡ʒaː) & {\tam செல்வராசா} \newline (sel̪ʋaɾ̪aːsaː)\\
+ 	\hline
+	{\sifont අවුසෙෆ්} \newline (aʋʊsef) & {\tam அவுசெப்} \newline (aʋusep) & {\tam ஓவுசெப்} \newline (oːʋusep)\\
+	\hline
+	{\sifont මැරික්කාර් } \newline (mærikkʌr) & {\tam மெரிக்கார்} \newline (meɾ̪ikkaːɾ̪) & {\tam மரிக்கார்}\newline (maɾ̪ikkaːɾ̪)\\
+    \hline
+    
+\end{tabularx}
+\label{table:table 2}
+\end{table}
+
+\begin{table}
+\caption{ Examples for confusing results from Tamil to Sinhala Transliteration }
+
+\begin{tabularx}{\columnwidth}{X|X|X}
+    \hline
+   Input name in Tamil  &  Transliterated result in Sinhala & The expected result in Sinhala\\
+    \hline
+    
+
+    {\tam அபிலாஷா} & {\sifont අපිලාෂා} \newline (apilɑːʃɑː) & {\sifont අභිලාෂා} \newline (abilɑːʃɑː)\\
+	\hline
+	{\tam கங்கா} &  {\sifont කංකා } \newline (kʌŋkɑː) & {\sifont ගංගා} \newline (gʌŋgɑː)\\
+	\hline
+	{\tam சித்திரவேல்}  & {\sifont සිත්තිරවේල්} \newline (sittirʌʋeːl) & {\sifont සිද්‍රවේල්} (sidrʌʋeːl)\\
+	\hline
+	{\tam ஜெப்றின்}  & {\sifont ජෙබ්රින්} \newline (ʤ~ʥbrin) & {\sifont ජෙෆ්රින්} \newline (~ʥfrin)\\
+	\hline
+	{\tam வகாப்தீன்} & {\sifont වහාප්දීන්} \newline (ʋʌɦɑːpdiːn) & {\sifont වහාබ්දීන්} \newline (ʋʌɦɑːbdiːn)\\
+	\hline
+    
+\end{tabularx}
+\label{table:table 3}
+\end{table}
+
+
+\subsection {Classification of personal names based on ethnicity }
+
+In most cases of Sri Lankan context, a name could reveal the ethnic group someone resides in and the names have their own specifications based on that originality. In this case, we observed that there is a significant pattern of transliterating a named based on ethnicity. Therefore, the names had to be classified according to their ethnicity first (Sinhalese, Tamil or Muslim) before the transliteration. 
+
+Then we built a machine learning model to classify the personal names into Sinhalese, Muslim and Tamil names. In making the training data set for the classification model, we had to manually classify around 30000 full names into each category. Next, we split the dataset into training and validation sets so that we can train and test the classifier. Also, we encoded our target column so that it can be used in machine learning models.
+
+As features, raw text data was transformed into feature vectors and new features were created using the existing dataset.  We implemented TF\footnote{TF(t) = (Number of times term t appears in a document) / (Total number of terms in the document)}-IDF\footnote{ IDF(t) = log\_e(Total number of documents / Number of documents with term t in it)} (Term Frequency - Inverse Document Frequency) vectors as features in order to get relevant features. TF-IDF score represents the importance of terms appears in the entire corpus. We considered two feature vectors as N-gram level TF-IDF and character level TF-IDF. N-gram level TF-IDF vector represents TF-IDF scores of N terms together and character level TF-IDF represents the scores of character level N-grams in the corpus. After analyzing the accuracy of models using both feature vectors, Character level N-gram TF-IDF feature give better results than the other features.
+
+Finally, we implemented a Naive Bayes model using Sklearn\footnote{ https://github.com/scikit-learn/scikit-learn} implementation with different features. Naive Bayes is a classification technique based on Bayes’ Theorem with an assumption of independence among predictors.  Then, we trained the classifier using the training data set and validated using the rest of the data. This model gave a 96.1\% accuracy on ethnicity-based classification. 	
+Sinhala Tamil Transliteration Models based on ethnicity	
+Using the classified names from the classification model, we trained three separate models based on ethnicity as Sinhalese, Tamil and Muslim, by feeding the Moses decoder with relevant data for each language pair for each ethnic categories using the same way as we followed earlier. The transliterations were done both back and forth between Sinhala and Tamil languages. This approach gave better results than the previous time and most of the confusions in transliteration mapping were resolved.
+	 	
+\subsection {Sinhala English Transliteration Models}
+As described previously, using the trilingual corpus we created, two other models were built for back and forth transliteration in between Sinhala and English languages. In this case, the models gave a better accuracy even without the use of names classified on ethnicity. Therefore, with this model, we considered names belonging to all ethnic groups together as it is an overhead to create more models. 	 	
+\subsection {Tamil English Transliteration Models}
+The rule-based approach was giving poor results in the transliteration of names from English to Tamil. Therefore, to generate an English Tamil parallel corpus with personal names, we used the models trained by Moses for English to Sinhala transliteration and Sinhala to Tamil transliteration. They were giving better results than the Rule-based approach and still we had to correct them manually to create a Tamil and English parallel corpus with no spelling mistakes.
+
+\section{Evaluation And Discussion }
+
+ Sinhala to Tamil and Tamil to Sinhala transliterations models we created initially without any ethnicity-based classification, were based on a corpus of all types of personal names found in Sri Lanka. There the model for Sinhala to Tamil transliteration gave a BLEU score of 82.33\% while the model for Tamil to Sinhala transliteration presented a BLEU score of 80.02\%.  
+There were several issues with these transliterated results caused by the variations of the originality of these proper names. As an example, mostly in the Tamil language, the letter ‘{\tam க்}’ represents the [h] phoneme in personal names. However, when it comes to Muslim names they are used to write with the ‘{\tam ஹ்}’ character, which is a Grantha consonant  but not used widely in the names of Tamils. In some cases, some letters are missing in source or target language. As an example, there is no separate phoneme for ‘{\sifont ෆ}’ [f] in Tamil language. Then the name {\sifont ෆාතිමා} (Fathima) is written as {\tam பாத்திமா} in Tamil where character ‘{\tam ப}’ represents the phone for [p] as well. The name {\sifont පාරමී } is also written using the same character, as {\tam பாரமீ} but representing the phoneme [p]. Again all the phonemes  ‘{\sifont ක}’, ‘{\sifont ඛ}’, ‘{\sifont ග}’, ‘{\sifont ඝ}’ in Sinhala language is mapped to single ‘{\tam க}’ in Tamil language in general use. In all these cases the choice was mainly based on the ethnic group. This is one example and there are many more such many to one or one to many mappings that confuses the system when all types of names are considered together. But, this confusion gets decreased, once when we consider the ethnicity behind the origin of these names.  
+BLEU score quality metric increased with the application of the classification model.  The system shows the BLEU score greater than 89\% for all pairs of transliteration. For the transliteration from Sinhala to English, a BLEU score of 93.7\% was obtained for the backward transliteration the score was 92.37\%. All the BLEU Scores used in this paper are in BLEU-4 metric.
+
+\begin{table}
+\caption{  BLEU Scores in ethnicity-based models  }
+
+\begin{tabularx}{\columnwidth}{X|X|X|X}
+    \hline
+   Ethnicity  &  Source Language & Target Language & BLEU Score (\%)\\
+    \hline
+    
+
+   	Sinhalese & Sinhala & Tamil & 89.15\\
+     \hline
+	Sinhalese & Tamil & Sinhala & 91.47\\
+	 \hline
+	Tamil & Sinhala & Tamil & 93.62\\
+	 \hline
+	Tamil & Tamil & Sinhala & 91.29\\
+	 \hline
+ 	Muslim & Sinhala & Tamil & 89.35\\
+ 	 \hline
+	Muslim & Tamil & Sinhala & 89.61\\
+	 \hline
+    
+\end{tabularx}
+\label{table:table 4}
+\end{table}
+
+
+\begin{table}
+\caption{  BLEU Scores in Tamil-English and Sinhala-English models  }
+
+\begin{tabularx}{\columnwidth}{X|X|X}
+    \hline
+   Source Language & Target Language & BLEU Score (\%)\\
+    \hline
+    
+
+     Sinhala & English & 93.70\\
+     \hline
+	 English & Sinhala & 92.37\\
+	 \hline
+	 Tamil & English & 86.11\\
+	 \hline
+	 English & Tamil & 91.74\\
+	 \hline
+
+    
+\end{tabularx}
+\label{table:table 5}
+\end{table}
+
+
+
+
+
+\section{Conclusion }	 	
+ In this paper, we have presented a statistical machine translation approach to transliterate personal names in Sri Lankan context using Moses SMT toolkit for Sinhala, Tamil and English languages. We have improved the results further by using the ethnic origin of a given name, whether Sinhalese, Tamils or Muslim. We developed a classification model to classify names before feeding to Moses for transliteration. Our system shows a BLEU score of more than 89\% for all the language pairs of consideration. 
+
+\section{Future Work }		
+The personal name transliteration module is just a part of our named entity translation project. Therefore we will extend this to cover location names, organizational names and designations. In these cases, just transliteration would not be enough. Therefore, we will also use other techniques like terminology integration to improve quality.
+
+
+
+
+\begin{thebibliography}{1}
+  
+\bibitem{IEEEhowto:kopka}
+N. Chen, X. Duan, M. Zhang, R.E. Banchs , H. Li, “Whitepaper on NEWS 2018 Shared Task on Machine Transliteration”
+
+\bibitem{IEEEhowto:kopka}
+B. Hettige and A. S. Karunananda, "Transliteration system for English to Sinhala machine translation," 2007 International Conference on Industrial and Information Systems, Peradeniya, 2007, pp. 209-214.
+
+\bibitem{IEEEhowto:kopka}
+O. Jong-Hoon, C. Key-sun, I. Hitoshi, “A comparison of Different Machine Transliteration models”, Journal of Artificial Intelligence Research, pp 119- 151, 2007.
+
+\bibitem{IEEEhowto:kopka}
+L. Jiang, M. Zhou, L.F. Chien, C. Niu, “Named Entity Translation with Web Mining and Transliteration”, The International Joint Conference on Artificial Intelligence, Inc. (pp. 1629-1634). Hyderabad: Morgan Kaufmann Publishers Inc. San Francisco, CA, USA, 2007
+
+\bibitem{IEEEhowto:kopka}
+S. Mathur, V. P. Saxena, "Hybrid approach to English-Hindi name entity transliteration," 2014 IEEE Students' Conference on Electrical, Electronics and Computer Science, Bhopal, 2014, pp. 1-5 	
+
+\bibitem{IEEEhowto:kopka}
+Y. Lin, X. Pan, A. Deri, H. Ji, K. Knight, “Leveraging Entity Linking and Related Language Projection to Improve Name Transliteration”, 2016
+
+\bibitem{IEEEhowto:kopka}
+R. Grundkiewicz, K. Heafield “Neural Machine Translation Techniques for Named Entity Transliteration”, Proceedings of the Seventh Named Entities Workshop, July 2018
+  
+\bibitem{IEEEhowto:kopka}
+M. Rosca, T. Breuel “Sequence-to-sequence neural network models for transliteration”,2016
+
+\bibitem{IEEEhowto:kopka}
+S. Kundu, S. Paul and Santanu Pal, “A Deep Learning-Based Approach to Transliteration”,2018
+
+\bibitem{IEEEhowto:kopka}
+B. Hettige and S. K. Asoka, "An evaluation methodology for English to Sinhala machine translation," 2010 Fifth International Conference on Information and Automation for Sustainability, Colombo, 2010, pp. 31-36.
+
+\bibitem{IEEEhowto:kopka}
+Tennage, P., Herath, A., Thilakarathne, M., Sandaruwan, P. (2018). Transliteration and Byte Pair Encoding to Improve Tamil to Sinhala Neural Machine Translation. Moratuwa Engineering Research Conference (MERCon). Moratuwa, Sri Lanka: IEEE.
+
+\bibitem{IEEEhowto:kopka}
+M. Thayaparan, “Translation of Named Entities Between Sinhala and Tamil for Official Government Documents”, M.S. thesis, Dept. of  Comp. Science and Eng, Univ. Moratuwa, Sri Lanka, 2018.
+  
+\bibitem{IEEEhowto:kopka}
+P. Koehn, F. J. Och, D. Marcu. 2003. “Statistical phrase-based translation”, Proc. of HLTNAACL 2003, Edmonton, Canada, pp. 48-54
+  
+\bibitem{IEEEhowto:kopka}
+P. Koehn, H. Hoang, A. Birch, C. Callison-Burch, M. Federico, N. Bertoldi, B. Cowan, W. Shen, C. Moran, R. Zens, C. Dyer, O. Bojar, A. Constantin and E. Herbst. 2007. “Moses: open-source toolkit for statistical machine translation”, Proc. of ACL, Prague, Czech Republic, pp. 177- 180.
+  
+\bibitem{IEEEhowto:kopka}
+M. K. Chinnakotla, O. P. Damani. 2009. “Experiences with English-Hindi, English-Tamil and English-Kannada transliteration tasks at NEWS 2009”, In Proc. ACL/IJCNLP Named Entities Workshop Shared Task.
+
+\bibitem{IEEEhowto:kopka}
+R. Haque, S. Dandapat, A. K. Srivastava, S. K. Naskar, A. Way, “English-Hindi transliteration using context in formed PB-SMT”, In Proc. ACL/IJCNLP Named Entities Workshop Shared Task, 2009.
+
+\bibitem{IEEEhowto:kopka}
+H. M. Weerasinghe, “Transliteration of Names from English to Sinhala”, M.S. thesis, Dept. of  Comp. Science and Eng, Univ. Moratuwa, Sri Lanka, 2006.
+  
+\bibitem{IEEEhowto:kopka}
+S.C. Fernando, “Inexact matching of proper names in Sinhala”, M.S. thesis, Dept. of  Comp. Science and Eng, Univ. Moratuwa, Sri Lanka, 2007 .
+
+\bibitem{IEEEhowto:kopka}
+V. Kaur, A. K. Sarao, J. Singh, “A Review on Hindi to English Transliteration System for Proper Nouns Using Hybrid Approach”, International Journal of Emerging Trends \& Technology in Computer Science (IJETTCS), Volume 3, Issue 5, September 2014.
+  
+\bibitem{IEEEhowto:kopka}
+Y. Wu, M. Schuster, Z. Chen, Q. V Le, M. Norouzi, W. Macherey, M. Krikun, Y. Cao, Q. Gao, K. Macherey, et al. “Google’s neural machine translation system: Bridging the gap between human and machine translation”. arXiv preprint arXiv:1609.08144, 2016.
+
+\bibitem{IEEEhowto:kopka}
+P. Tennage, P. Sandaruwan, M. Thilakarathne, A. Herath, S. Ranathunga, "Neural Machine Translation for Sinhala and Tamil Languages", in International Conference on Asian Language Processing, 2017.
+
+\end{thebibliography}
+
+\end{document}
+
