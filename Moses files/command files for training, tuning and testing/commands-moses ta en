@@ -1,0 +1,57 @@
+Training
+
+cd ~/lm
+ ~/mosesdecoder/bin/lmplz -o 3 <~/corpus/data.ta-en.clean.en > data.ta-en.arpa.en  --discount_fallback     
+
+
+~/mosesdecoder/bin/build_binary \
+   data.ta-en.arpa.en \
+   data.ta-en.blm.en
+
+
+cd ~/working
+ nohup nice ~/mosesdecoder/scripts/training/train-model.perl -root-dir train \
+ -corpus ~/corpus/data.ta-en.clean                             \
+ -f ta -e en -alignment grow-diag-final-and -reordering msd-bidirectional-fe \
+ -lm 0:3:$HOME/lm/data.ta-en.blm.en:8                          \
+ -external-bin-dir ~/mosesdecoder/tools >& training.out &
+
+
+ 
+Tuning
+
+ cd ~/working
+ nohup nice ~/mosesdecoder/scripts/training/mert-moses.pl \
+  ~/corpus/data-test.true.ta ~/corpus/data-test.true.en \
+  ~/mosesdecoder/bin/moses train/model/moses.ini --mertdir ~/mosesdecoder/bin/ \
+  &> mert.out &
+
+
+Testing
+
+cd ~/working
+~/mosesdecoder/scripts/training/filter-model-given-input.pl \
+filtered-testdata mert-work/moses.ini ~/corpus/testdata.true.ta \
+-Binarizer ~/mosesdecoder/bin/processPhraseTableMin
+
+cd ~/working
+~/mosesdecoder/scripts/training/filter-model-given-input.pl \
+filtered-testdata train/model/moses.ini ~/corpus/testdata.true.ta \
+-Binarizer ~/mosesdecoder/bin/processPhraseTableMin
+
+nohup nice ~/mosesdecoder/bin/moses \
+-f ~/working/filtered-testdata/moses.ini \
+ < ~/corpus/testdata.true.ta \
+ > ~/working/testdata.translated.en \
+ 2> ~/working/testdata.out 
+ ~/mosesdecoder/scripts/generic/multi-bleu.perl \
+ -lc ~/corpus/testdata.true.en \
+ < ~/working/testdata.translated.en
+
+
+
+
+
+Run Command 
+~/mosesdecoder/bin/moses -f ~/working/mert-work/moses.ini
+~/mosesdecoder/bin/moses -f ~/working/train/model/moses.ini
