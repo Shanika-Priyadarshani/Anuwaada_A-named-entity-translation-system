@@ -1,0 +1,5793 @@
+"D" Branch
+"F" Revenue Clerk
+"F" Security Clerk
+Able Seaman
+Accident Officer
+Accident Ward
+Account and Payment Division
+Accountancy Board
+Accountant
+Accountant (Costing)
+Accountants' Service
+Accounting Branch
+Accounting Machine Operator
+Accounting Officer
+Accounting Unit
+Accounts Assistant
+Accounts Branch
+Accounts Clerk
+Accounts Division
+Accounts Office
+Accounts Section
+Accredited Agent
+Acetic Acid Factory
+Acquired Estates Section
+Acquisition Section
+Acrobat
+Act.Sub Lieutenant
+Acting Assistant Legal Draftsman
+Acting District Judge
+Acting Mills Manager
+Acting Superintendent
+Actor
+Actress
+Additional Secretary
+Additional Analyst
+Additional Assistant Government Agent
+Additional Chief Inspector
+Additional Chief Inspector of Factories
+Additional Commissioner
+Additional Conservator of Forest
+Additional Deputy Fiscal
+Additional Deputy Secretary to the Treasury
+Additional Deputy Superintendent of Stores
+Additional Director
+Additional Director of Establishment
+Additional Director of Training
+Additional District Judge
+Additional District Registrar
+Additional District Secratary
+Additional Facilities Officer
+Additional Field Welfare Officer
+Additional Govrnment Agent
+Additional Land Commissioner
+Additional Landing Surveyor
+Additional Landing Surveyor Audit and Inspection
+Additional Landing Surveyor Baggage & Preventive
+Additional Landing Surveyor Export
+Additional Landing Surveyor Imports
+Additional Landing Surveyor Long Room
+Additional Landing Surveyor Preventive and Baggage Office
+Additional Landing Surveyor Valuation
+Additional Permanent Secretary
+Additional Registrar of Lands
+Additional Survey General
+Adjutant
+Administration Area Commander
+Administration Block
+Administration Branch
+Administration Division
+Administration Manager
+Administration Officer
+Administrative Assistant to General Manager
+Administrative Officer
+Administrative Secretary
+Administrative Service
+Administrative Training Division
+Administrative Unit
+Administrative and Technical Drawing Office Assistant
+Administrative Appeals Tribunal
+Administrative Assistant
+Administrative District
+Administrative Manager
+Administrator
+Administrator Proctor
+Adminstrative Officer
+Admiral
+Admiralty
+Admiralty Cold Stores
+Admiralty Overseer
+Adult and Audiovisual Education Branch
+Adult Centre
+Adult Education
+Adult Education Centre
+Adult Education Scheme
+Advance Booking Clerk
+Advertising Agent
+Advertising Artist
+Adviser to Government
+Advisor to Minister
+Advisor to Prime Minister
+Advisor to the President
+Advisory Board
+Advisory Committee
+Advisory Council
+Advisory Division
+Advisory Field Officer
+Advisory Service
+Aerodrome Officer
+Aeronautical Inspector
+Aeronautical Officer
+Affiliated Society
+Agent
+Agrarian Services
+Agricultural Mobile Unit
+Agricultural Sales Room
+Agricultural and Agraian Insurance Board
+Agricultural and Industrial Credit Corporation
+Agricultural Corps
+Agricultural Corps Camp
+Agricultural Corps Commission
+Agricultural Corps Headquarters
+Agricultural Development Officer
+Agricultural Engineer
+Agricultural Engineering Division
+Agricultural Engineering Assistant
+Agricultural Expert
+Agricultural Instructor
+Agricultural Officer
+Agricultural Overseer
+Agricultural Production and Sales Society
+Agricultural Products and Sales Union
+Agricultural Research Officer
+Agricultural Research Officer
+Agricultural Station
+Agricultural Supervisor
+Agriculture Research Assistant
+Agriculture Research Officer
+Agriculture School
+Agriculturist
+Agronomic Assistant
+Agronomist
+Agrostologist
+Air Marshal
+Air Academy
+Air Ceylon
+Air Chief Marshal
+Air Commodore
+Air conditioner
+Air Craft Pilot
+Air Force
+Air Force Headquarters
+Air Guard
+Air Inspectorate
+Air Lines Booking Centre
+Air Mechanic
+Air Officer
+Air Sea Rescue Detachment
+Air Survey Branch
+Air Survey Pilot Project
+Air Traffic Control Officer
+Air Traffic Controller
+Air Traffic Controller and Fighter Controller
+Air Transport Services
+Air Vice Marshal
+Aircraft Examiner
+Aircraft Observer
+Airhostess
+Airman
+Airmen's Mess
+Airport Office
+Airport Controller
+Airport Fire Brigade
+Airport Fire Officer
+Airport Health Office
+Airways Communication System
+All Heads of Government Departments
+All Island Co-operative Wholesale Federation
+All Island Federation
+Ambassador
+Ambulance Service
+Ambulance Station Officer
+American Mission Hospital
+Ammunition Examiner
+Anaesthetist
+Analyst
+Analyst Programmer
+Analytical Chemist
+Analytical Laboratory
+Anglo-Vernacular Certificated Teacher
+Anglo-Vernacular Trained Certificated Teacher
+Animal Hospital
+Animal Husbandry Expert
+Animal Husbandry Farm
+Animal Husbandry Officer
+Animal Husbandry Station
+Animal Keeper
+Anky Attendant
+Anky Dispenser
+Anky Sweeper
+Announcer
+Anthropologists
+Anti-Aircraft Battery Regiment
+Anti-Filariasis Campaign
+Anti-Malaria Campaign
+Anti-natal Clinic
+Anti-Tuberculosis Institute
+Anti-V.D.Campaign
+Apothecary
+Appeal Board
+Appeal Court
+Appeal Tribunal
+Appointee
+Appraiser
+Appraiser (Customs)
+Appraiser (Postal)
+Appraising Branch
+Apprentice
+Apprentice Draftsman
+Apprentice Horsekeeper
+Apprentice Machanic
+Apprentice Machinery Supervisor
+Apprentice Superintendent (Instrument branch ) in Training
+Apprentice Superintendent Composing Machinery
+Arabic Teacher
+Arachchi
+Arbitration Board
+Archaeological Commissioner
+Archaeological Department
+Archaeological Museum
+Archaeologist
+Architect
+Architectural Branch
+Archives
+Archives Attendant
+Archivist
+Area Manager
+Armament Fitter
+Armed Guard
+Armed Reserve
+Armed Treasury Guard
+Armourer
+Arms Cleaner
+Arms, Ammunition, Armament Stores
+Army Barracks Office
+Army Civilian Stenographer
+Army Clerical Service
+Army Clerk
+Army Commander
+Army Fire Service
+Army Headquarters
+Army Recruiting Officer
+Army Storekeeper
+Army Training Instructor
+Army Training Centre
+Army Unit
+Army Workshop
+Art Master
+Art Master in Drawing and Painting
+Art Council of Ceylon
+Art Gallery
+Art Master in Sculpture
+Artcraft Master
+Arthur C Clarke Institute for Modern Technologies
+Artificer
+Artisan
+Artist
+Artist and Layout man
+Artist Designer
+Artist Label Painter
+Artist Modeller
+Arts & crafts worker (Fancy Goods)
+Arts Council Of Sri Lanka
+Assessor
+Assessor,income Tax Department
+Asset Register Clelrk
+Assistant (Vocationally Trained)
+Assistant Archaeological Commissioner
+Assistant Controller
+Assistant Factory Engineer
+Assistant Finance Clerk
+Assistant Finish Operator
+Assistant Food Controller
+Assistant Foreman
+Assistant Government Engineer and Ship Surveyor
+Assistant Government Mineralogist
+Assistant Guard
+Assistant Head Reader
+Assistant Hostel Superintendent
+Assistant Master
+Assistant Master Attendant and Pilot
+Assistant Master Technically Trained (Mechanic)
+Assistant Mills Engineer (Civil)
+Assistant Accountant
+Assistant Administrative Officer
+Assistant Advisory Officer
+Assistant Architect
+Assistant Artist
+Assistant Assessor
+Assistant Assessor (Collection)
+Assistant Assessor (Unit 1)
+Assistant Auditor General
+Assistant Book Keeper
+Assistant Botanist
+Assistant Butler
+Assistant Cameraman
+Assistant Chemist
+Assistant Chemist (Food Technology)
+Assistant Chemist (Rubber Research)
+Assistant Chemist (Soil Survey)
+Assistant Chief Engineer
+Assistant Chief Engineer (Designs)
+Assistant Chief Engineer (Research)
+Assistant Chief Storekeeper
+Assistant Clerk
+Assistant Collector
+Assistant Collector of Customs
+Assistant Commercial Manager
+Assistant Commissioner
+Assistant Commissioner (Architect)
+Assistant Commissioner (Chemist)
+Assistant Commissioner (Collection)
+Assistant Commissioner (Epigraphy)
+Assistant Commissioner (Legal Advice)
+Assistant Commissioner (Publications and Explorations)
+Assistant Commissioner (Secretariat)
+Assistant Commissioner (Unit 1)
+Assistant Commissioner for Development of Marketing
+Assistant Commissioner National Savings Movement
+Assistant Copy Writer
+Assistant Director
+Assistant Director (Commercial Service)
+Assistant Director (Development)
+Assistant Director (Economics)
+Assistant Director (Epidemiology)
+Assistant Director (Geological Survey)
+Assistant Director (Hospitals)
+Assistant Director (Language Policy)
+Assistant Director (Public Assistance)
+Assistant Director (Quarantine and International Health)
+Assistant Director (Sanitation)
+Assistant Director (Services of the Handicapped)
+Assistant Director (State Homes for the aged)
+Assistant Director (T.B.Allowance)
+Assistant Director (Technical)
+Assistant Director Establishment
+Assistant Director National Archives
+Assistant Director of Commerce
+Assistant Director of Information
+Assistant Director of Museums
+Assistant Director of Social Services
+Assistant Director of Supply and Cadre
+Assistant Director Tea Research Institute of Ceylon, Talawakele
+Assistant Director, Rural Development and Small Industries
+Assistant Director, Training
+Assistant Distrbution Manager
+Assistant Divisional Secretary
+Assistant Dredging Master
+Assistant Economic Research Officer
+Assistant Editor of Hansard
+Assistant Elections Officer
+Assistant Electrical Engincer
+Assistant Engincer
+Assistant Engincer (Non Professionally Qualified Officer)
+Assistant Engine Room Artificer
+Assistant General Manager
+Assistant General Manager (Administration)
+Assistant General Manager (Domestic)
+Assistant General Manager (Financial)
+Assistant General Manager (Foreign)
+Assistant General Manager (Staff)
+Assistant Geneticist
+Assistant Geologist
+Assistant Geologist in Training
+Assistant Government Agent
+Assistant Government Archivist
+Assistant Governor
+Assistant House Master
+Assistant House Mistress
+Assistant in Anthropology
+Assistant in Ethnology
+Assistant in Zoology
+Assistant Inquiry Clerk
+Assistant Inspector
+Assistant Inspector Harbour Lights
+Assistant Inspector of Arms
+Assistant Internal Audit Officer
+Assistant Judicial Medical Officer
+Assistant Junior Architect
+Assistant Keeper of the Museum
+Assistant Land Commissioner
+Assistant Law Officer
+Assistant Lecturer
+Assistant Lecturer in Drumming
+Assistant Lecturer in Geology
+Assistant Lecturer in Indian Dancing
+Assistant Lecturer in Low Country Dancing
+Assistant Lecturer in Vocal Music
+Assistant Ledger Clerk
+Assistant Legal Draftsman
+Assistant Legal Officer
+Assistant Librarian
+Assistant Manager
+Assistant Manager, Rehabilitation and Training Centre
+Assistant Marketing Manager
+Assistant Matron
+Assistant Mechanic
+Assistant Mechanical Engineer
+Assistant Medical Officer
+Assistant Medical Practitioner
+Assistant Mistress
+Assistant Operations Engineer
+Assistant Patrolling Officer
+Assistant Planting Officer
+Assistant Postmaster
+Assistant Postmaster-General
+Assistant Power Plant Engineer
+Assistant Preventive Officer
+Assistant Printer
+Assistant Production Engineer
+Assistant Production Manager
+Assistant Production Manager (Mill)
+Assistant Provincial Registrar
+Assistant Quality Control Chemist
+Assistant Quantity Surveyor
+Assistant Quarantine Medical Officer
+Assistant Quarry Foreman
+Assistant Radio Engineer
+Assistant Registering Officer
+Assistant Registrar
+Assistant Registrar of Books and News papers
+Assistant Registrar of Companies
+Assistant Returning Officer
+Assistant Revising Officer
+Assistant Rubber Controller
+Assistant Rubber Maker
+Assistant Rubber-Chemist
+Assistant Secio- Economics Officer
+Assistant Secretary
+Assistant Secretary ; Prime Minister's Office
+Assistant Secretary (Ministry)
+Assistant Secretary General of Parliament
+Assistant Secretary to the Cabinet
+Assistant Secretary, Bribery Tribunals and Office Assistant
+Assistant Section Storekeeper
+Assistant Security Officer
+Assistant Security Officer
+Assistant Senior Clerk
+Assistant Sergeant-at-Arms
+Assistant Settlement Officer
+Assistant Shipping Master
+Assistant Shroff
+Assistant Signal Foreman
+Assistant Soils Chemist
+Assistant Sound Recordist
+Assistant Statistician
+Assistant Storekeeper
+Assistant Storeman
+Assistant Superintendent
+Assistant Superintendent of Government Publications Bureau
+Assistant Superintendent of Map Publications
+Assistant Superintendent of Police
+Assistant Superintendent of Stores
+Assistant Superintendent of Surveys (Chief Cartographer)
+Assistant Superintendent of Surveys (Chief Programmetrist)
+Assistant Superintendent of Surveys (Chief Resources)
+Assistant Superintendent (Junior)
+Assistant Supplies Officer
+Assistant Surveyor General
+Assistant Taxidermist
+Assistant Tea Controller
+Assistant Tea Controller (Administrations)
+Assistant Tea Controller (Technical)
+Assistant Teacher
+Assistant Teachnician
+Assistant Teachnician (Photography)
+Assistant Teachnician (Workshop Practices)
+Assistant to Operator and Roll Calender
+Assistant to Operator Bead Making
+Assistant to Operator Squeeze Calender
+Assistant to Mill Operator
+Assistant to Rubber Mixer Operator
+Assistant to Strainer Operator
+Assistant to the Commercial Assistant
+Assistant to the Commercial Superintendent (Roads)
+Assistant to the Governor
+Assistant to the Sergeant-at Arms
+Assistant to Tube Extruder Operator
+Assistant to Tyre Assembly Operator
+Assistant to Tyre Repairer
+Assistant Translator
+Assistant Transport Officer
+Assistant Tread Extruder Operator
+Assistant Unit Supervisor
+Assistant Valuer
+Assistant Veterinary Surgeon
+Assistant Wharf Manager (Import)
+Assistant Wharf Manager (Traffic)
+Assistant Works Manager
+Assistant Workshop Inspector
+Associate Newspapers Of Ceylon Ltd.
+Asthma Clinic
+Astrologer
+Athlete
+Attendance Clerk
+Attendant
+Attendant, Superheated Water Plant
+Attendant,Compound Stores
+Attendant,Refrigeration
+Attestator
+Attorney at Law
+Attorney-General
+Attorney-General's department
+Auctioneer
+Audio Visual Officer
+Audit and Inspection Officer
+Audit Assistant
+Audit Branch
+Audit Clerk
+Audit Department
+Audit Examiner
+Audit Office
+Audition Panel
+Auditor
+Auditor - General
+Auditor - General's Department
+Auditor General
+Auditor Internal
+Augmentation Scheme
+Authorized Headman
+Authorized Officer
+Aviation Officer
+Ayurevedic Hospital
+Ayurvedic Doctor
+Ayurvedic Medical Council
+Bacteriological Institute
+Bacteriologist
+Bag Stitcher
+Baggage Office
+Baggage Porter
+Baker
+Bakery, Kitchen and Catering Division
+Band Master
+Band Saw Operator
+Band Saw Sharpener
+Bandaranaike International Airport
+Bandaranaike International Diplomatic Training Institute(BIDTI)
+Bandaranaike Museum(S W R D & SIRMAVO)
+Bands master
+Bank Clerks Union
+Bank of Ceylon
+Bank Staff
+Bar Keeper
+Bar Steward
+Bar-bender
+Barber
+Barge Master
+Barker
+Barrister
+Base Accountant Officer
+Basic Technical Institute
+Basic Technical Training Institute
+Basket Section
+Basket Weaver
+Basket Weavers' Society
+Bass
+Batman
+Battery - Man
+Beat Officer
+Beautician
+Benefit Association
+Berthing Staff
+Berthing Master
+Berthing Overseer
+Bhiksu University of Sri Lanka
+Bicyele Orderly
+Bilingual Reporter
+Bilingual Trained Teacher
+Binder
+Binder and Machine Operator
+Bindier, Peon
+Bindier, Telephone Operator
+Binding Foreman
+Binding Machine Operator
+Biochemist
+Biologist
+Blacksmith
+Blacksmith and Fitter
+Blacksmith's Mate
+Block Jetty
+Block Jetty Unit
+Blood Bank
+BMICH Convention & Exhibition Center
+Board
+Board of Investment of Sir Lanka (BOI)
+Board of Administration
+Board of Advisers
+Board of Agriculture
+Board of Appeal
+Board of Assessment
+Board of Assessors
+Board of Commissioners
+Board of Commissioners of Currency
+Board of Conciliation
+Board of Customs and Excise
+Board of Directors
+Board of Editors
+Board of Education
+Board of Examiners
+Board of Governors
+Board of Health
+Board of Improvement Commissioners
+Board of Income Tax
+Board of Indian Immaigration Labour
+Board of Indigenous Medieine
+Board of Inquiry
+Board of Management
+Board of Ministers
+Board of Prison Visitors
+Board of Quarantine
+Board of Quazis
+Board of Regents
+Board of Reviw
+Board of Survey
+Board of Tea Research Institute of Ceylon
+Board of Trustees of the Lady Lochore Loan Fund
+Board Room
+Boat - house
+Boat - house Clerk
+Boat - Maker
+Boat Builder
+Boat Building Carpenter
+Boat Coxswain
+Boat Mechanic
+Boat Note Passing Officer
+Boat Operator
+Boat Shop
+Boat Yard
+Boatman
+Boiler Attendant
+Boiler Attendant, Fitter
+Boiler Fireman
+Boiler Houseman
+Boiler Inspector
+Boiler Maker
+Boiler Mechanic
+Boiler Operator
+Boiler Shop
+Boiler Supervisor
+Boiler Washer
+Boilerman
+Book Binder
+Book Binder and Book Repairer
+Book Keeper
+Booking Clerk
+Booking Officer
+Boom Defence Depot
+Boom Defence Officer
+Boom Defence Storage Area
+Boom Defence Stores
+Boring Apparatus Operator
+Boring Operator Mechanic
+Botanical Gardens
+Botanist
+Botanist and Senior Agricultural Research Officer
+Botanist's Station
+Botany Division
+Box Repairer
+Boy Scout
+Boy Scout Association
+Boys' Brigade
+Brackish Water Fisheries
+Branch
+Branch Cashier
+Branch Manager
+Break Water
+Break-down Van
+Bribery Tribunal
+Bribery Commission
+Bribery Commission ( Commission to Investigate Allegations of Corruption Office of the)
+Bribery Commissioner
+Bribery Commissioner's Department
+Brick Layer
+Brick Worker's Society
+Bridge Branch
+Bridge Consultant of the Crown Agent
+Bridge Foreman
+Bridge Inspector
+Brigade Commander
+Brigadier
+British Administrative Officer
+British Broadcasting Corporatrion
+British Commenwealth Scientific Fund
+British Rubber Research Board
+British Scientific Office, London
+British Soldiers' and Sailors' Institute
+Broker
+Buddhist and Pali University of Sri Lanka
+Buddhist Congress Infants' Home
+Buddhist Temporalities
+Buddhist Temporalities Advisory Board
+Builder
+Builders' Society
+Building Caretaker
+Building Charge-hand
+Building Clerk
+Building Foreman
+Building FundForeman
+Building Inspector
+Building Materials Corporation Ltd
+Building Overseer
+Building Repairman
+Building Supervisor
+Bull-dozer Driver
+Bull-dozer and Tractor Driver
+Bundler
+Bungalow Keeper
+Bungalow Keeper, Speaker's Residence
+Bunkering Supervisor
+Bureau
+Bureau for Commnwealth Technical Co-operation in South and South-East Asia
+Bureau of Ceylon Standards
+Burner
+Bursar
+Bus Conductor
+Bus Driver
+Business Intelligence Officer
+Business Turnover Tax Branch
+Butler
+Buyer
+Cab Cleaner
+Cab Driver
+Cabin Lad
+Cabinet
+Cabinet Planning Committee
+Cabinet Clerk
+Cabinet Minister
+Cabinet Office
+Cable Jointer
+Cadet
+Cadress Commission
+Call Boy
+Call Office
+Camera Maintenance Technician
+Camera man
+Camera Operator
+Camp Commandant
+Camp Inspector
+Camp Labourer
+Camp Overseer
+Camp Storekeeper
+Camper
+Cancer Clinic
+Cancer Hospital
+Cancer Institute
+Candidate
+Cane weaver
+Canning and Processing Section
+Canteen Clerk
+Canteen Society
+Canteen Supervisor
+Canvasser
+Captain
+Captain for the Week
+Captain of the Navy
+Car Park
+Cardboard Factory
+Cardiologist
+Caretaker
+Cargo Pool
+Carpenter
+Carpenter and Blacksmith
+Carpenter Baas
+Carpentry Instructor
+Carpentry Mutual Society
+Carpentry Section
+Carpentry Shop
+Carpentry Supervisor
+Carpentry Workshop
+Carpets Weaver
+Carriage Cleaner
+Carriage Examiner
+Carriage Siding
+Cartage and Carrier Service Branch
+Cartographer
+Cartoonist
+Cash Book Clerk
+Cash Counter
+Cashier
+Cast Latex Finisher
+Castel Steert Hospital for Women
+Caster Attendant
+Casual Clerk
+Casual Conservancy Labourer
+Casual Employee
+Casual Labourer
+Casual Relief Officer
+Casual Watcher
+Casualty Clearing Station
+Cataloguing Assistant
+Catering Adviser
+Cattle Breeding Station
+Cattle Farm
+Cattle Pen Keeper
+Cattle Quarantine Station
+Cattle- Keeper
+Caveator
+Cement - Keeper
+Cement Factory
+Cement Section
+Cement Storage Shed
+Cement Store
+Cementery - Keeper
+Cemetery Caretaker/Keeper
+Census Circle
+Census Section
+Center Cultural Fund
+Centeral Environmental Authority
+Central Engineering Consultancy Bureau
+Central Advisory Council
+Central Bank
+Central Bank of Ceylon
+Central Bank of Sri Lanka
+Central Board of Agriculture
+Central Control Staff
+Central Designs and Research Office
+Central Dispensary
+Central Duplicating Section
+Central Employment Exchange
+Central Garage and Servicing Station
+Central Gevernment
+Central Industrial Workshop
+Central Linen Storeroom
+Central Market
+Central Office
+Central People's Depot
+Central Planning Commission
+Central Police Garage
+Central Power Station
+Central Probation Board
+Central Salvage Depot
+Central School
+Central Stores of the Department of Industries
+Central Telegraph Office
+Central Trunk Exchange
+Central Weaving Institute
+Central Workshop and Stores
+Centralized Staff
+Ceramic Assistant
+Ceramic Chemist
+Ceramic Factory
+Ceramic Research Laboratory
+Ceramic section
+Certificated Teacher
+Certified Industrial School
+Certified School
+Certifying Officer
+Ceylon German Technical Training Institute
+Ceylon Air Force
+Ceylon Ambassador
+Ceylon Ambassador in U.S.S.R.
+Ceylon Ambassador in China
+Ceylon Ambassador in Japan
+Ceylon Ambassador in the U.S.A.
+Ceylon Army
+Ceylon Army Medical Corps
+Ceylon Army Service Corps
+Ceylon Army Service Corps Camp
+Ceylon Association for the Advancement of Science
+Ceylon branch of the Commonwealth Parliament Association
+Ceylon Broadcasting Corporation
+Ceylon Cadet Corps
+Ceylon Cadet Corps (junior Cadets)
+Ceylon Cadet Corps Contingent
+Ceylon Cement Corporation
+Ceylon Ceramic Corporation
+Ceylon Civil Service
+Ceylon Commercial Certificated Teacher
+Ceylon Commissioner in Singapore and the Federation of Malaya
+Ceylon Defence Force
+Ceylon Discharged Prisoners' Aid Association
+Ceylon Economic Society
+Ceylon Electricity Board
+Ceylon Engineers
+Ceylon Fis
+Ceylon Fisheries Corporation
+Ceylon Garrison
+Ceylon Geographical Association
+Ceylon Government Press
+Ceylon Government Railway
+Ceylon Group of Inter Parliamentary Union
+Ceylon Hardboard Corporation
+Ceylon High Commissioner
+Ceylon High Commissioner in Australia
+Ceylon High Commissioner in Canada
+Ceylon High Commissioner in India
+Ceylon High Commissioner in Pakistan
+Ceylon High Commissioner in U.K.
+Ceylon Historical Manuscripts Commission
+Ceylon Hotels Corporation PLC
+Ceylon House
+Ceylon Institute of Scientific and Industrial Research
+Ceylon Labour Commission
+Ceylon Legation
+Ceylon Light Infantry
+Ceylon Medical Corpos
+Ceylon Medical Council
+Ceylon Medical Library
+Ceylon Member of the Judicial Committee of the Privy Council
+Ceylon Mincral sands Corporation
+Ceylon Minister in Burma
+Ceylon Minister in Egypt
+Ceylon Minister in France
+Ceylon Minister in Itlay
+Ceylon Minister in Netherlands
+Ceylon Minister in West Germany
+Ceylon Mission
+Ceylon National Association for the Prevention of Tuberculosis
+Ceylon National Museums
+Ceylon Naval Reserve Force
+Ceylon Overseas Mission
+Ceylon Petroleum Corporation
+Ceylon Plywoods Corporation
+Ceylon Police Corps
+Ceylon Police Service
+Ceylon Postal Department
+Ceylon Products Shop
+Ceylon Royal Artillery
+Ceylon Royal Navy Volunteer Regiment
+Ceylon Savings Bank
+Ceylon School for the Deaf and Blind
+Ceylon Signal Squadron
+Ceylon State Mortgage Bank
+Ceylon Techical College
+Ceylon Techical College Department
+Ceylon Trade Commissioner in Bombay
+Ceylon Transport Board
+Ceylon Travel Centre
+Ceylon Volunteer Force
+Ceylon Worker's Congress
+Ceylon's Permanent Representative to the United Nations
+Chain Testing Yard
+Chairman
+Chairman, Debt Conciliation Board
+Chairman's Panel
+Chalk Factory
+Chambers of Commerce
+Chancellor
+Changing Room
+Charge-hand
+Charge-hand Fitter
+Charged' Affaires
+Charges Officer
+Charitable Society
+Charity Commissioner
+Chartered Accountant
+Chartered Institute
+Charterer
+Chaser
+Chauffeur
+Check Weighment Shed
+Check Equipment Shed
+Checker
+Checker and Rolls Caster
+Checking Station
+Checking Officer
+Chemical Assistant
+Chemical Engineer
+Chemical Engineer
+Chemical Laboratory
+Chemical Technologist
+Chemist
+Chemistry Division
+Chest Clinic
+Chest Hospital
+Chief Accountant
+Chief Accountant's Department
+Chief Accountant's Office
+Chief Administrative Officer
+Chief Advisory Officer
+Chief Aeronautical Inspector
+Chief Air Traffic Controller
+Chief Appraiser
+Chief Architect
+Chief Assistant Appraiser
+Chief Assistant Charges Officer
+Chief Assistant Reader
+Chief Book-keeper
+Chief Cashier
+Chief Cashier, Goods
+Chief Clerk
+Chief Education Officer
+Chief Engineer
+Chief Engineer (Mechanical Branch)
+Chief Engineer ( Port of Colombo)
+Chief Engineer (Way and Works)
+Chief Engineer (Bridges)
+Chief Engineer (Construction and Maintenance)
+Chief Engineer (Construction, Mechanical and Electrical)
+Chief Engineer (Construction)
+Chief Engineer (Designs and Investigations)
+Chief Engineer (Designs)
+Chief Excise Inspector
+Chief Export Officer
+Chief Government Whip
+Chief Headman
+Chief Inspector
+Chief Inspector of Pirivenas
+Chief Inspector of Home Science
+Chief Inspector of Physical Education
+Chief Inspector of Physical Training
+Chief Inspector of Police
+Chief Inspector of Schools
+Chief Internal Audit
+Chief Investigating Officer
+Chief Jailer
+Chief Justice
+Chief Legal Officer
+Chief Magistrate
+Chief Mechancial Engineer
+Chief Mechanic
+Chief Metallurgist
+Chief Minister
+Chief Minister Provincial Council
+Chief Nursing Officer
+Chief Nursing Officer (Medical Services)
+Chief Nursing Officer (Public Health Services)
+Chief Occupant
+Chief of Staff
+Chief Office
+Chief Planning Commissioner
+Chief Planning Export
+Chief Postmaster
+Chief Postmaster General
+Chief Power Station Engineer
+Chief Proof Reader
+Chief Quantity Surveyor
+Chief Reporter and Editor of Hansard
+Chief Research Officer
+Chief Resident Engineer (Hydro-Electric Scheme)
+Chief Secretary
+Chief Secretary/Additional (Provincial Council)
+Chief Security Officer
+Chief Signals Officer
+Chief Statistical Officer
+Chief Stenographer
+Chief Storekeeper
+Chief Supervisor
+Chief Technical Officer
+Chief Technical Officer (Wireless)
+Chief Telecommunication Engineer
+Chief Telegraph Master
+Chief Translator
+Chief Valuer
+Child Guidance and young People's Clinic
+Child Welfare Association
+Child Welfare Department
+Child Worker
+Children's clinic
+Children's Home
+Children's Hospital
+Children's Magistrate
+Choreographer
+Cine Cameraman
+Cinema Operator
+Cinema Technician
+Circle Inspector
+Circle Office
+Circle Officer
+Circuit Bangalow
+Circuit Bangalow Keeper
+Circuit Bangalow Keeper Cum Cook
+Circuit Court
+Circuit Court House
+Circuit Messenger
+Circuit Officer
+Citizenship Immigration and Emigration Division
+City Analyist's Office
+City Coroner
+City Microbiologist
+Civil Administration
+Civil Administrative Officer
+Civil Authorities
+Civil Aviation
+Civil Aviation Authority of Sir Lanka
+Civil Aviation Department
+Civil Contingencies Fund
+Civil Court
+Civil Engineer
+Civil Engineering Department
+Civil Establishment
+Civil Force
+Civil Hospital
+Civil List Officer
+Civil Medical Stores
+Civil Pensioner
+Civil Prisoner
+Civil Servant
+Civil Service
+Civil Service Cadet
+Civil Works Superintendent
+Civilian
+Civilian Administrative Officer
+Civilian Staff
+Civilian Witness
+Cleaner
+Clearing Clerk
+Clerical Assistant
+Clerical Officer
+Clerical Servant
+Clerical Service
+Clerical Staff
+Clerk
+Clerk of Works
+Clerk Quasi Clerical Service
+Clerk Receptionist, Telephonist
+Clerk to the Board of Review (Income-Tax Department)
+Clerk Typist
+Clerks duty Room
+Clicker
+Clinic
+Cloak Room Boy
+Clown
+Co-Operative Society
+Co-Operative Bank
+Co-Operative Central Market
+Co-Operative Circle Inspector
+Co-Operative Collecting Depot
+Co-Operative Congress
+Co-Operative Department
+Co-Operative Federation
+Co-Operative Holiday Home
+Co-Operative Industrial Officer
+Co-Operative Inspector
+Co-Operative Provincial Bank
+Co-Operative Sales Society
+Co-Operative Stores
+Co-Operative Union
+Co-Operative Union Hospital Society Ltd.
+Co-Operative Administrative Service
+Co-Operative Agricultural Produce and Sales Society
+Co-Operative Wholesale Estabilishment
+Co-ordinated Rail Road Service
+Co-ordinating Officer
+Co-ordinating Committee
+Co-Pilot Navigator
+Coach Repair Shop
+Coal Clerk
+Coal Well Builder
+Coaling Jetty
+Coast Erosion and Coast Lights Advisory Staff
+Coast Lights Advisory Staff
+Coast Lights Service
+Coast Protection Division
+Coast Protection Works
+Coast Station
+Coconut Research Institute
+Coconut Board
+Coconut Cultivation Board
+Coconut Development Authority
+Coconut Oil Facility Scheme
+Coconut Rehabilitation Department
+Coconut Rehabilitation Scheme
+Coconut Replanting Scheme
+Coconut Research Institute
+Coconut Research Institute of Ceylon
+Coconut Research Scheme
+Coil Winder
+Coir and Mat Section
+Coir Baskets, Lace and Needle Work Section
+Coir Factory
+Coir Instructor
+Coir Section
+Coir Workers' Society
+Cold Stores
+Cold Stores Plant
+Collecting Agent
+Collecting Branch
+Collecting Centre
+Collecting Centre Master
+Collecting Station
+Collection Book
+Collector of Customs
+Collector of Inscription
+Collector of Specimens
+Collector of Specimens for Ethnological Survey
+College of Engineering
+College of Indigenous Medicine
+Colombo Air Port
+Colombo City Food Distribution Scheme
+Colombo Electricity Supply Clerk
+Colombo Fumigatorium
+Colombo Light House
+Colombo Municipal Council
+Colombo North Genral Hospital
+Colombo Office Peon
+Colombo Plan
+Colombo Plan Exhibition
+Colombo Plan for Co-operative Economic Development in South and South-East Asia
+Colombo Plan Technical Assistance Scheme
+Colombo Port Commission
+Colombo Social Service League
+Colombo South Genral Hospital
+Colonel
+Colonial Court of Admiralty
+Colonial Development Fund
+Colonial Office
+Colonial Secretary
+Colonisation Officer
+Colonist
+Colonization Board
+Colonization Scheme
+Combined Services
+Commandant
+Commander
+Commentator
+Commerce Branch
+Commerce Department
+Commercial Adviser
+Commercial Assistant
+Commercial Assistant (Loans)
+Commercial Assistant (Marketing)
+Commercial Certificate
+Commercial Certificate Examination
+Commercial Counsellor
+Commercial Department
+Commercial Division
+Commercial Intelligence Officer
+Commercial Labour Canteen
+Commercial Office
+Commercial Officer
+Commercial Production Supervisor
+Commercial Secretary
+Commercial Section
+Commercial Service
+Commercial Superintendent
+Commercial Teacher
+Commercial Traveller
+Commercialized Government Department
+Commission
+Commission Agent
+Commission of Inquiry
+Commission on Marriage and Divorce
+Commission to Investigate Allegations of Corruption Office of the
+Commissionaire
+Commissioned Officer
+Commissioner
+Commissioner (Elections)
+Commissioner and Registrar
+Commissioner for the Registration of Indian and Pakistan Residents
+Commissioner for Workman's Compensation
+Commissioner for Agricultural Development and Marketing
+Commissioner for Commodity Purchase
+Commissioner for Development of Indigenous Medicine
+Commissioner for War Risk Insurance
+Commissioner General
+Commissioner of Census
+Commissioner of Co-operative Development
+Commissioner of Co-operative Development and Registrar of Co-operative Societies
+Commissioner of Commodity Purchase
+Commissioner of Cottage Industries
+Commissioner of Agrarian Services
+Commissioner of Agricultural Corps
+Commissioner of Assize
+Commissioner of Ayurveda
+Commissioner of Educational Publications
+Commissioner of Elections
+Commissioner of Estate Duty
+Commissioner of Examinations
+Commissioner of Excise
+Commissioner of Income Tax
+Commissioner of Income Tax, Estate Duty and Stamps
+Commissioner of Inland Revenue
+Commissioner of Labour
+Commissioner of Lands
+Commissioner of Legislative Enactments
+Commissioner of Local Government
+Commissioner of Local Government
+Commissioner of Mosques and Muslim Charitable Trusts
+Commissioner of Motor Traffic
+Commissioner of Motor Transport
+Commissioner of National Languages
+Commissioner of Oaths
+Commissioner of Parliamentary Elections
+Commissioner of Prisons
+Commissioner of Prisons and Probationary Services
+Commissioner of Requests
+Commissioner of Requests and Additional District Judge
+Commissioner of Stamps
+Commissioner of Swabasha
+Commissioner of Tea Exports
+Commissioner, Agricultural Corps
+Commissioner, Compensation Claims
+Commissioner, Department of Agrarian Services
+Commissioner, Loan Boards
+Commissioner, Marketing Department
+Commissioner, National Savings Movement
+Committee
+Committee Member
+Committee of Inquiry
+Committee of Investigation
+Committee of Management
+Committee of Public Accounts
+Commodore
+Commodore Royal Ceylon Nevy
+Common Agent
+Common Facilities Oil Scheme
+Common good Fund
+Common Office
+Commonwealth
+Commonwealth Parliamentary Association
+Commonwealth Parliamentary Conference
+Commonwealth Affairs Sub-Division
+Commonwealth Agricultural Bureau
+Commonwealth Broadcasting Conference
+Commonwealth Commissioner
+Commonwealth Consultative Committee
+Commonwealth Economic Committee
+Commonwealth High Commissioner
+Commonwealth Institute of Biological Control
+Commonwealth Institute of Entomology
+Commonwealth Mycological Institute
+Commonwealth Shipping Committee
+Commonwealth Telecommunication Board
+Communal Fund
+Communication Electrician
+Communication Sub-Division
+Community Center
+Community Development Officer
+Companion
+Company
+Compensation Claims Department
+Compensation Tribunal
+Compensation Branch
+Compensation Claims and Compensation Tribunal
+Composer
+Composing Foreman
+Composing Machinery
+Compositor
+Compounder
+Comptometer Operator
+Computer Operator
+Computer Operator
+Computer Programmer
+Conciliation Board
+Conciliation Division
+Conciliation Officer (Labour)
+Condominium Management Authority
+Conductor
+Confidential Branch
+Confidential Branch Foreman
+Confidential Clerk
+Confidential Secretary
+Confidential Stenographer to the Prime Minister
+Conservancy and Garden Labourer
+Conservancy and Scavenging Labourer
+Conservancy Kangany
+Conservancy Labourer
+Conservancy Porter
+Conservation Assistant
+Conservator
+Conservator of Forest
+Constable
+Construction Unit
+Construction Account Clerk
+Construction and Maintenance Branch
+Construction Engineer
+Construction Industry Development Authority (CLDA)
+Construction Officer
+Construction Overseer
+Construction Staff
+Construction Superintendent
+Consul
+Consul-General
+Consular Officer
+Consular Representative
+Consulate
+Consultant
+Consultant Clinic
+Consultation Room
+Consultative Committee
+Consulting Engineer
+Consumer Affairs Authority
+Consus and Statistics Department
+Contingencies Fund
+Contract Clerk
+Contract Officer
+Contractor
+Contracts Branch
+Contribution Fund
+Contributory National Provident Found Scheme
+Control Fund
+Controller
+Controller of Distribution of Subsidiary Food Stuffs
+Controller of Establishments
+Controller of Exchange
+Controller of Explosives
+Controller of Export
+Controller of Finance
+Controller of Finance and Supply
+Controller of Immigration and Emigration
+Controller of Imports and Exports
+Controller of Industrial Products
+Controller of Labour
+Controller of Post Offices
+Controller of Prices
+Controller of Prices (Food)
+Controller of Programmes
+Controller of Supply and Cadre
+Controller of Supply, Cadre and Finance
+Controller Operations (Air Transport)
+Controlling Office
+Controlling Officer
+Controlling Post Master
+Controlling Post Office
+Convicting Court
+Cook
+Cooper Smith
+Copy Holder
+Copyist
+Coroner
+Corporal
+Corporation
+Corporl
+Corps
+Correspondence Branch
+Correspondence Clerk
+Correspondent Bank
+Corsettier
+Cost Accountant
+Cost Clerk
+Costing Officer
+Cottage Crafts
+Cottage Industrial Workshop
+Cottage Industries Division
+Cottage Worker
+Council
+Council of Legal Education
+Counsel
+Counseller
+Counseller (Overseas Service)
+Counseller (Commercial Overseas Service)
+Counseller. Foreign Relations
+Counter
+Counter Clerk
+Counterman
+Counting Centre
+Counting Officer
+Counting Agent
+Courier
+Court
+Court Interpreter
+Court Assistant
+Court Keeper
+Court Martial
+Court of Production
+Court of Appeal
+Court of Criminal Appeal
+Court of Law
+Court of Requests
+Court Officer
+Courthouse Watcher
+Coxswain
+Craft Instructor
+Craftsman
+Crane Driver
+Crane Operator
+Creative Artist (Other)
+Creative Painter
+Creche
+Creche Matron
+Credit Officer
+Credit Societies of Limited Liability
+Credit Society
+Credit Union
+Crew
+Crier and Usher
+Crime Police
+Criminal Court
+Criminal Investigation Department
+Criminal Records Office
+Critic
+Crown Advocate
+Crown Agent
+Crown Agents Branch
+Crown Conveyancer
+Crown Counsel
+Crown Counsellor / State Counsellor
+Crown Forest
+Crown Lawyer
+Crown Proctor
+Cultivation Officer
+Cultivation Service
+Cultivation Staff
+Cultivation Superintendent
+Cultural Officer
+Culturlal Assistant
+Culturlal Branch
+Curator
+Custodian of Enemy Property
+Customs Aerodrome
+Customs Authorities
+Customs Clerical Service Executive Class
+Customs Clerical Service General Class
+Customs Department
+Customs Department Baggage Office
+Customs Examinations Station
+Customs Guard
+Customs House
+Customs Jetty
+Customs Registrar
+Customs Tariff Bureau
+Customs Union
+Cutlery Store
+Cutter
+Cycle Messenger
+Cycle Orderly
+Cycle Overseer
+Cycle Postman
+Cypher Operator
+D.D.T.Caustic Soda and Chlorine Project
+Daily Paid Labourer
+Daily Paid Messenger
+Daily Paid Peon
+Daily Paid Staff
+Dairy Assistant
+Dairy Attendant
+Dairy Development Officer
+Dairy Farm
+Dairy Manager
+Dancer
+Dancing Teacher
+Dark Room
+Dark Room Assistant and Operator
+Dark Room Attendant
+Data and Records Branch
+Day Book Clerk
+Day Nursery
+De Soysa Hospital for Women
+Deaf and Blind School
+Dean
+Debt Conciliation Board
+Debt Reduction Board
+Deck Hand
+Deeds Branch
+Deeds Clerk
+Deep Ray Therapy Section
+Deep Water Quay
+Defence and Security Division
+Defence Division
+Defence Finance Officer
+Defence Force
+Defender
+Defending Officer
+Delimitation Commission
+Delivery Agent
+Delivery Branch
+Delivery Inspector
+Delivery Officer
+Demonstration Centre
+Demonstrator
+Demonstrator in Anatomy
+Demonstrator in Animal Husbandry
+Demonstrator in Rasa
+Demonstrator in Science
+Demonstrator/Tutor
+Dental Assistant
+Dental Clini
+Dental Hospital
+Dental Institute
+Dental Mechanic
+Dental Nurse
+Dental Officer
+Dental Room Assistant
+Dental Sister Tutor
+Dental Surgeon
+Dentist
+Department
+Department for Co-operative Development
+Department for Registration of Indian and Pakistani Residents
+Department of Christian Religious Affair
+Department of Animal Producation & Health
+Department of Cooperative Development
+Department of Pathology of the Faculty of Medicine
+Department of Rubber Commissioner
+Department of Social Services
+Department of Sri Lanka Railways
+Department of Tea Exports
+Department of Town and Country Planing
+Department of Agrarian Services
+Department of Agriculture
+Department of Approved and Certified Schools
+Department of Broadcasting
+Department of Buildings
+Department of Census and Statistics
+Department of Civil Aviation
+Department of Civil Security
+Department of Coast Lights
+Department of Commerce
+Department of Commodity Paurchase
+Department of Community Based Correction
+Department of Control of Imports and Exports
+Department of Cottage Industries
+Department of Cultural Affairs
+Department of Debt Conciliation Board
+Department of Development Finance
+Department of Economic Research
+Department of Educational Publications
+Department of Elections (Local Bodies)
+Department of Examinations
+Department of Exchange Control
+Department of Excise
+Department of External Affairs (Abroad)
+Department of External Resources
+Department of Fisheries
+Department of Food Commissioner's
+Department of Food Production
+Department of Forest
+Department of Government Electrical Undertakings
+Department of Government Factory
+Department of Government Information
+Department of Government Press
+Department of Health
+Department of Highways
+Department of Hindu Religious and Cultural Affairs
+Department of Immigration and Emigration
+Department of Immigration and Emigration and Registration of Indian and Pakistani Residents
+Department of Income Tax, Estate Duty and Stamps
+Department of Indigenous Medicine
+Department of Industries
+Department of Information
+Department of Inland Revenue
+Department of Internal Audit
+Department of Land Developoment
+Department of Land Settlment
+Department of Land Use Policy planning
+Department of Local Government
+Department of Manpower and Employment
+Department of Measurements units ;Standards and Services
+Department of Merchant Shipping
+Department of Meteorology
+Department of Mineralogy
+Department of Mosques and Muslim Charitable Trusts
+Department of Motor Traffic
+Department of National Zoological Gardens
+Department of National Archives
+Department of National Botanic Gardens
+Department of National Housing
+Department of National Museums
+Department of National Physical Planning
+Department of National Planning
+Department of National Savings
+Department of Parliamentary Elections
+Department of Physical Medicine
+Department of Physical Medicine and Rehabilitation
+Department of Posts and Telecommunications
+Department of Prisons and Probation
+Department of Probation and Child Care Services
+Department of Public Health and Preventive Medicine
+Department of Public Security
+Department of Public Debt
+Department of Public Works
+Department of Registaration of Persons
+Department of Registrar General
+Department of Registrar of Books and News Papers
+Department of Registrar of Companies
+Department of Rubber Development
+Department of Rural Development
+Department of Rural Development and Cottage Industries
+Department of Sanitary Services
+Department of Social Services
+Department of Sports Deveopment
+Department of Sri Lanka Air Force
+Department of Sri Lanka Police
+Department of State Account
+Department of Technical Education & Training
+Department of Telecommunications
+Department of Textile Industry
+Department of the Commissioner for the Registration of Indian and Pakistani Residents
+Department of the Commissioner of Labour
+Department of the Legal Draftsman
+Department of the Attorney-General
+Department of the Auditor-General
+Department of the Bribery Commissioner
+Department of the Colombo Port Commission
+Department of the Government Archivist
+Department of the Port Commissioner
+Department of the Public Trustee
+Department of the Registrar of Marriages Births and Deaths
+Department of Treasury Operations
+Department of Water Supply, Drainage and Coast Protection
+Department of Wild Life Protection
+Department of Wildlife Conservation
+Departmental Clerk
+Departmental Press
+Departmental Staff
+Departmental Workshop
+Deposit Account Clerk
+Depot
+Depot Inspector
+Depot Keeper
+Depot Labourer
+Depot Master
+Depot Overseer
+Depot Superintendent
+Depot Watcher
+Deputy
+Deputy Analyst
+Deputy Assistant Adjutant-General
+Deputy Assistant Quarter Master General
+Deputy Audit Officer
+Deputy Auditor - General
+Deputy Auditor General
+Deputy Chairman of Commitees
+Deputy Chief Accountant
+Deputy Chief Accountant (Banking)
+Deputy Chief Accountant (Currency)
+Deputy Chief Architect
+Deputy Chief Cashier
+Deputy Chief Engineer
+Deputy Chief Engineer, Mechanical Branch
+Deputy Chief Postmaster
+Deputy Chief Postmaster (Registration)
+Deputy Chief Secretary
+Deputy Collector
+Deputy Collector of Customs
+Deputy Commercial Manager
+Deputy Commissioner
+Deputy Commissioner (Assessments)
+Deputy Commissioner (Investigation)
+Deputy Commissioner (Organisation)
+Deputy Commissioner Co-operative Development
+Deputy Commissioner for Development of Marketing
+Deputy Commissioner of Elections
+Deputy Commissioner of Examinations
+Deputy Commissioner of Labour
+Deputy Commissioner of Local Government
+Deputy Commissioner of Parliamentary Elections
+Deputy Commissioner of Prisons
+Deputy Commissioner; National Savings Movement
+Deputy Conservator of Forest
+Deputy Controller
+Deputy Controller of Exchange
+Deputy Controller of Exchange (Investigations)
+Deputy Controller of Imports and Exports
+Deputy Director
+Deputy Director (Administration)
+Deputy Director (Central Zone)
+Deputy Director (Public Health Services)
+Deputy Director Cottage Industries
+Deputy Director of Agricullture
+Deputy Director of Bank Supervision
+Deputy Director of Commerce
+Deputy Director of Economic Research
+Deputy Director of Economics
+Deputy Director of Fisheries
+Deputy Director of Fisheries(Research)
+Deputy Director of Food Supplies (Distribution)
+Deputy Director of Health and Medical Services
+Deputy Director of Industries
+Deputy Director of Irrigation
+Deputy Director of National Planning
+Deputy Director of Social Services
+Deputy Director of(Medical Services)
+Deputy Director ofGeological Survey
+Deputy Director- General
+Deputy Director- General of Education (Elementary Education)
+Deputy Director- General of Education (Secondary Education)
+Deputy Director- General of Education (Techmical Education)
+Deputy Director, (Medical Services)
+Deputy Director, (Northern Zone)
+Deputy Director, Geological Survey
+Deputy Fiscal
+Deputy Food Commissioner and Deputy Director of Food Supplies
+Deputy Food Commissioner, Deputy Food Controller and Duputy Controller of Prices (Food) for the whole Island
+Deputy Food Controller
+Deputy Food Controller (Estates Work)
+Deputy General Manager
+Deputy Government Analyst
+Deputy Government Mineralogist
+Deputy Governor
+Deputy Inspector General of Police
+Deputy Jailor
+Deputy Jailor
+Deputy Judicial Medical Officer
+Deputy Land Commissioner
+Deputy Law Officer
+Deputy Legal Draftsman
+Deputy Mayor
+Deputy Medical Registrar
+Deputy Minister (Cabinet/Provincial Council)
+Deputy Municipal Commissioner
+Deputy Personnel Manager
+Deputy Public Trustee
+Deputy Registrar
+Deputy Registrar of Companies
+Deputy Secretary
+Deputy Secretary (Welfare)
+Deputy Secretary General of Parliament
+Deputy Secretary to the Treasury
+Deputy Solicitor-General
+Deputy Speaker
+Deputy Superintendent of Census
+Deputy Superintendent of Stores
+Deputy Superintendent of Stores (Reilway)
+Deputy Superintendent, EPF
+Deputy Surveyor-General
+Deputy Warden
+Deputy Warden of the Standard
+Designer
+Designer and Lithographer
+Designer Draughtsman
+Designs and Architectural Inspector
+Designs and Research Section
+Designs Architectural Branch
+Designs Engineer
+Designs Engineering Branch
+Despatch Assistant
+Despatch Clerk
+Despatcher
+Despatching Officer
+Detaining Officer
+Development Engineer
+Development Advisory Council
+Development Agency
+Development and Planning Engineer
+Development Board
+Development Division
+Development Finance Corporation of Ceylon
+Development Loan Fund
+Development Lotteries Board
+Development Manager
+Development Officer
+Diabetic Clinic
+Dictaphone Operator
+Dictionary Assistant
+Diesel Operator
+Diet Rool Keeper
+Dietician
+Dieting Branch
+Digestor
+Diplomatic Agent
+Diplomatic Representative
+Diplomatist
+Dipping Machine Operator
+Director
+Director Claims
+Director General
+Director of Administration
+Director of Agriculture
+Director of Bank Supervision
+Director of Broadcasting
+Director of Broadcasting National Service
+Director of Census
+Director of Census and Statistics
+Director of Civil Aviation
+Director of Colonial Students
+Director of Commerce
+Director of Commerce and Controller of Imports and Exports
+Director of Commodity Purchase
+Director of Cottage Industries
+Director of Cultural Affairs
+Director of Development
+Director of Economic Research
+Director of Economics
+Director of Education
+Director of Education (Elementary Education)
+Director of Education (Secondary Education)
+Director of Education (Teacher Training and Junior University Colleges)
+Director of Education (Work Experience)
+Director of Engineering Production
+Director of Establishments
+Director of Finance
+Director of Finance and Civil Administration
+Director of Fisheries
+Director of Food Production
+Director of Food Supplies
+Director of Foreign Aid
+Director of Foreign Relations
+Director of Government College of Fine Arts
+Director of Government Film Unit
+Director of Government Tourist Bureau
+Director of Health Services
+Director of Health Services and Deputy Secretary, Ministry of Health
+Director of Health and Medical Services
+Director of Industrial Development
+Director of Industries
+Director of Information
+Director of Irrigation
+Director of Laboratory Services
+Director of Land Development
+Director of Legal
+Director of Mechanical Engineering
+Director of Medical and Sanitary Services
+Director of Medical Research Institute
+Director of Medical Services
+Director of Merchant Shipping
+Director of Meteorology
+Director of National Museums
+Director of National Planning
+Director of National Services
+Director of Organization and Methods
+Director of Pensions
+Director of Philatelic Bureau
+Director of Pioneer Labour
+Director of Programmes
+Director of Public Works
+Director of Regulation of Industries
+Director of Rural Development
+Director of Rural Development and Cottage Industries
+Director of Salvage
+Director of Secretary
+Director of Social Services
+Director of State Industrial Corporation
+Director of Statistics and Planning
+Director of Supply and Cadre
+Director of Tea Research Institute of Ceylon
+Director of Telecommunications
+Director of the Institute
+Director of Town and Country Planning
+Director of Water Supply and Drainage
+Director of Zoological Gardens
+Director-General
+Director-General of Broadcasting
+Director-General of Education
+Director, Accounts and Payments
+Director, Ceylon Technical College
+Director, Ceylon Technical College Department
+Director, Claims
+Director, Cottage Industries
+Director, Development
+Director, Engineering Production
+Director, Finance
+Director, Finance and Civil Administration
+Director, Foreign Relations
+Director, Government College of Fine Arts
+Director, Government Tourist Bureau
+Director, Laboratory Services
+Director, Legal
+Director, Medical Research Institute
+Director, Medical Services
+Director, National Archives
+Director, National Services
+Director, Quarantine Department
+Director, Secretary
+Director, State Industrial Corporation
+Director, Tea Research Institute of Ceylon
+Director, Tea Research Institute of Ceylon Talawakelle
+Director, Zoological Gardens
+Director,Administration
+Directorate
+Disaster Management Centre
+Discharged Prisoners' Organization
+Disciplinary Inquiring Officer
+Disel Locomotive Runing Shed
+Disel Repair Worshop
+Disinfecting Orderly
+Disinfecting Room Servant
+Disinfecting Station
+Disinfector
+Dispensary
+Dispensary Orderly
+Dispenser
+Dispenser Clerk
+Display Artist
+Distillery
+Distillery Officer
+Distribution Manager
+Distribution Officer
+Distribution Assistant
+Distribution Authority
+District Advisory Committee
+District Advisory Officer (Small holdings)
+District Agricultural Committee
+District Assistant Engineer
+District Co-ordinating Committee
+District Coconut Instructor
+District Council
+District Court
+District Education Office
+District Engineer
+District Inspector
+District Inspector of Telecommunication
+District Inspector of Physical Education
+District Joint Council
+District Judge
+District Kachcheri
+District Land Officer
+District Officer
+District Organiser
+District Planning Committee
+District Planters' Association
+District Registrar
+District Registrar's Office
+District Revenue Officer
+District Road Committee Clerk
+District Savings Committee
+District Secretary
+District Supervisor
+District Supervisor of Criminals
+District Traffic Superintendent
+Diver
+Dividend Equalization Fund
+Division
+Division of General Economic affairs
+Division of Laboratory Services
+Division office
+Division of Medical Entomology
+Division of Medical Services
+Division of Plant Pathology
+Division of Private Sector Affairs
+Division of Public Health Services
+Division of Systematic Botany
+Divisional Survey Office
+Divisional Agricultural Committee
+Divisional Co-ordinating Committee
+Divisional Consultative Committee
+Divisional Court
+Divisional Fire Officer
+Divisional Fishery Inspector
+Divisional Forest Officer
+Divisional Headman
+Divisional Inspector
+Divisional Irrigation Engineer
+Divisional Manager
+Divisional Marketing Officer
+Divisional Medical Superintendent
+Divisional Office
+Divisional Officer
+Divisional Preventive Officer
+Divisional Revenue Officer
+Divisional Revenue Officer Headquarters
+Divisional Road Transport Officer
+Divisional Secretary
+Divisional Statistical Officer
+Divisional Superintendent
+Divisional Superintendent of Post Offices
+Divisional Superintendent of Surveys
+Divisional Transportation Superintendent
+Dock Master
+Docking and Shipping Master
+Dockside Camp
+Doctor
+Doctors' Duty Room
+Document Officer
+Document Repairer
+Documentation Assistant
+Dog-Pound Keeper
+Draftsman
+Draftsman Apprentice
+Drainage and Reclamation Scheme
+Drama Assistant
+Draughtsman
+Draughtsman Artist
+Draughtsman Apprentice
+Drawer
+Drawing Certificated Teacher
+Drawing Office
+Drawing Office Assistant
+Drawing Office Assistant (Designs)
+Drawing Office Assistant (Quantity)
+Drawing Office Orderly
+Dredger Staff
+Dress Designer
+Dresser
+Driller
+Drilling Foreman
+Drilling Superintendent
+Driver
+Driver for Jeep
+Driver for Land Rover
+Driver Mechanic
+Driver Overseer
+Driver, Motor Ambulance
+Driver,Steam Disinfector
+Drug Factory
+Drummer
+Dry Farming Research Station
+Dryer Operator
+Dryer Worker
+Drying Floor
+Drying Room
+Duplicate Machine Operator
+Duplicating and Printing Machine Operator
+Duplicating Section
+Duty Check Clerk
+Duty Check Clerk (Exports)
+Duty Officer
+Duty Room
+Dye House
+Dyer
+E.E.G./E.C.G. Recordist
+E.N.T.Clinic
+Earthmoving Plant
+Eastern University ;Sri Lanka
+Eastern Paper Mills Corporation
+Echelon Square
+Economic Sub-Division
+Economic Adviser
+Economic Assistant
+Economic Director
+Economic Division
+Economist
+Economist, Statistician
+Economy Officer
+Ediphonist
+Ediphonist, Stenographer
+Editing Assistant
+Editor
+Editor of Hansard
+Editor, Technical Dictionary
+Editor; News and Publications
+Editor; Technical Dictionary
+Education and Training Engineer
+Education Branch
+Education Clerk
+Education Department
+Education Institution
+Education Instructor
+Education Officer
+Education Officer (Overseas Service)
+Educational Adviser
+Educational Establishment
+Educational Publications Advisory Board
+Educational Publications Assistant
+Educational Research Council
+Educationist
+Election
+Election Agent
+Election Commission of Sri Lanka
+Election Judge
+Election Officer
+Elections Staff
+Electric Car Driver
+Electric Left Attendant
+Electrical Superintendent
+Electrical Technician
+Electrical Workshop
+Electrical and Mechanical Engineer
+Electrical and Mechanical Officer
+Electrical Assistant
+Electrical Crane Operator
+Electrical Department
+Electrical Department Clerical Service
+Electrical Development Association
+Electrical Engineer
+Electrical Engineer (Construction)
+Electrical Engineer (Consumers)
+Electrical Engineer (Electrical Engines)
+Electrical Engineer (Government Installations)
+Electrical Engineer in Charge, Colombo Electricity Supply
+Electrical Engineer in Charge, Over head Transmission
+Electrical Fitter
+Electrical Foreman
+Electrical Foreman (Special Grade)
+Electrical Foreman Apprentice
+Electrical Inspector
+Electrical Installations in Government Buildings
+Electrical Mechanical Engineer
+Electrical Mechanical Foreman
+Electrical Mechanical Superintendent
+Electrical Storekeeper
+Electrician
+Electrician, Mechanic
+Electricity Board (Ceylon Electricity Board)
+Electro-Therapy Section
+Electronic Equipment Controller
+Electroplater
+Embassy
+Embosser
+Emergency Department
+Emergency Landing Ground
+Emergency Nurse
+Emigration Immigration Officer
+Emigration Commissioner
+Empire Forestry Association
+Employee
+Employees Welfare Club
+Employees Trust Fund Board
+Employees' Provident Fund
+Employees' Provident Fund
+Employees' Provident Fund Department
+Employment Exchange
+Employment Kachcheri
+Employment Officer
+Employment Relations Officer
+Employment Service
+Engine Cleaner
+Engine Driver
+Engine Driver Mechanic
+Engine Assistant
+Engine Attendant
+Engine Lighter
+Engine Pit
+Engine Room Artificer
+Engine Room Attendant
+Engine Room Labourer
+Engine Room Stores
+Engine Turner
+Engine Turner and Lighter
+Engineer
+Engineer and Officer in-Charge of Territorial and Works Sub-division
+Engineer and Ship Surveyor
+Engineer and Ship Surveyor
+Engineer Harbour Craft
+Engineer of Dredger
+Engineer of Tugs
+Engineer Supervisor
+Engineer, Graving Dock and Patent Slip
+Engineer, Maintenance
+Engineer, Maritime
+Engineer, Operations
+Engineer, Outport
+Engineer, Refrigeration and Transport
+Engineer, Research and Training
+Engineer, Roads and Structure
+Engineer, Storekeeper
+Engineer, Superintendent
+Engineer, Way and Works
+Engineering Assistant (Mechanical)
+Engineering Branch
+Engineering Department
+Engineering Division (Workshop)
+Engineering Draughtsman
+Engineering and Scientific Conference
+Engineering Assistant
+Engineering Association of Ceylon
+English Assistant Teacher
+English Trained Teacher
+English Typist
+Engraver
+Enquiry Office
+Entomological Assistant
+Entomological Field Assistant
+Entomological Officer
+Entomological Section
+Entry Clerk
+Enumerator
+Envoy and Minister Plenipotentiary
+Epidemiological Intelligence Station
+Epidemiologist
+Epigraphy
+Epileptic Clinic
+Equipment Manager
+Equipment Officer
+Equipment Repairer
+Equipment Section
+Equipment Superintendent
+Escort
+Escort Orderly
+Escort Peon
+Essential Services
+Essential Services Labour Corps
+Established Section
+Establishment
+Establishment Division
+Establishment Officer
+Establishment Sergeant
+Establishment and Office of His Excellency the Governor-General
+Establishment Assistant
+Establishment Branch
+Establishment Clerk
+Establishments Department
+Estate Duty
+Estate Duty Office
+Estate Labourer
+Estate Superintendent
+Estate Agent
+Estimate
+Estimator
+Estuarine Fisheries
+Ethnological Survey Clerk
+Ethnologist
+European Payment Union
+Evangelist
+Ex-Servicemen's Scheme
+Examination Station
+Examiner
+Examiner of Motor Vehicles
+Examiner of Postal Accounts
+Examiner of Standards
+Examiner of the Standards
+Examiner of Weights and Measures
+Examiner, Income Tax Department
+Exchange Control
+Exchange Control Department
+Exchange Controller
+Excise Commissioner
+Excise Corporal
+Excise Department
+Excise Guard
+Excise Inspector
+Excise Learner
+Excise Office
+Excise Porter
+Excise Sergeant
+Excise Station
+Excise Striking Force
+Excise Striking Force Station
+Executioner
+Executive
+Executive Assistant
+Executive Class
+Executive Clerical Class
+Executive Clerical Service
+Executive Committee
+Executive Engineer
+Executive Engineer (Construction)
+Executive Engineer (Investigations)
+Executive Engineer (Maintenance)
+Executive Engineer (Studios)
+Executive Engineer (Transmitter)
+Executive Member
+Executive Officer
+Executive Trainee
+Executor
+Expanded Technical Assistance Programme
+Expenditure Branch
+Experimental Station
+Expert
+Explosives Foreman
+Explosives Magazine
+Explosives Superintendent
+Export Clerk
+Export Officer
+Exporter
+Extension Officer
+Extra Clerical Assistant
+Extra Guard
+Extra Office Assistant
+Eye Clinic
+Eye Hospital
+Eye Specialist
+Fabricator
+Facilities Officer
+Factory
+Factory and Engineering Labourer
+Factory Assistant
+Factory Attendant
+Factory Clerical Service
+Factory Clerical Service Clerk
+Factory Employees Union
+Factory Engineer
+Factory Foundary
+Factory Inspectorate
+Factory Labour
+Factory Manager
+Factory Siding
+Factory Yard
+Faculty of Agriculture
+Faculty of Agriculture, Animal Husbandry and Veterinary Science
+Faculty of Arts
+Faculty of Buddhist Studies
+Faculty of Engineering
+Faculty of Languages
+Faculty of Law
+Faculty of Medicine
+Faculty of Oriental Studies
+Faculty of Science
+Family Planning Association
+Farm
+Farm Manager
+Farm Mechanical Instructor
+Farm Officer
+Farm School
+Farm School Dairy
+Farm Staff
+Farms and Extension Service
+Faults Inspector
+Federal Bank
+Federal Republic
+Federation
+Feeder Services
+Fees Ledger Clerk
+Female Attendant
+Female Clerk
+Female Cypher
+Female Demonstrator
+Female Enumerator
+Female Escort
+Female Guard
+Female Officer
+Female Operator of Accounting Machines
+Female Receptionist Clerk
+Female Searcher
+Female Telephonist
+Female Vaccinator
+Female Voluntary Probation Officer
+Female Ward Clerk
+Fibre Assistant
+Fibre Technologist
+Field Assistant
+Field Assistant for Soil Survey
+Field Attendant
+Field Collector
+Field Commissioner
+Field Demonstrator
+Field Dental Centre
+Field Laboratory and Stores
+Field Labourer
+Field Maintenance Service
+Field Medical Officer
+Field Midwife
+Field Officer
+Field Officer (Marketing and Sales)
+Field Overseer
+Field Prospector
+Field Sheet Branch
+Field Squadron Ceylon Engineers
+Field Staff
+Field Station
+Field Welfare Officer
+Field Work Foreman
+Field Works Engineer
+Field and Laboratory Assistant
+Field marshal
+Fighter Controller
+Filariasis Campaign
+Filer
+Film
+Film Demonstrator
+Film Director
+Film Editing Assistant
+Film Editor
+Film Joiner
+Film Projector
+Film Room
+Film Unit
+Film Van
+Finance and Supply Section
+Finance Clerk
+Finance Commission
+Finance Branch
+Finance Committee
+Finance Company
+Finance Division
+Finance Manager
+Finance Officer
+Finance Section
+Financial Accountant
+Financial Adviser
+Financial and Commercial Manager
+Financial Assistant
+Financial Assistant and Accountant
+Financial Officer
+Financial Relations Commission
+Financial Secretary
+Fine Etcher
+Fingerprint Bureau
+Finished Goods Stores
+Finisher
+Finishing Assistant
+Fire Brigade
+Fire Brigade Section
+Fire Chief
+Fire Equipment Attendant
+Fire Fighting Services
+Fire Officer
+Fire Tender Driver
+Fireman
+Firewood Carrier
+First Provost Company, Ceylon Corp of Military Police
+First Additional District Judge
+First Aider
+First Deputy Registrar, Supreme Court
+First Engineer and Dredging Master
+Fiscal
+Fiscal Officer
+Fiscal Peon
+Fiscal's Marshal
+Fiscal's Office
+Fiscal's Department
+Fiscal's Guard
+Fiscal's Matron
+Fish Curer
+Fish Curing Officer
+Fisher Arachchi
+Fisher Mudaliyar
+Fisheries Bulletlin
+Fisheries Department
+Fisheries Department Officer
+Fisheries Inspector
+Fisheries Management Officer
+Fisheries Preventive Force
+Fisheries Research Station
+Fisheries Technologist
+Fisheries Training Scheme
+Fisheries Advisory Board
+Fishery Sub-Inspector
+Fishery Assistant
+Fishery Biologist
+Fishery Guard
+Fishery Harbour
+Fishery Inspector
+Fishery Patrol Boat
+Fishery Research
+Fishery Statistical Officer
+Fishery Statistical Collector
+Fishery Technologist
+Fishery Warden
+Fitter
+Fitter Assistant
+Fitter Shop
+Fitter shop Foreman
+Fitter, Electrical
+Fitting Section
+Fitting Shop
+Fixed Establishment
+Flagman
+Fleet Civil Engineer
+Fleet Salvage Store
+Flight Cadet
+Flight Lieutenant
+Flight Sergeant
+Flood Protection Scheme
+Flood Supervisor
+Flutist
+Flying Officer
+Flying Instructor
+Flying Officer
+Food and Agricultural Organization
+Food and Agricultural Organization Expert
+Food and Agricultural Organization Statistician
+Food and Co-operative Undertakings
+Food and Drugs Inspector
+Food and Price Control Inspector
+Food Commissioner
+Food Commissioner (Supplies)
+Food Commissioner Control and Distribution
+Food Commissioner, Director of Food Supplics, Food Controller and Controller of Prices (Food)
+Food Commissioner's Department
+Food Control Board
+Food Control Clerk
+Food Control Office
+Food Control Stores
+Food Controller
+Food Inspector
+Food Production and Irrigation Section
+Food Production Clerk
+Food Production Inspector
+Food Production Officer
+Food Production Staff
+Food Production Teacher
+Foot Postman
+Forage Store
+Foreign Affairs Division
+Foreign Agencies
+Foreign Ambassador
+Foreign Exchange Budget Committee
+Foreign Investment Approval Committee
+Foreign Medical Specialist
+Foreign Minister
+Foreign Purchase Clerk
+Foreign Relations Division
+Foreign Research Specialist
+Foreign Secretary
+Foreman
+Foreman (Workshop)
+Foreman of the Jury
+Foreman of work
+Foreman Plate Layer
+Foreman Trainee
+Foreman, (Civil)
+Foreman, (Garage)
+Foreman, (Senior)
+Foreman, Agricultural and House hold Implements
+Foreman, Apprentice
+Foreman, Boat Builder
+Foreman, Carpenter
+Foreman, Composing
+Foreman, Draftsman
+Foreman, Electro Medical Appliances
+Foreman, Harbour Craft
+Foreman, Inspection
+Foreman, Inspector
+Foreman, Maintenance
+Foreman, Mechanic
+Foreman, Mechanical
+Foreman, Mechanical and Wooden Toys
+Foreman, Mechanical Facilities and Plant
+Foreman, Plywood
+Foreman, Power House
+Foreman, Saw Mill
+Foreman, Suction Dredger
+Foreman, Supervisor
+Foreman, Tool Room
+Forest Officer
+Forest Overseer
+Forest Pole Labourer
+Forest Ranger
+Forest School
+Forest Section
+Forest Watcher
+Forest Department
+Forest Engineer
+Forest Guard
+Forester
+Forestry Museum
+Fork Lift Operator
+Forms Clerk
+Forms Storekeeper
+Forwarding Agent
+Forwarding Officer
+Foundry and Pattern Shop
+Foundry Labourer
+Foundry man
+Foundry Shop
+Free Treatment Fund
+French Translator
+Fresh Water Fisheries
+Friend-in-Need Society
+Fuel and Light Accountant
+Fuel Oil Installation
+Fuelman
+Full-Time Fisherman
+Full-Time Staff
+Fumigating Machine Operator
+Fumigation Inspector
+Fumigation Labourer
+Fumigation Office
+Fumigation Officer
+Fumigatorium
+Fundamental Education Centre
+Fundamental Education Project
+Furniture Cleaner
+Furniture Stores
+Gal-Oya Board
+Gal-Oya Development Board
+Galle Face Secretariat
+Game Guard
+Game Ranger
+Games Mistress
+Games Watcher
+Gampaha Wickremarachchi Ayurveda Institute
+Gamsabhawa Clelrk
+Garage Attendant
+Garden Assistant
+Garden Conductor
+Garden Cum Latrine Labourer
+Garden Foreman
+Garden Foreman and Conductor
+Garden Labourer
+Garden School Certificated Teacher
+Garden Staff
+Gardener
+Garrison Adjutant
+Garrison Engineer
+Gate Checker
+Gate Keeper
+Gate Officer
+Gate Watcher
+Gateman
+Gauge Reader
+Gauge Recorder
+Gauger
+Gear Instructor
+Gear Class Instructor
+Gear Technologist
+Gem and Jewellery Research and Training Institute
+General
+General Enumerator
+General Fitter
+General Hospital
+General Industries Section
+General Labourer
+General Lighthouse Fund
+General Maintenance Foreman
+General Manager
+General Manager, Ceylon Government Railway
+General Manager, Electrical Undertakings
+General Manager, of Animal Husbandry
+General Manager, of Factories
+General Manager, of Railways
+General Manager's Department
+General Office
+General Patrolling Officer
+General Post Office
+General Secretary
+General Storekeeper
+General Treasury
+General 's House
+General Accounts Branch
+General Administration
+General Administration Branch
+General Assistant
+General Class
+General Clerical Service
+General Clerical Service Executive Clerical Class Special Grade
+General Clerical Service General Clerical Class
+General Clerk
+General Committee
+General Duties Clerk
+General Hospital Galle
+General Hospital Jaffna
+General Hospital Kandy
+General Hospital Peradeniya
+General Sri John Kotalawala Defence University
+Generating Station
+Generation Section
+Geneticist
+Gentleman's Common Room
+Geochemical Laboratory
+Geographer
+Geological Survey & Mines Bureau
+Geological Survey Department
+Geologist
+Geophysicist
+Geremonial Guard
+Girl Guide
+Girl Guide Association
+Girl's Farm School
+Glass Blower
+Glass Cutter
+Gliding School
+Glossary Bureau
+Glue Worker
+Glue Pourer
+Gold Gilder
+Goods Porter
+Goods Shed
+Goods Yard
+Goods Agent
+Goods Cashier
+Goods Clerk
+Government Analyst
+Government Analyst's Department
+Government Analyst's Department
+Government Brass Workshop
+Government Carpentry Workshop
+Government Clerical Service Union
+Government Leather Factory
+Government Mineralogist
+Government Model Farm
+Government Officer
+Government Officer's Benefit Association
+Government Printer
+Government Printing
+Government Printing Press
+Government Publications Bureau
+Government Senior Secondary School
+Government Service
+Government Stores
+Government Stores Department
+Government Surveyor
+Government Teacher
+Government Turist Bureau
+Government Agent
+Government Analyst
+Government Archives
+Government Archivist
+Government Chemist
+Government Clerk
+Government Coir Workshop
+Government College of Fine Arts
+Government Debtor
+Government Department
+Government Electrical Installations
+Government Employment Exchange
+Government Examiner of Questioned Documents
+Government Explosives Magazine
+Government Factory
+Government Farm
+Government Film Unit
+Government Junior School
+Government Medical Officer
+Government of Ceylon
+Government Plywood Factory
+Government Press
+Government Press Clerical Service
+Government Quarantine Station
+Government Record Keeper
+Government Records Office
+Government Rice Store-Keeper
+Government School
+Government Servant
+Government Telegraph Code
+Government Town Planner
+Government Veterinary Surgeon
+Governor
+Governor in Council
+Governor of Central Bank
+Governor of Provincial Council
+Governor-General
+Governor-General's Office
+Governor-General's Staff
+Grader
+Graduate
+Graduate Engineer
+Graduate Instructor in Statistics
+Graduate Instuctor
+Graduate Probationer
+Graduate School
+Graduate Teacher
+Graduate Technical Assistant
+Graduate Translator
+Grain Surveyor
+Grama Niladhary
+Gramasevaka Niladariya
+Granaries' Workshop
+Granary
+Grant-in-Aid School
+Graving Duck
+Greaser
+Ground Combat Training School
+Ground Instructor
+Groundsman
+Group Captain
+Group Officer
+Guarantor
+Guarantor
+Guard
+Guard Commander
+Guardian
+Guardian and Curator
+Guest House Keeper
+Guide
+Guide Lecturer
+Gun Fitter
+Gunner
+Gynaecologist
+Gynaecologist
+Hadabima Authority of Sir Lanka
+Halftone and Turner Worker
+Hall Boy
+Hall Porter
+Hall Porter and Watcher
+Halt
+Hamilton Hanger Warehouse
+Hammer Man
+Handicraft Instructor
+Hanger Warehouse
+Hansard Reporter
+Harbour
+Harbour Board
+Harbour Craft
+Harbour Engineer
+Harbour Engineer's Department
+Harbour Engineer's Clerical Service
+Harbour Foreman
+Harbour Launch
+Harbour Police
+Harbour Railway
+Harbour Tugs
+Harbour Works Store
+Hardy Senior Technical Institute
+HDFC Bank of Sri Lanka
+Head Account's Clerk
+Head Animal Keeper
+Head Artificer
+Head Carpenter
+Head Clerk
+Head Clerk Food Control
+Head Cook
+Head Cooper
+Head Counterman
+Head Fireman
+Head Fitter
+Head Foreman
+Head Forest Guard
+Head Labour Supervisor
+Head Labourer
+Head Lighthouse Keeper
+Head master
+Head messenger
+Head Mistress
+Head of Branch
+Head of Departmant
+Head of Mission
+Head of Missions (Overseas Service)
+Head Operator
+Head Peon
+Head Reader
+Head Servant
+Head Signalman
+Headman
+Headquarters
+Headquarters Reserve
+Headquarters Staff
+Headquarters Staff Officer
+Headquarters Assistant
+Headquarters Assistant Commissioner
+Headquarters Inspector
+Headquarters Office
+Headquarters Officer
+Headquarters Officer, Rural Courts
+Health Centre
+Health Council
+Health Council Regional Hospital Board
+Health Education Officer
+Health Insurance
+Health Office
+Health Officer
+Health Units
+Heart Clinic
+Heater
+Heavy Machinery Operator
+Heavy Transport Driver
+Helper
+Her Excellency
+High Commissioner
+High Commissioner, Overseas Service
+Higher Grade (Quasi Clerical Service)
+Higher Staff
+His Excellency the Governor-General
+His Majesty's Consular and Passport Officer
+Historian
+Historical Manuscripts Commission
+Hoist Operator
+Home for Incurables
+Home for Mentally Defective Children
+Home for the Aged
+Home for Vagrants
+Home Minister
+Homeopathy Doctor
+Honorary Secretary
+Honorary Supervisor
+Honorary Treasurer
+Honourable Prime Minister
+Hood Maker
+Horse Keeper
+Horticultural Division
+Horticultural Officer
+Horticulturist
+Hosiery Section
+Hospital
+Hospital Attendant (Male, Female)
+Hospital Clerical Service
+Hospital Clerk
+Hospital Committee
+Hospital Cook
+Hospital Diet Stewardess
+Hospital for Incurables
+Hospital Laboratory Attendant
+Hospital Midwife
+Hospital Orderly
+Hospital Overseer
+Hospital Secretary
+Hospital Staff
+Hospital Supply Branch
+Hostel for Members of Parliament
+Hostel Keeper
+Hostel Superintendent
+Hotel and Restaurant Services
+House Boy
+House Detention
+House for Members of Parliament
+House Keeper
+House Labourer
+House Master
+House Mistrees
+House Numbering Supervisor
+House of Joy
+House of Representatives
+House of Representatives Clerical Service
+House Officer
+Housing Loans Board
+Hulling Plant
+Human Rights Commission of Sri Lanka
+Huwandiram Fund
+Hydraulic Laboratory
+Hydraulic Moulding Machine Operator
+Hydro Section
+Hydro-Balneo Therapeutic Section
+Hydro-Development Engineer
+Hydro-Electric Scheme
+Hydrographer
+Hydrographic Survey Labourer
+Hydrographic Surveyor
+Hydrographical Laboratoroy
+Hydrologist
+Hydrology and Biology Section
+Hydrology Branch
+Hyper-Endemic Area
+Identifying Officer
+Identity Card
+Idustrial Technology Institute
+Immigrant
+Immigration Branch
+Imperial Authorities
+Imperial Force
+Imperial Forestry Association
+Imperial Government
+Imperial Institute
+Imperial Lighthouse Service
+Imperial Parliament
+Import Control Officer
+Import Duties Advisory Board
+Impregnation Unit Operator
+Improvement Commissioner
+Income Tax
+Income Tax Asscssor
+Income Tax Authorities
+Income Tax Collector
+Income Tax Department
+Incorporated Accountant
+Indent Branch
+Indent Clerk
+Indent Officer
+Indenting Unit
+Indigenous Hospital
+Indigenous Medical Research Section
+Indoor Messenger
+Industrial Assistant
+Industrial Branch
+Industrial Centre
+Industrial Chemist
+Industrial Clerk
+Industrial Court
+Industrial Development Board
+Industrial Engineer
+Industrial Estates Corporation
+Industrial Foreman
+Industrial Health Section
+Industrial Home
+Industrial Laboratory and Workshop
+Industrial Labourers
+Industrial Officer
+Industrial Products Regulation Board
+Industrial Relations Branch
+Industrial Representative
+Industrial Research
+Industrial Research Laboratory
+Industrial School
+Industrial Society
+Industrial StoreKeeper
+Industrial Supervisor
+Industrial Teacher
+Industrial Worker
+Industrial Workshop
+Industries Department
+Infant School
+Infectious Diseases Hospital
+Infirmary
+Inflammable Store
+Information and Communication Technology Agency Of Sri Lanka
+Information Assistant
+Information Book
+Information Branch
+Information Clerk
+Information Department
+Information Office
+Information Officer
+Inland Revenue Department
+Inner Dock
+Inner Harbour
+Inquirer
+Inquiry and Tappal Clerk
+Inquiry Clerk
+Inquiry Officer
+Inspecting Officer
+Inspecting Ordnance Officer
+Inspection Engineer
+Inspector
+Inspector General of Police
+Inspector in Training
+Inspector of Accidents
+Inspector of Arabic
+Inspector of Arms
+Inspector of Art
+Inspector of Buildings and Works
+Inspector of Co-Operative Societies
+Inspector of Coast Lights
+Inspector of Explosives
+Inspector of Factories
+Inspector of Fisheries
+Inspector of Food Stuffs
+Inspector of Fumigation
+Inspector of Handicrafts
+Inspector of Home Science
+Inspector of Homes and Schools
+Inspector of Industries
+Inspector of Kandyan Dancing
+Inspector of Kindergarten Department of School
+Inspector of Lights
+Inspector of Mines
+Inspector of Music
+Inspector of Orphanages
+Inspector of Physical Education
+Inspector of Physical Training
+Inspector of Pirivenas
+Inspector of Police
+Inspector of Postman
+Inspector of Printing Press
+Inspector of Road Services
+Inspector of School Agriculture
+Inspector of School Works
+Inspector of Schools
+Inspector of Telegraph Messenger
+Inspector of Telegraphs and Telephones
+Inspector of Town and Country Planning
+Inspector of Training
+Inspector of Uniform Staff
+Inspector of Vocational Guidance
+Inspector of Watchers
+Inspector of Weaving
+Inspector of Weights and Measures
+Inspector of Works
+Inspector-General
+Inspector-General of Police
+Inspector-General of Prisons
+Inspector, Industrial Health
+Inspector, Mail Transport
+Inspector, Special Grade
+Inspectorate
+Inspectress
+Inspectress of Needlework
+Inspectress of Home Graft
+Inspectress of Home Science
+Inspectress of Kindergarten Department of Schools
+Inspectress of Lace and Needlework
+Inspectress of Physical Education
+Installation Manager
+Institute of Practical Technology
+Institute of Biochemistry ; Molecular Biology and Biotechnology( University of Colombo)
+Institute of Policy Studies of Sri Lanka
+Institute of Scientific and Industrial Research
+Institute of Technology
+Instructor
+Instructor (Practical)
+Instructor (Theory)
+Instructor Gunnery
+Instructor in Art
+Instructor in Arts and Crafts
+Instructor in Basket Weaving
+Instructor in Brass Work
+Instructor in Building Trades
+Instructor in Building Construction
+Instructor in Chemistry
+Instructor in Civil Engineering
+Instructor in Commerce
+Instructor in Dancing
+Instructor in Draughtsmanship
+Instructor in Electrical Engineering
+Instructor in Electrical Trades
+Instructor in Electrical Wiring
+Instructor in English
+Instructor in Fabric Printing
+Instructor in Food Processing
+Instructor in Gardening
+Instructor in Handicraft and Physical Training
+Instructor in Indian Dancing
+Instructor in Jewellery Work
+Instructor in Leather Work
+Instructor in Light Metal Work
+Instructor in Mathematics
+Instructor in Mathematics and Physics
+Instructor in Mechanical Engineering
+Instructor in Metal Work
+Instructor in Motor Mechanism
+Instructor in Music
+Instructor in Oriental Dancing
+Instructor in Oriental Music
+Instructor in Physical Training
+Instructor in Printing
+Instructor in Rattan Work
+Instructor in Sewing
+Instructor in Shorthand and Typewriting
+Instructor in signalling
+Instructor in signalling (Selection Grade)
+Instructor in Sinhala Typing and Shorthand
+Instructor in Stenography
+Instructor in Surveying
+Instructor in Tailoring
+Instructor in Technical Drawing
+Instructor in Watch Repair
+Instructor in Western Music
+Instructor in Woodwork
+Instructor in Workshop Methods
+Instructor Lieutenant
+Instructor of Recruits
+Instructor of Rehabilitation of Disabled Persons
+Instructor on Fire Drill
+Instructor, Art and Manual Training
+Instructor, Training School
+Instructress
+Instructress in Animal Husbandry
+Instructress in Domestic Science
+Instructress in Handicraft
+Instructress in Physical Training
+Instrument Branch
+Instrument Division
+Instrument Fitter
+Instrument Foreman
+Instrument Labourer
+Instrument Mechanic
+Instrument Repairer
+Instrumentalist
+Insurance Policy
+Insurance Agent
+Insurance Board of Sri Lanka
+Insurance Clerk
+Insurance Corporation
+Insurance Premium
+Intelligence Officer
+Inter-Arts or Science Certificate Teachers
+Inter-Departmental Board
+Inter-Office Telephone System
+Inter-Parlimentary Union
+Internal Air Transport Officer
+Internal Audit
+Internal Audit Branch
+Internal Audit Clerk
+Internal Audit Division
+Internal Audit Examiner
+Internal Audit Officer
+Internal Audit Staff
+Internal Auditor
+Internal Purchase Scheme
+Internal Revenue
+Internal Trade
+International Organization
+International Organization and Foreign Banking Organizations
+International Civil Aviation Organisation
+International Court of Justice
+International Finance Corporation
+International Health Organization
+International Labour Organization
+International Monetary Fund
+International Railway Associations and Unions
+International Rice Commission
+International Sea-Farers Clinic
+International Tea Market Expansion Board
+International Telecommunication Union
+International Training Centre
+International Union of Forestry Research Assiociation
+International Union of Official Travel Organization
+International Weat Council
+Interpreter
+Interpreter Clerk
+Interpreter Translator
+Investigating Inspector
+Investigating Officer
+Investigating Assistant
+Investigating Engineer
+Investigation Officer, Urban Councils
+Investigator
+Invigilator
+Iron and Steel Factory
+Irrigation Department
+Irrigation Engineer
+Irrigation Fine Fund
+Irrigation Headmen
+Irrigation Overseer
+Irrigation Tribunal
+Isolated Seed Garden
+Isolation Ward
+Issuing Officer
+Issuing Station
+J R Jaayyewardene Center
+jaggery Section
+Jail Guard
+Jail Guard Sentry
+Jail School
+Jail Watcher
+Jailor
+Jailor (Industries)
+Jailor Class I
+Jailor Class II
+Japanese Legation
+Jeep Driver
+Jetty
+Jetty Serang
+Jig and Tool Designer
+Job Work Foreman
+Jockey
+Joint Magistrates Court
+Joint Stock Company
+Journalist
+Judge
+Judge Advocate
+Judge Advocate to the Forces
+Judge of the Superme Court
+Judges' Library
+Judges' Chambers
+Judicial Office
+Judicial Officer
+Judicial Service
+Judicial Service Commission
+Judicial Committee of the Privy Council
+Judicial Medical Officer
+Junior Accounts Clerk
+Junior Assistant Engineer in Water Works
+Junior Assistant Government Town Planner
+Junior Assistant Public Health Engineer
+Junior Assistant Quantity Surveyor
+Junior Assistant Valuer
+Junior Assistant Architect
+Junior Assistant Conservator of Forests
+Junior Assistant Electrical Engineer
+Junior Assistant Engineer
+Junior Book-Keeper
+Junior Clerk
+Junior Engineer
+Junior Inspector of Factories
+Junior Inspector of Uniform Staff
+Junior Lady Supervisor
+Junior Legal Officer
+Junior Officer
+Junior Ordinary Seaman
+Junior Presiding Officer
+Junior Programme Assistant
+Junior School
+Junior Secondary School
+Junior Supervisor
+Junior Technical Institute
+Junior Technical Assistant
+Junior Training Officer
+Junior Typist and Office Aide
+Junior University College
+Jurist
+Juror
+Jury
+Jury Service
+Justice
+Juvenile Court
+Juvenile Magistrate
+Juvenile Magistrates Court
+Juvenile Offender
+Juvenile Prisoner
+Kachcheri
+Kachcheri Surveyor
+Kaddu Kangany
+Kanagany
+Kanaka Pulle
+Kandyan Peasant Rehabilitation Scheme
+Kandyan State Pensioner
+Kantalai Sugar Corporation
+Karrier -Cop - Driver
+Karrier -Cop -Cleaner
+Karyala Karya Sahayaka
+Kathi
+Keeper of the Museum
+Kings' Bench
+Kings' House
+Kitchen Assistant
+Kitchen Stewardess
+Knife Grinderman
+Kochchikade Warehouse
+Korala
+Kotalawala Defence University
+Laboratory
+Laboratory and Field Attendant
+Laboratory Assistant
+Laboratory Assistant and Lapidarist
+Laboratory Attendant
+Laboratory Cleaner
+Laboratory of the Mineralogist
+Laboratory Orderly
+Laboratory Service
+Laboratory Stores
+Laboratory Sub Assistant
+Laboratory Superintendent
+Laboratory Technician
+Laboratory Technologist
+Labour and Social Services
+Labour Department
+Labour Exchange
+Labour Inspector
+Labour Inspectorate
+Labour Liaison Officer
+Labour Lines
+Labour Manager
+Labour Medical Officer
+Labour Office
+Labour Officer
+Labour Room
+Labour Statistical Officer
+Labour Supervisor
+Labourer
+Labourer - Caretaker
+Labourer (Semi-Skilled Grade I)
+Labourer (Semi-Skilled Grade II)
+Labourer (Skilled Grade II)
+Labourer (Temporary)
+Labourer (Unskilled)
+Labourer (untrained)
+Labourer (woman)
+Labourer for Fumigation
+Labourer to the Kachcheri Surveyor
+Lace and Needle work Section
+Lacquer Section
+Ladderman
+Ladies Common Room
+Lady Lochore Loan Fund
+Lady Medical Officer
+Lady Polling Clerk
+Lady Presiding Officer
+Lady Sales Assistant
+Lady Supervisor
+Lady Supervisor of Telephones
+Lady Welfare Officer
+Lady - in - waiting
+Lady Lochore Loan Fund
+Lady Operator
+Lady Ridgeway Hospital
+Lady Sanitary Inspector
+Lady Superintendent of Hostel
+Lamp Operator
+Lampsman
+Lance Corporal
+Land Department
+Land Acquisition
+Land Appeal Board
+Land Branch
+Land Clerk
+Land Colonisation Scheme
+Land Commissioner
+Land Commissioner's Department
+Land Development Department
+Land Development Officer
+Land Mark Depot
+Land Mortgage Bank
+Land Officer
+Land Overseer
+Land Reform Commission
+Land Registry
+Land Settlement Department
+Land Settlement Officer
+Land Valuer
+Landing Company
+Landing and Delivery Branch
+Landing Officer
+Landing Supervisor
+Landing Surveyor
+Landing Waiter
+Landlord
+Lanka Bauddha Mandalaya
+Lanka Mahila Samiti
+Lanka phosphate Ltd
+Lankaputhra Development Bank
+Lascar
+Lathe Operator
+Latheman
+Latrine Labourer
+Launch Coxswain
+Launch Driver
+Laundryman
+Lavatory
+Lavatory Labourer
+Law Society of Ceylon
+Law College
+Law Commission of Sri Lanka
+Law Officer
+Lawyer
+Lawyer's Consultation Room
+Lawyers' Chambers
+Lawyers' Retiring Room
+Layoutman
+Leader of the House of Representatives
+Leader of the House of Representatives and the Chief Government Whip
+Leader of the Opposition
+Leader of the Opposition in the House of Representatives
+Leading Aircraftman
+Leading Fireman
+Leading Fireman Instructor
+Leading Fitter
+Learner
+Learner Guard
+Lease Section
+Leather Technologist
+Lecture Hall
+Lecture Hall Attendant
+Lecturer
+Lecturer Demonstrator in Agricultlure and Horticulture
+Lecturer Demonstrator
+Lecturer Demonstrator in Cookery
+Lecturer Demonstrator in Cookery and Food Preservation
+Lecturer Demonstrator in Handicraft
+Lecturer Demonstrator in Confectionery and Pastry Cooking
+Lecturer Demonstrator in Household Management
+Lecturer Demonstrator in Laundering Dyeing, and Dry Cleaning
+Lecturer Demonstrator in Music and Oriental Dancing
+Lecturer Demonstrator Needle Craft, Dress Designing and Dress Making
+Lecturer Demonstrator Sick Nursing
+Lecturer Demonstrator, Food Preservation
+Lecturer Demonstrator, Upholstery
+Lecturer Guide
+Lecturer in Accountancy
+Lecturer in Agronomy
+Lecturer in Agronomy and General Cultivation
+Lecturer in Anatomy
+Lecturer in animal Husbandry
+Lecturer in animal Husbandry and Agriculture
+Lecturer in Art
+Lecturer in Ayurveda
+Lecturer in Biology
+Lecturer in Botany
+Lecturer in Chemistry
+Lecturer in Civil Engineering
+Lecturer in Economics
+Lecturer in Economics and Banking
+Lecturer in Electrical Engineering
+Lecturer in Entomology and Pathology
+Lecturer in General subjects
+Lecturer in Horticulture
+Lecturer in Indigenous Subjects
+Lecturer in Industrial Engineering
+Lecturer in mathematics
+Lecturer in Mechanical Engineeing
+Lecturer in Midwifery
+Lecturer in Music and Dancing
+Lecturer in Needlework and Handicraft
+Lecturer in Nutrition and Food Preservation
+Lecturer in Parmacy
+Lecturer in Pathology
+Lecturer in Physics
+Lecturer in Physiology
+Lecturer in Science
+Lecturer in Siddha
+Lecturer in Surveying
+Lecturer in Unani
+Lecturer in veterinary Science
+Lecturer in Vocal Music
+Lecturer, Physical Training and Development
+Lecturer, Principal
+Lecturer, Salesmanship and Business Methods
+Ledger Clerk
+Ledger Keeper
+Legal Adviser
+Legal Assistant
+Legal Draftsman
+Legal Draftsman's Department
+Legal Officer
+Legal Secretary
+Legation
+Legislation Section
+Legislative Council
+Leper Asylum
+Leper Asylum School
+Leper Hospital
+Leprosy Campaign
+Leprosy Colony
+Liaison Offcer
+Librarian
+Librarian and Museum Curator
+Librarian and Publications Officer
+Librarian Research
+Library
+Library Assistant
+Library Attendant
+Library Clerk
+Library Labourer
+Licence Clerk
+Licensed Dealer
+Licensed Surveyer
+Licensing and Statistics Section
+Licensing Branch
+Licensing Officer
+Lieutenant Colonel
+Lieutenant Commander
+Lieutenant General
+Life Insurance Company
+Life Insurance Fund
+Lift Operator
+Lift Mechanic
+Liftman
+Light Infantry
+Light Keeper
+Lighter
+Lighter, Jettes, Wharves and Barge Repairing Basin
+Lighting and Maintenance Technician
+Lighting Scheme
+Lineman
+Linen Collector
+Linen Store
+Lino Operator
+Linotype Foreman
+Linotype Operator
+Liquidator
+Listener Research Officer
+Litho Apprentice
+Litho Foreman
+Litho Machine Minder
+Litho Printer
+Lithographic Branch
+Livestock Officer
+Lloyd Surveyor
+lnstitute of Post Harvest Technology
+Loader
+Loan Board
+Loan Scheme
+Loans Officer
+Local Assistant
+Local Authority
+Local Board
+Local Board of Health and Improvement
+Local Bodies
+Local Electricity Scheme
+Local Government
+Local Government Department
+Local Government Service Commission
+Local Heads of Government Department
+Local Loans and Development Commissioners
+Local Loans and Development Fund
+Local Postmaster
+Local Print Clerk
+Local Visiting Committee
+Lock and Block Section
+Lock-up
+Locker
+Loco Foreman
+Locomotive Driver
+Locomotive Running Shed
+Lookout man
+Lorry Cleaner
+Lorry Porter
+Lottery Agent
+Lower Grade Clerk
+Ludlow Operator
+Lunatic Asylum
+Mace Bearer
+Machanic
+Machanic (Water Pump)
+Machanic (Air Conditioning and Retrigerator)
+Machanic (Radio)
+Machanic Electrician
+Machanic for Launches
+Machanic Healper
+Machanic Operator for Rotary Tractory and Junk Rotary Hoe
+Machanical and Electrical Engineering Sections
+Machanical Assistants
+Machanical Branch
+Machanical Diision
+Machanical Draughtsman
+Machanical Engineer
+Machanical Engineering Department
+Machanical Engineering Section
+Machanical Fitter
+Machanical Foreman
+Machanical Stores Superintendent
+Machanical Superintendent
+Machanical Superintendent (Maintenance)
+Machanical Superintendent (Work Shop)
+Machanical Superintending Engineer
+Machanical Transport Officer
+Machanical Uniform Staff
+Machine Accounting Branch
+Machine Attendant
+Machine Branch
+Machine Feeder
+Machine Foreman
+Machine Minder
+Machine Operator
+Machine Room Supervisor
+Machine Shop
+Machine Superintendent
+Machineist
+Machinery Store
+Machinery Supervisor
+Madya Maha Vidyalaya
+Magazine Labourer
+Magazine Orderly
+Magician
+Magistrate
+Magistrate and Commissioner of Requests
+Magistrate's Court
+Maha Vidyalaya
+Mahapola Higher Education Scholarship Trust Fund
+Mahaweli Livestock Enterprises Ltd
+Mail Clerk
+Mail Guard
+Mail Porter
+Mail Runner
+Mail Transport Service
+Main Meter Room
+Main Stores
+Maintenance Engineer
+Maintenance Foreman
+Maintenance Labourer
+Maintenance Manager
+Maintenance Officer
+Maintenance Overseer
+Maintenance Service Hepler
+Maintenance Superintendent
+Maintenance Supervisor
+Maistry
+Major
+Major Colonisation Scheme
+Major General
+Major Housing Scheme
+Major Research Scheme
+Malaria Control Scheme
+Malaria Engineering Assistant
+Malaria Field Training Centre
+Malaria Training Centre
+Male Attendant
+Male Nurse
+Male Telephonist
+Management Officer
+Management and Field Section
+Manager
+Manager Administration
+Manager Director
+Manager Partner
+Manager Trustee
+Manager, Employment Exchange
+Manager, State Cattle and Agricultural Farm
+Manager, Technical
+Managing Committee
+Managing Director
+Manifest Clerk
+Map Mounter
+Map Mounter and Book Binder
+Map Printing Branch
+Mapping Lithographic Branch
+Marine Biologist
+Marine Engineering Apprentice
+Marine Engineering Assistant
+Marine Superintendent
+Marine Superintendent and Hydrographer
+Marker
+Market
+Market Intelligence Officer
+Market Supervisor
+Market Information Officer
+Marketing Department
+Marketing Department Organisation
+Marketing Department Bakery
+Marketing Division
+Marketing Information Officer
+Marketing Officer
+Marketing Supervisor
+Marketing Supervisor of Markets
+Marketing Assistant
+Mason
+Mason Bass
+Masseur
+Mast Rigger
+Master
+Master Armourer
+Master Attendent
+Master Attendent's Department
+Master Barbender
+Master Carpenter
+Master Harbour of Tugs
+Master Mason
+Master of Tugs
+Mat Section
+Mate
+Maternity and Child Welfare Centre
+Maternity Home
+Maternity Hospital
+Maternity Ward
+Matress Maker
+Matron
+Matron and Lecturer in Nursing and Child Care
+Matron and Lecturer in Sick Nursing
+Matron, Higher Grade
+Matron's Quarters
+Matron's Office
+Mayor
+Meal Carrier
+Meal Labourer
+Mechancial Engineer
+Mechanic
+Mediation Boards Commission
+Medical Inspector
+Medical Laboratory Technologist
+Medical Mission
+Medical Officer
+Medical Officer (Auxiliary Services)
+Medical Officer (Psychiatry)
+Medical Officer (Selection Grade)
+Medical Officer in Charge
+Medical Officer in Charge, Dental Institute
+Medical Officer in Leprosy Work
+Medical Officer of Health
+Medical Records Officer, T.B.Campaign
+Medical Registrar
+Medical Registrar of Births and Deaths
+Medical Research Institute
+Medical Statistician
+Medical Store-Keeper
+Medical Stores
+Medical Stores Assistant
+Medical Stores Clerk
+Medical Superintendent
+Medical Superintendent and Secretary to the Board of Indigenous Medicine
+Medical and Sanitary Services
+Medical Board
+Medical Certificate
+Medical Council
+Medical Entomologist
+Medical Entomology Branch
+Medical First Aid Services
+Medical Gymnasium
+Medical Library
+Medical Officer
+medical Research Institute
+Medical Research Officer
+Medico-Social Worker
+Member
+Member of Parliament
+Member of Provincial Council/Municipal Council/Urban
+Member of the Advisory Board for Deportation of Illicit Immigrants
+Member of the Bar
+Member of the Board of Agriculture
+Member of the Board of Prison Visitors
+Member of the Local Visiting Committee
+Member of the Prisoner's Corps
+Member of the Savings Committee
+Member of the Senate
+Member of the Special Police Reserve
+Member,Rural Volunteer Reserve
+Mental Hospital
+Mercantile Establishment
+Merchant
+Mess Boy
+Mess Attendant
+Messenger
+Metal Turner
+Metal Worker Instructor
+Metallurgist
+Meteo Office
+Meteorological Department
+Meteorologist
+Meter Reader
+Micro Biologist
+Microfilm Division
+Microfilm library
+Microscopist
+Midshipmen
+Midwife
+Midwifery
+Midwives' Quarters
+Military Pensioner
+Military Police
+Milk Bar
+Milk Board
+Milk Feeding Centre
+Milk Marketing Board
+Milk Union
+Mill Manager
+Miloc (PVT)Ltd
+Miloda- Academy of Financial Studies
+Miner
+Mineralogical Division
+Mineralogist
+Mining Engineer
+Mining Geologist
+Minister
+Minister (Cabinet/Provincial Council)
+Ministry of Buddhasasana
+Ministry of Education
+Ministry of sustainable Development & wild Life
+Ministry of Agriculture
+Ministry of Agriculture and Food
+Ministry of Agriculture and Lands
+Ministry of City Planning and Water Resources
+Ministry of Communications
+Ministry of Cultural Affairs
+Ministry of Defence
+Ministry of Defence and External Affairs
+Ministry of Development Strategies & International Trade
+Ministry of Disaster management
+Ministry of Education
+Ministry of Finance
+Ministry of Fisheries
+Ministry of Fisheries and Aquatic Resources Development
+Ministry of Foreign and Internal Trade
+Ministry of Foreing Affair
+Ministry of Foreing Employment
+Ministry of Health
+Ministry of Health -Nutrition & Indigenous Medicine
+Ministry of Higher Education and Highways
+Ministry of Home Affairs
+Ministry of Housing and Construction
+Ministry of Industries and Fisheries
+Ministry of Industries and Scientific Affairs
+Ministry of industry and Commerce
+Ministry of Information and Broad-casting
+Ministry of Intenal Affairs Wayamba Development and cultural Affairs
+Ministry of Irrigation Water Rasources Management
+Ministry of Irrigation, Power and Highways
+Ministry of Justic
+Ministry of Justice
+Ministry of Labour
+Ministry of Labour and Trade Union Relations
+Ministry of Labour, Employment and Housing
+Ministry of Land, Irrgation and Power
+Ministry of Lands
+Ministry of Local Government and Cultural Affairs
+Ministry of Mahaweli Development &Environment
+Ministry of Megapolis & Western Development
+Ministry of National Co- existence Dialogue Official Languages
+Ministry of National Integration and Reconciliation
+Ministry of National Policies and Eonomic Affairs
+Ministry of Nationalised Services
+Ministry of Parliamentary Affairs and Sports
+Ministry of Parliamentary Reforms and Mass Media
+Ministry of Petrolum resources Development
+Ministry of Planning and Economic Affairs
+Ministry of Planning and Employment
+Ministry of Plantation Industry and Constitutional Affairs
+Ministry of Plantation Infrastrure Development
+Ministry of Ports & Shipping
+Ministry of Posts Postal Services and Muslim Religious Affairs
+Ministry of Posts and Telecommunications
+Ministry of primary Industries
+Ministry of Prison Reforms ; Rehabilitation Resettelment &Hindu Religious Affair
+Ministry of Provincial Councils and Local Development
+Ministry of Public Administration and Management
+Ministry of Public Administration, Local Government and Home Affairs
+Ministry of Public Enterprises Development
+Ministry of Rural Economic Affairs
+Ministry of Science ;Technology & Research
+Ministry of Scientific Research and Housing
+Ministry of Shipping and Tourism
+Ministry of Skill Development and Vocational Training
+Ministry of Social Empowermant & Welfare
+Ministry of Social Services
+Ministry of Special Assignments
+Ministry of Sport
+Ministry of Telecommunication and Digital Infrastructure
+Ministry of Transport and Civil Aviation
+Ministry of Women and Child Affairs
+Minor Employee
+Minor Staff
+Minor Supervisor
+Minor Supervisor in Training
+Minor Supervisor of Labour
+Minor Tablet Station
+Miscellaneous Section
+Miscellaneous Valuation
+Miscellaneous Accounts
+Mission
+Mistress
+Mobile Crane Driver
+Mobile Incubator Van
+Mobile Post and Telegraph Office
+Model Kitchen
+Model Kitchen and Farm School
+Modeller
+Modelling Assistant
+Money Order Department Superintendent;
+Monitor
+Mono Key Board Foreman
+Mono Key Board Operator
+Monotype Operator
+Monotype Cast Attendent
+Monotype Caster Attendent
+Monotype Casters' Foreman
+Monotype Key Board Operator
+Mony Order Department
+Mortuary
+Mosaicer
+Mosquito Survey
+Mosquito, Control Inspector
+Mother
+Motor Cyclist
+Motor Mechanic
+Motor Mechanic Foreman
+Motor Ambulance Driver
+Motor Car Cleaner
+Motor Car Cleaner and Loader
+Motor Car Driver
+Motor Cyclist Cinema Operator
+Motor Driver
+Motor Inspector
+Motor Launch Driver
+Motor Launch Driver (Operational)
+Motor Lorry Driver
+Motor Mail Transport Section
+Motor Traffic Advisory Council
+Motor Transport Depot
+Motor Transport Officer
+Motor Transport Sergeant
+Motor Transport Stores
+Motor Transport Trade
+Motor Van Driver
+Motor Vehicle Electrician
+Motorman, Fireman
+Mould Maker
+Mould Repairer
+Moulder
+Moulder
+Movement Control Officer
+Mudliyar
+Municipal Magistrate
+Municipal Slaughter House
+Municipal Commissioner
+Municipal Council
+Municipal Court
+Municipality
+Museum
+Museum Watcher
+Museum Attendant
+Music Master
+Music and Dancing Instructor
+Musician
+Musketry Instructor
+Muslim Marriage Registrar
+Muslim Public Officer
+Muslim Assessor
+Naffi Warehouse
+Narrator
+National Co-operative Counil of Sri Lanka
+National Development Trust Fund
+National Institute of Health Sciences
+National Institute of Business Management
+National Institute of Co-operative Development
+National Institute of Education
+National Institute of Language Education and Training
+National Lotteries Board
+National Police Commission
+National Research Coucil
+National Transport Commission
+National Transport Medical Institute
+National Apprentice and Industry Training Authority
+National Aquaculture Development Authority of Sri Lanka
+National Archives
+National Authority on Tobacco and Alcohol
+National Book Trust
+National Building Research Organisation
+National Bureau of Translations and Compilations
+National Cadet Corp
+National Child Protection Authority
+National Co - operative Council Of Sri Lanka
+National Council of Higher Education
+National Crafts Council
+National Dangerous Drugs Control Board
+National Design Centre
+National Disaster Relief Services Center
+National Education Commission
+National Education Society of Ceylon
+National Enterprise Development Authority
+National Film Coroporation of Sri Lanka
+National Food Promotion Board (Sri Lanka National Freedom from Hunger Campaign Board)
+National Gem and Jewellery Authority
+National Health and Unemployment Insurance Scheme
+National Hospital of Sri Lanka
+National Housing Development Authority
+National Institute of Oceanography
+National Institute of Plantation Mangement
+National Intellectual Property Office of Sri Lanka
+National Library and Documentation Services Board
+National Livestock Development Board
+National Museum
+National Music and Dancing School
+National Planning Council
+National Police Commission
+National Reserve
+National Salt Corporation
+National Savings Movement
+National Savings Committee
+National Savings Movement Superintendent
+National School of Music and Dancing
+National Science and Technology Commission
+National Service
+National Service Division
+National Small Industries Corporation
+National Taransport Commission
+National Textile Corporation
+National Theatre Trust
+National Transport Medical Institute
+National Water Supply and Drainge Board
+National Welfare Fund
+National Youth Services Council
+Naval Officer
+Naval Pensioner
+Naval Stores
+Naval Stores Department Timber Shed
+Naval Stores Officer
+Naval Victualling Depot
+Naval and Military Officers
+Naval Architect
+Naval Commander-in-Chief
+Naval Intelligence Officer
+Navigating and Dredging Master
+Navigating Division
+Navy
+Navy Driver
+Needle Craft
+Needle Work Instructor
+Needle Work Assistant
+Negative Cutter
+NERD (National Engineering Research & Development Centre of Sri Lanka)
+Neurosurgeon
+New Ceramic Factory
+New Entrant
+New Entrant Clerk
+New Entrant Officer
+New Carriage Building Shop
+New Recruit
+News Editor
+News Agent
+News Assistant
+News Section
+NIBM (National Institute of Business Management)
+Night Telephonist
+Night Watcher
+Night Watcher for Fumigation
+Night Watcher-Cum-Peon
+Non- Graduate Translator
+Non- New Entrant
+Non- New Entrant Officer
+Non- Official Member
+Non- Proctor Notary
+Non- Subscriber
+Non-Explosive Store or Paravane Store
+Notary
+Notary Public
+Number taker
+Nurse
+Nursery Manager
+Nursery Teacher
+Nursery Assistant
+Nursery Attendant
+Nurses' Quarters
+Nurses' Training School
+Nurses' Aide
+Nursing Mother
+Nursing Sister
+Nursing Staff
+Nursing Education Officer
+Nursing Home
+Nursing Sister
+Nutritional Assistant
+Nutritionist
+Observation Ward
+Observatory
+Observer
+Obstetrician-in-Charge
+Occupational Trerapist
+Oceanographical Institute
+Oceanographist
+Oculist
+Offcial Languages Commission
+Office
+Office Peon
+Office Aide (Peon)
+Office and Implement Store
+Office Assistant
+Office Assistant (Equipment, Water Supply, Sewerage)
+Office Assistant (Administration)
+Office Assistant (Buildings)
+Office Assistant (Milk Distribution and Pensions)
+Office Assistant (Overseas Service)
+Office Attendant
+Office Block
+Office Establishment
+Office Fiscal Peon
+Office Labourer
+Office Of the Ceramic Chemist
+Office of the Commissioner for Workmen’s Compensation
+Office of the Government Mineralogist
+Office of the Government Archivist
+Office of the Inspector of Mines
+Office of the Public Service Commission
+Office of the Registrar of Books and Newspapers
+Office of the Settlement Officer
+Office Orderly
+Office Overseer
+Office Walfare Officer
+Officer
+Officer commanding Ceylon Supply Depot
+Officer commanding the Troops
+Officer commanding the Camp
+Officer commanding the Old Guard
+Officer commanding the Station
+Officer Administering the Government
+Officer Cadet
+Officer of Civil List Rank
+Officer of Staff Rank
+Officer-in-Charge
+Officer-in-Charge , Agricultural Sales Room
+Officer-in-Charge , Barracks
+Officer-in-Charge , Branch Accounts
+Officer-in-Charge , Ceylon Travel Centre
+Officer-in-Charge , General Establishment Unit
+Officer-in-Charge , Guard Duty
+Officer-in-Charge , I.B.M.
+Officer-in-Charge , Industrial Work Shop
+Officer-in-Charge , Police Central Garage
+Officer-in-Charge , Police Radio Branch
+Officer-in-Charge , Socio-Economic Section
+Officer-in-Charge , Timber Supplies
+Officer-in-Charge , Traffic Accounts
+Officer-in-Charge , Valuation
+Officer-in-Charge ,Survey Unit
+Officer-in-Charge ; Agricultural Sales Room
+Officer-in-Charge ; Barracks
+Officer-in-Charge ; Branch Accounts
+Officer-in-Charge ; Ceylon Travel Centre
+Officer-in-Charge ; General Establishment Unit
+Officer-in-Charge ; Guard Duty
+Officer-in-Charge ; I.B.M.
+Officer-in-Charge of Camps
+Officer-in-Charge of Party
+Officer-in-Command
+Officers and Crew of Fishery Vessels
+Officers and Crew Research Vessels
+Official
+Official Authorities
+Official Language Affairs Section
+Official Language Commission
+Official Language Department
+Official Language Officers
+Official Languages Bureau
+Official Languages Commission
+Official Poll Card
+Official Residence
+Official Secretary (Overseas Service)
+Oil Dock Quay
+Oil Facilities Officer
+Oil Filter Plant
+Oil Store
+Oiler
+Open University of Sri Lanka
+Operating Theatre
+Operating Section
+Operating Superintendent
+Operation Manager
+Operational Maintenance Engineer
+Operator
+Operator, Accounting Machine
+Operator, Duplicating Machine
+Operator, Duplicating Section
+Operator, Grass Mower
+Operator, Pension Abstract Machine
+Operator, Photostat Machine
+Operator, Punch Card Accounting Machine
+Operator; Grass Mower
+Opium Seller
+Optical Equipment Controller
+Optician
+Order Branch
+Order Clerk
+Order Clerk (Foreign)
+Order Clerk (Local)
+Orderly
+Orderly Officer
+Ordinance Warrant Officer
+Organis
+Organisation and Methods Division
+Organisation and Methods Officer
+Organisation for Economic Co-Operation and Development
+Organizer of Handicraft
+Oriental Studies Society
+Orphanage
+Orthopaedic Clinic and Rehabilitation Centre
+Orthopaedic Surgeon
+Out Agency Office
+Out Agent
+Out Patients' Department
+Out Patients' Dispensary
+Out- going Guard
+Out-Port Staff
+Outdoor Dispensary
+Outdoor Dispensary Orderly
+Outdoor Enumerator
+Outdoor Labourer
+Overseas Officer
+Overseas Officer on Agreement
+Overseas Parcel Branch
+Overseas Record Officer
+Overseas Service
+Overseas Telecommunication Service
+Overseas Establishment Division
+Overseas Mission
+Overseas Telegraphist
+Overseer
+Overseer, L.D.O. Allotment
+Packer
+Packer, Civil Medical Stores
+Paddy Marketing Board
+Paddy Officer
+Paddy Station
+Paddy Stores
+Paediatrician
+Painter
+Palmyrah Development Board
+Panel Carrier
+Panel of Arbitrators
+Panel of Judges
+Panel of Jurors
+Paper Control Department
+Paper Factory
+Parade Ground
+Paranthan Chemicals Corporation
+Parcel Post Depot
+Parcels Depot
+Parcels Depot
+Parcels Office
+Parent Association
+Parent Exchange
+Park-Keeper
+Parliament
+Parliamentary Branch
+Parliamentary Election
+Parliamentary Liaison Officer
+Parliamentary Printing Branch Foreman
+Parliamentary Secretary
+Parliamentry Commission for Administration
+Part-time Labourer
+Part-time Lecturer
+Partners
+Passenger Jetty
+Passport Control Department
+Passport Office
+Passport Officer
+Pathologist
+Pathologist (Part-time)
+Patrol
+Patrol Foreman
+Patrol Labourer
+Patrolling Staff
+Patrolling Section
+Patrolman
+Pattern Maker
+Pawnbroker
+Pay and Records Branch
+Pay Clerk
+Pay Master
+Pay Officer
+Payer
+Paying Office
+Paying Officer
+Paying Register
+Payment Branch
+Paysheet Machine
+Paysheet Machine Operator
+Paysheet Machine Supervisor
+Peace Officer
+Pension Branch
+Pension Division
+Pensioner
+Pensioners' Corps
+Pensions Audit Branch
+Peon
+Peon - com- Messenger
+Peon, Cycle Orderly
+People's Bank
+Peripheral Unit
+Permanent Labourer
+Permanent Representative
+Permanent Secretary
+Permanent Staff
+Permanent Way, Coast Line
+Permanent Clerk
+Personal Orderly
+Personal Assistant
+Personal Assistant to Army Commander
+Personal Assistant to Chairman
+Personal Assistant to Director
+Personal Clerk to the Prime Minister
+Personal File
+Personal Secretary to the Chairman
+Personal Staff
+Personal Stenographer
+Personnel Clerk
+Personnel Division
+Personnel Manager
+Personnel Officer
+Personnel Officer, Industrial Relations
+Personnel Assistant
+Petrol Control Department
+Petrol Foreman
+Pettah Warehouse
+Pharmaceutist
+Pharmacist
+Pharmacy Clerk
+Pharmacy Labourer
+Pharmacy Supervisor
+Philologist
+Photo Laboratory Assistant
+Photo Micrographer
+Photo Technician
+Photogrammetrist
+Photographer
+Photographic Technician
+Photographic Assistant
+Photographic Section
+Photographic Studio Attendant
+Photography and Technical Assistant
+Photostat Machine Operator
+Physical Training Instructor
+Physician
+Physician-in-charge, Department of Physical Medicine
+Physician, O.P.D.
+Physicist
+Physiologist
+Physiotherapist
+Pianist
+Pilot
+Pilot Officer
+Pilot Pharmacy
+Pilot Plant
+Pilot Service
+Pilot Service Section
+Pilot Station
+Pirivena Advisory Council
+Plan Keeper
+Plan Printer
+Planetarium
+Plankoton Laboratory
+Planner
+Planning Clerk
+Planning Commissioner
+Planning Engineer
+Planning Officer
+Planning Officer (Part-time)
+Planning Secretariat
+Planning Assistant
+Plans Section
+Plant Engineer
+Plant Operator
+Plant Operator, Mechanic
+Plant Pathologist
+Plant Superintendent
+Plant Inspector
+Plantation Human Development Trust
+Plantation Worker
+Plantation Worker
+Planters Association
+Planting Officer
+Plasterer
+Plate layer
+Plate Minder
+Play Writer
+Playground Instructor
+Plumber
+Plywood Factory
+Poet
+Pointsman
+Police
+Police Boys' Brigade
+Police Central Garage
+Police Co-operative Bank
+Police Constable
+Police Court
+Police Department
+Police Driver
+Police Driving School
+Police Escort
+Police Force
+Police Guard
+Police Headquarters
+Police Radio Branch
+Police Sargeant
+Police Stable
+Police Station
+Police Teletype System
+Police Training School
+Policewoman
+Polisher
+Political Fund
+Political Scientist
+Polling Booth
+Polling Clerk
+Polling Staff
+Polling Station
+Polling Agent
+Polytechnician
+Pond Foreman
+Pontoonmen
+Poor Law Officer
+Poor Relief Association
+Port Dues Clerk
+Port Magazine
+Port Cargo Corporation
+Port Commission
+Port Commission Department
+Port Commission Slipway
+Port Commission Welding Shop and Paint Store
+Port Commissioner
+Port Controller
+Port Health Office
+Port Health Officer for Immigration
+Port Labour Division
+Port Liaison Office and Stores
+Port Radar Workshop
+Port Surgeon
+Port Traffic
+Porter
+Post - Graduate
+Post - Graduate Medical Officer
+Post and Telegraph Peon
+Post Master (Miner Staff)
+Post Office
+Post Office Museum
+Post Office Savings Bank
+Postal and Telecommunication Service
+Postal Appraiser
+Postal Appraiser's Branch
+Postal Authorities
+Postal Delivery Office
+Postal Officer
+Postal Peon
+Postal Probationer
+Postal Service
+Postal Storekeeper
+Postal Stores
+Postal Telegraph Office
+Postal Voter
+Postal Voters' List
+Postgraduate Institute of Agriculture
+Postgraduate Institute of Archaeology (University of Kelaniya)
+Postgraduate Institute of Management
+Postgraduate Institute of Pali and Buddhist Studies (University of Kelaniya)
+Postgraduate Institute of Science
+Postman
+Postman Driver
+Postmaster
+Postmaster -General
+Postmaster and Signaller
+Pottery Assistant
+Pottery Demonstrator
+Pottery Instructor
+Pottery Section
+Pottery Supervisor
+Power Engineer
+Power Hammer Operator
+Power Hammerman
+Power House
+Power House
+Power House Attendant
+Power House Labourer
+Power Plant Engineer
+Power Saw House
+Power Station
+Power Supply
+Power Supply Foreman
+Powerloom Workshop
+Practical School
+Practical Farm School
+Premature Baby Unit
+Preparation Assistant
+Presbyterian Mission Hospital
+Presentation Officer
+President
+President Appeal Court
+President Juvenile Court
+President Labour Tribunal
+President of the Senate
+President of Village Tribunal
+President, Rural Court
+Press Officer
+Press Relation Officer to the Prime Minister
+Press Relations Officer
+Press Secretary to the Prime Minister
+Press Supervisor
+Pressman
+Preventive Officer
+Preventive Service
+Preventive Staff
+Price Control Inspector
+Price Control Station
+Price Controller
+Primary and Junior Trained Teacher
+Primary and Junior Trained Teacher
+Prime Minister
+Prime Minister, Minister of Defence and External Affairs
+Principal and Chief Physician, College of Indigenous Medicine
+Principal Assisant Registrar General
+Principal Assisant Auditor
+Principal Collector of Customs
+Principal, Training College
+Principal, Matron
+Principal, Public Health Nurse
+Principal, Royal College
+Principal, School of Agriculture
+Principal, School of Agriculture for Girls
+Principal, School of Co-operation
+Principal, Dental Nurses Training School
+Principal, Farm School
+Principal, Lecturer
+Printer
+Printing Operator
+Printing Master
+Prison
+Prison Department
+Prison Guard
+Prison Headquarters Superintendent
+Prison Hospital
+Prison Officer
+Prison Overseer
+Prison Psychiatric Service
+Prison Staff
+Prison Welfare Officer
+Prison and Police Officers Hospital
+Prison and Probation Headquarters
+Prison and Probation Services
+Private
+Private Hospital
+Private Nursing Home
+Private Secretary
+Private Secretary to the Speaker
+Private Secretary to the Minister
+Privy Council
+Pro-Chancellor
+Probatinary Assistant Inspector of Mines
+Probatinary Assistant Superintendent of Police
+Probatinary Assistant Superintendent of Surveys
+Probatinary Assistant Superintendent, Government Stores
+Probatinary Assistant Valuer
+Probatinary Draughtsman
+Probatinary Town Planning Assistant
+Probatinary Archaeological Chemist
+Probation Hostel
+Probation Officer
+Probation Officer-in-Charge
+Probation Service
+Probation Unit
+Probationer
+Probationer in Training in Architecture
+Process Branch of the Surveyor General's Office
+Process Foreman
+Process Hand
+Process Labourer
+Process Man
+Process Server
+Process Server
+Processing Operator
+Processing Assistant
+Processor and Printer
+Proclaimed Judicial Division
+Proctor
+Proctor Notary
+Proctor's Clerk
+Producer
+Product Assistant
+Production Officer
+Production Orders Clerk
+Production Section
+Production and Supply Officer
+Production Engineer
+Production Manager
+Production Planning Assistant
+Production Room
+Production Superintendent
+Production Supervisor
+Professor
+Programme Assistant
+Programme Assistant (Drama)
+Programme Assistant (Music)
+Programme Assistant (Rural)
+Programme Assistant (Talks)
+Programme Division
+Programme Executive Officer
+Programme Manager
+Programme Officer (Foreign organization)
+Programme Operator
+Programme Organizer
+Programme Production Assistant
+Progress Clerk
+Progress Engineer
+Project Director
+Project Engineer
+Project Manager
+Project Officer
+Projection Recording Room Operator
+Promotion Advisory Board
+Proof Reader
+Propaganda Division
+Propaganda Officer
+Propaganda Section
+Property Supervisor
+Proposer
+Protocol and Nationality Division
+Protocol Assistant
+Protocol Division
+Provident Fund
+Provident Fund Clerk
+Provincial Bank
+Provincial Forest Administration
+Provincial Government
+Provincial Kachcheri
+Provincial Office
+Provincial Polytechnic
+Provincial Registrar
+Provincial Union
+Provincial Administration
+Provincial Director
+Provisional Secondary Trained Teacher
+Provisional Primary and Junior Trained Teacher
+Provisionally Certificated Teacher
+Provost Marshal
+Provost Sergeant
+Psychiatric Service
+Psychiatric Clinic
+Psychiatrist
+Psychopathic Hospital
+Public Office
+Public Officer
+Public Performance Board
+Public Relations Officer
+Public Servant
+Public Service
+Public Service Commission
+Public Service Mutual Guarantee Association
+Public Service Provident Fund
+Public Trustee
+Public Utilities Commission of Sri Lanka
+Public Utlity Service
+Public Works Department
+Public Accounts Committee
+Public Aquarium
+Public Assistance Advisory Committee
+Public Assistance work
+Public Debt Department
+Public Health Engineering Apprentice
+Public Health Engineering Assistant
+Public Health Engineering Branch
+Public Health Inspector
+Public Health Learner
+Public Health Midwife
+Public Health Nutritionist
+Public Health Survey
+Public Health Veterinary Officer
+Public Library
+Publications Assistance
+Publications Bureau
+Publications Officer
+Publications Unit
+Publicity Agent
+Publicity and Information Section
+Publicity and Layouts Officer
+Publicity and Public Relations Officer
+Publicity Assistant
+Publicity Officer
+Publicity Writer
+Publisher
+Puisne Justice
+Pulp Superintendent
+Pulp Toys Section
+Pulpit Operator
+Pump Attendant
+Pump Fitter
+Pump Home Watcher
+Pump Operator
+Pumper
+Pumping Engineman (Pumping Station)
+Punch Card Machine Operator
+Punch Card Supervisor
+Punch Operator
+Puncher
+Punkah Puller
+Pupil Assistant Nurse
+Pupil Dental Nurse
+Pupil Male Nurse
+Pupil Midwives Quarters
+Pupil Nurse
+Pupil Teacher
+Purchase and Sales Officer
+Purchase Clerk
+Purchase Officer
+Purchase Order
+Purchasing Manager
+Purchasing Agent
+Purification Plant Operator
+Purveyor of Milk
+Puttalam Salt Ltd
+Quality Controller
+Radio and Television Journalist
+Radiographer
+Railway Department
+Railway General Manager
+Railway Guard
+Railway Ticket Collector
+Rajarata University of Sri Lanka
+Ranviru seva Authority
+Rear Admiral
+Receptionist
+Regional Development Bank
+Regional Director (Government)
+Registrar General
+Registrar of Marriages/Births/Deaths
+Repairman
+Reporter Hansard
+Reporter Media
+Research Engineer
+Resettlement Authority
+Road Development Authority
+Road Passenger Transpot Authority - Western Province
+Rubber Research Board of Sri Lanka
+Rural Development Training & Research Institute
+Saddler
+Sail Maker
+Salaried Officer
+Sales Depot
+Sales Division
+Sales Girl
+Sales Invoice Clerk
+Sales Supervisor
+Sales Unit
+Sales Agent
+Sales Assistant
+Sales Clerk
+Sales Manager
+Sales Officer
+Sales Room Supervisor
+Salesman
+Salesmanship and Business Method
+Salt Department
+Salt Division
+Salt Engineer
+Salt Inspector
+Salt Section Head Office
+Salt Superintendent
+Salt Technologist
+Salt Checker
+Salt Commissioner
+Salvage Department
+Sampler
+Samurdhi Managers
+Sanatorium
+Sanitary Board
+Sanitary Board Office
+Sanitary Engineer
+Sanitary Inspector
+Sanitary Airport
+Sanitary Assistant
+Sanitary Labourer
+Sanitary Overseer
+Savings Bank
+Savings Committee
+Saw Mill
+Saw Mill Manager
+Saw Mill Engine Driver
+Saw Mill Labourer
+Saw Milling Machinist
+Sawyer
+Schedule
+Schedule Assistant
+Schedule Superviser
+School Administration Branch
+School Broadcasting Service
+School of Co-operation
+School of Kandyan Dancing
+School of Oriental and African Studies University of London
+School of Technical Training
+School of Agriculture
+School of Agriculture for Boys
+School of Agriculture for Girls
+School of Art
+School Principal
+School Teacher
+School Works Branch
+School Works Engineer
+School Workshop
+Schools Programme Organizer
+Schools Programme Section
+Schools Script Writer
+Schools Supplies Society
+Science Branch
+Science Teacher
+Science Assistant Teacher
+Scouts Colony
+Scriber
+Script Writer
+Sculptor
+Sea Cadet
+Seaman
+Seamster
+Seamstess
+Season Ticket Branch
+Second and Third Class Certificated Teachers
+Second Assistant in Ethnology
+Second Clerk
+Second Deputy Registrar Supreme court
+Second Lieutenant
+Second Secretary
+Second Secretary, Overseas Service
+Second Volunteer Anti-Aircraft Regiment, Ceylon Artillery
+Second Volunteer Battalion, Ceylon Light Infantry
+Second Volunteer Company, Ceylon Army Service Corps
+Second Volunteer Field Squadron, Ceylon Engineers
+Secondary Education Branch
+Secondary School
+Secondary Society
+Secondary Trained Teacher
+Seconder
+Secretariat
+Secretary
+Secretary Loan Board
+Secretary and Industrial Liaison Officer
+Secretary Bribery Tribunals
+Secretary Educational Publications Advisory Board
+Secretary Educational Publications Board
+Secretary General (Government)
+Secretary General of Parliament
+Secretary to the Cabinet
+Secretary to the President
+Secretary to the Prime Minister
+Secretary to the Treasury
+Secretary-General
+Secretary, Accountancy Board
+Secretary, Accountant
+Secretary, Accountant, Teachers' Widows' and Orphans' Pension Fund
+Secretary, Adminstrative Officer
+Secretary, Board of Directors
+Secretary, Board of Kathis
+Secretary, Board of Review
+Secretary, Colombo Port Commission
+Secretary, Debt Conciliation Board
+Secretary, District Court
+Secretary, Judicial Service Commission
+Secretary, Land Acquisition Board of Review
+Secretary, Local Government Service Commission
+Secretary, Medical Research Institute
+Secretary, Muslim Marriage and Divorce Advisory Board
+Secretary, National Council of Higher Education
+Secretary, Tourist Bureau
+Secretary, Unesco National Commission
+Secretary, Wages Board
+Section Committee
+Section Supervisor
+Sectional Officer
+Sectional Stores Keeper
+Sectional Fire Officer
+Securities and Exchange Commission of Sri Lanka
+Security Assistant
+Security Branch
+Security Guard
+Security Officer
+Security Sub Assistant
+Security Superintendent
+Security Supervisor
+Seeds Store
+Seizing Officer
+Select Committee
+Selection Board
+Semi-Skilled Grade
+Semi-Skilled Labourer
+Semi-Skilled Workman
+Senate
+Senate Court
+Senator
+Senior Industrial Assistant
+Senior Inspector
+Senior Instructor
+Senior Investigating Officer
+Senior Laboratory Assistant
+Senior Legal Officer
+Senior Manager
+Senior Mechanic
+Senior Medical - Officer of Health
+Senior Medical Officer
+Senior Medical Officer for Quarantine and International Health
+Senior Naval Officer
+Senior Pilot
+Senior Presiding Officer
+Senior Puisne Justice
+Senior Quality Control
+Senior Receptionist
+Senior Rescarch Officer
+Senior Secondary School
+Senior Sister Tutor
+Senior Studio Attendant
+Senior Superintendent of Examinations
+Senior Supervisor
+Senior Survey Assistant
+Senior Technical Assistant
+Senior Tutor
+Senior Valuation Inspector
+Senior Accountant
+Senior Accountant (Head Office)
+Senior Accountant, Post Office Savings Bank
+Senior Accounts Clerk
+Senior Administraive Assistant
+Senior Assessor
+Senior Assistant
+Senior Assistant Commissioner of Labour
+Senior Assistant Conservator of Forests
+Senior Assistant Controller of Imports and Exports
+Senior Assistant Crown Proctor
+Senior Assistant Director of Fisheries
+Senior Assistant Secretary
+Senior Assistant Valuer
+Senior Authorised Officer
+Senior Checking Officer
+Senior Chemist
+Senior Clerk
+Senior Commercial Assistant
+Senior Construction Engineer
+Senior Crown Counsel
+Senior Deputy Commissioner of Inland Revenue
+Senior Deputy Director of Economic Research
+Senior Deputy Inspector General of Police
+Senior Design and Research Engineer
+Senior Economic Adviser
+Senior Field Assistant
+Senior Superintendent of Police
+Serang
+Seremonial Guard
+Sergeant
+Sergeant - Major, Police
+Sergeant Major
+Sergeant-At-Arms
+Sericulture Expert
+Sericulture Section
+Sericulture Supervisor
+Sericulture Assistant
+Sericulture Research and Experment Section
+Service Inspector
+Service Relation Officer
+Service Unit
+Settlement Officer
+Sharpener
+Shed Foreman
+Sheet Metal Worker
+Sheltered Workshop
+Sheltered Workshop for the Deaf and Blind
+Shift Foreman
+Shifting Cooly
+Ship Pilot
+Ship Station
+Ship Surgeon
+Shipping and Wharf Assistant
+Shipping Branch
+Shipping Company
+Shipping Master
+Shipping Officer
+Shoe Factory
+Shoe Maker
+Shop Manageress
+Shore Foreman
+Shoreman
+Shorthand Writer
+Shorthand Typist
+Shrama Vasana Fund
+Shroff
+Shroff's Branch
+Shroff's Department
+Shroff's Service
+Shunter
+Shunting Engine Driver
+Sick Room Attendant
+Siddha Physician
+Siding
+Signal Controller (Air Transport)
+Signal Despatch Office
+Signal Engineer
+Signal Engineer's Workshop
+Signal Fitter
+Signal Foreman
+Signal Inspector
+Signal Officer
+Signal Room
+Signal Sergeant
+Signal Staff
+Signaller
+Signalman
+Signals Clerk
+Signature Clerk
+Silk Screen Operator
+Singer
+Sinhala Programme Organizer
+Sinhala Stenographer
+Sinhalese Programme Section
+Sinhalese School Master
+Sinhalese Trained Teacher
+Sinhalese Typist
+Sinking Fund
+Sir Lanka Sustainable Energy Authority
+Sister
+Sisters' Duty Room
+Sitar Player
+Skilled Labourer
+Skilled Driller
+Skilled Garden Labourer
+Skilled Machanic
+Skilled Wireman
+Skin Driver
+Skin Ward
+Skipper
+Sledger
+Sleeping Car Attendant
+Sleeping Kit Attendant
+Slip Way
+Small Arms Foreman
+Social Service Officer
+Social Worker
+Socio Economics Assistant
+Socio Economics Division
+Socio Economics Officer
+Sociologist
+Soil Cartographer
+Soil Chemist
+Soil Chemistry Division
+Soil Conservation Officer
+Soil Laboratory
+Soil Survey Unit
+Soil Tester
+Soil Testing Assistant
+Solicitor
+Solicitor-General
+Sorter
+Sorting Peon
+Sorting Postman
+Sorting Officer
+Sound Recordist
+Sound Technician
+South Eastern University of Sri Lanka
+Southern Development Authority of Sri Lanka
+Spannerman
+Speaker
+Speaker's Residence
+Special Adviser
+Special Apprentice
+Special Apprentices (Marine)
+Special Areas Development Board
+Special Attendant
+Special Class of the Electrical Department Clerical Service
+Special Class of the Colombo Electricity Supply Clerical Service
+Special Class, Judicial Service
+Special Commissioner
+Special Commissioner for Official Language Affairs
+Special Committee
+Special Committee on Education
+Special Default Branch
+Special Forester
+Special Grade
+Special Instructor
+Special Instructor in Civil Engineering
+Special Instructor in Mechanical and Electrical Engineering
+Special Instructor in Physics and Mathematics
+Special Investigator
+Special Investigator
+Special Labourer
+Special Missions Abroad
+Special Officer
+Special Police Officer
+Special Police Reserve
+Special Post
+Special Service Company
+Specialist
+Specialist for Snake Bite
+Specialist in Animal Husbandry
+Specialist Officer
+Specialist Scientific Programmer
+Specialist Technical Officer
+Specialist Draughtsman
+Specialist Draughtsman (Grade I)
+Specialist Draughtsman Class
+Specialized Physician
+Specialized Surgeon
+Specimen Collector
+Spectro-Chemical Laboratory
+Spinner
+Spinning Master
+Spinning Senior Assistant
+Spinning and Weaving Instructor
+Spinning Foreman
+Spinning Junior Assistant
+Splicer
+Splicer Operator
+Splicer (Wire)
+Spoilt Ballot Paper
+Sports Officer
+Sportsman
+Sportswoman
+Spray Painter
+Sputum House
+Squadron Leader
+Sravasti Club and Hostel for Members of Parliament
+Sri Lanka Atomic Energy Board
+Sri Lanka Press Council
+Sri Jayawardenpura Genral Hospital
+Sri lanka Mission abroad
+Sri Lanka Prots Authority
+Sri Lanka Accounting and Auditing Standards Monitoring Board
+Sri Lanka Army
+Sri Lanka Atomic Energy Regulatory Council
+Sri Lanka Ayurveda Drugs Corporación
+Sri Lanka Broadcasting Corporation SLBC
+Sri Lanka Bureau of Foreign Employment
+Sri Lanka Cashew Corporation
+Sri Lanka Cement Corporation
+Sri Lanka Cement Corporation(Cement Corporation)
+Sri Lanka Corp of Military Police
+Sri Lanka Council for Agicultral Research Policy
+Sri Lanka Customs
+Sri Lanka Export Credit Insurance Corporation
+Sri Lanka Export Development Board
+Sri Lanka Foundation
+Sri Lanka Handicrafts Board (Laksala)
+Sri Lanka Institute Of Advanced Technological Education
+Sri Lanka Institute Of Textile & Apparel
+Sri Lanka Insurance Corporation
+Sri Lanka Inventors Commission
+Sri Lanka Judges Institute
+Sri Lanka Kala Mandalaya
+Sri Lanka Land Reclamation and Development Corporation
+Sri Lanka law College
+Sri Lanka Navy
+Sri Lanka Planetarium
+Sri lanka Red Cross Society
+Sri Lanka Rupavahini Corporation
+Sri Lanka Sahitya Mandalaya
+Sri Lanka Savings Bank
+Sri Lanka Social Security Board
+Sri Lanka Standars Institution
+Sri Lanka State Plantation Corporation
+Sri Lanka Tea Board
+Sri Lanka Tourisum Development Authority
+Sri Lanka Transport Board
+Sri Lanka Workers Union
+St. John Ambulance Association
+Staff
+Staff Nurse
+Staff Officer
+Staff Officer, Information
+Staff Section
+Staff Sergeant
+Staff Assistant
+Staff Assistant Stores
+Staff Assistant (Legal)
+Staff Captain
+Staff Captain (Administration)
+Staff Captain (Education)
+Staff Captain (Ordinance)
+Staff Captain (Supply Transport)
+Staff Clerk
+Staff Inspector
+Staff Sergeant
+Stamp Checker
+Stamp Clerk
+Stamp Counter
+Stamp Duty
+Stamp Impressor
+Stamp Impressor and Vendor
+Stamp Room Foreman
+Stamp Vendor
+Stamper
+Stamping Establishment
+Standards Office
+Standards Office for Weights and Measures
+Standing Committee
+Staple Machine Minder
+Star Prisoner
+State Engineering Corporation of Sri Lanka
+State Printing Corporation
+State - Owned Distillery
+State Council
+State Development and Construction Corporation
+State Distillery
+State Home for the Aged
+State Ministry
+State Mortgage & Investment Bank
+State Mortgage Bank
+State Phamaceuticals Manufacturing Corporation
+State Timber Corporation
+Station Superintendent
+Station Director
+Station Master
+Station Officer
+Stational Engine Driver
+Stationery
+Stationery Clerk
+Stationery and Inventory Clerk
+Statistical Staff
+Statistical Survey Officer
+Statistical Assistant
+Statistical Collectors
+Statistical Draughtsman
+Statistical Investigator
+Statistical Officer
+Statistician
+Statistician Gum Economist
+Statistics
+Statistics and Planning
+Statistics Branch
+Statistics Section
+Statutory Commissioner
+Statutory Commissioner of Census
+Steel Rolling Factory
+Steno - Typists
+Stenographer
+Stenographer (English)
+Stenographer (Sinhala)
+Stenographer Cum Social Secretary
+Stenographer, Clerk, Typist
+Stenographer, Grade I, Class II
+Stenographers' Service
+Stenographers' and Typists' Service
+Stereo Foreman
+Stereo Foundryman
+Stereo Moulder
+Stereo Mounter
+Stereo Typer
+Stereoman
+Stewardess
+Stipend Midwife
+Stipend Nurse Aide
+Stipend Pupil Midwife
+Stipend Pupil Attendant
+Stipendiary Staff
+Stitcher
+Stitching Attendant
+Stock Verifications Officer
+Stock Clerk
+Stock Inspector
+Stock Officer
+Stocker
+Stoker
+Stone Worker
+Stone Carver
+Store Barracks
+Store Boy
+Store Kangany
+Store keeper
+Store Labourer
+Store Orderly
+Store Watcher
+Storekeeper
+Storekeeper (Engineering)
+Storekeeper (Finished Goods)
+Storekeeper (Grade I)
+Storekeeper (Mechanical Stores)
+Storekeeper (Raw Material)
+Storekeeper (Stock Control)
+Storekeeper (Timber)
+Storekeeper and Librarian
+Storekeeper Clerk
+Storeman
+Storeman Clerk
+Storeman Ledger Keeper
+Stores and Tool Issuer
+Stores Assistant
+Stores Attendant
+Stores Clerk
+Stores Co-ordinating Committee
+Stores Department
+Stores Labourer
+Stores Liaison Officer
+Stores Overseer
+Stores Peon
+Stores Society
+Stores Sub-Department
+Stores Superintendent
+Stores Union
+Stores Account Branch
+Stores Account Clerk
+Stores Officer
+Stores, Workshop and Test Room
+Story Teller
+Strategic Enterprise Management Agency
+Strength Clerk
+Stretcher Bearer
+Striking Force
+Striking Force for Excise Preventive Work
+Structural Engineer
+Student Surveyor
+Studio
+Studio Attendant
+Sub Manager
+Sub - Inspector
+Sub - Inspector of Works
+Sub - Inspector of Police
+Sub - Inspector of Public Health
+Sub - Inspector of School Works
+Sub - Laboratory Assistant
+Sub - Station Attendant
+Sub Accountant
+Sub Agent
+Sub Assistant
+Sub Collector
+Sub Collector of Customs
+Sub Editor
+Sub Editor of Hansard
+Sub Inspector of Police
+Sub Lieutenant
+Sub Overseer
+Sub Post Master
+Sub Post Office
+Sub Postmaster
+Sub Storekeeper
+Submarine Battery Charging Shed
+Subordinate Officer
+Subordinate Police Officer
+Subordinate Staff
+Subordinate Technical Service
+Substitute Labourer
+Succani
+Succani of Tugs
+Sugarcane Expert
+Sugarcane Research Institute
+Sugathadasa National Sport Complex Authority
+Suggestions Committee
+Suject Clerk
+Superintendent
+Superintendent (Confidential Branch)
+Superintendent (Confidential)
+Superintendent and Chief Medical Storekeeper
+Superintendent Civil Aviation
+Superintendent of the Senate Building and Gentleman Usher
+Superintendent of Audit
+Superintendent of Census
+Superintendent of Coast Lights
+Superintendent of Composing Machinery
+Superintendent of Confidential Branch
+Superintendent of Development Works in Colonization and Peasant Settlement Scheme
+Superintendent of Drug Manufacture
+Superintendent of Equipment
+Superintendent of Examinations
+Superintendent of Excise
+Superintendent of Gardens
+Superintendent of Girls Hoste's
+Superintendent of Government Estates
+Superintendent of Government Publications Bureau
+Superintendent of Health Services
+Superintendent of Hostels
+Superintendent of Instruments
+Superintendent of Mails
+Superintendent of Map Publications
+Superintendent of Minor Roads
+Superintendent of Police
+Superintendent of Prison
+Superintendent of Prison Industries
+Superintendent of Probation
+Superintendent of Publications
+Superintendent of Purchase and Imports
+Superintendent of Quarantine
+Superintendent of Railway Stores
+Superintendent of Saw Mills
+Superintendent of School Works
+Superintendent of Shipping
+Superintendent of Stores
+Superintendent of Surveys
+Superintendent of Telecommunication Traffic
+Superintendent of Training
+Superintendent of Translations
+Superintendent of Village Works
+Superintendent of Water Works
+Superintendent of Weights and Measures
+Superintendent of Works
+Superintendent-in-Charge, Price Control Station
+Superintendent, Ankylostomiasis Campaign
+Superintendent, Anti-Malaria Campaign
+Superintendent, Binding
+Superintendent, Botanical Gardens
+Superintendent, Brackish Water Fisheries
+Superintendent, Central Weaving Institute
+Superintendent, Composing Machinery
+Superintendent, Filariasis Campaign
+Superintendent, Fresh Water Fisheries
+Superintendent, Glossary Bureau
+Superintendent, Government Publications Bureau
+Superintendent, Harbour Craft
+Superintendent, Higher Science Text Books
+Superintendent, Lying-in-Home
+Superintendent, Medical Glossaries
+Superintendent, Money Order Department
+Superintendent, National Savings Movement
+Superintendent, Observatory
+Superintendent, Organization and Staff
+Superintendent, Parlinmentary Printing Branch
+Superintendent, Port Fire Brigade
+Superintendent, Power House
+Superintendent, Quarantine Medical Officer
+Superintendent, Stores and Supplies
+Superintendent, Tuberculosis Campaign
+Superintendent, Vacational Training of the Deaf and Blind
+Superintendent, Venereal Diseases Campaign
+Superintendent, Zoological Gardens
+Superintending Engineer
+Superintending Sea Transport Officer
+Superintending Agricultural Engineer
+Superintending Civil Engineer
+Superintending Mechanical Engineer
+Superintending Telecommunication Engineer
+Superior Courts Complex Board of Management
+Superior Officer
+Supernumerary General Enumerators
+Supervising Editor
+Supervising Officer
+Supervising Operator, Punch Card Accounting Machine
+Supervisor
+Supervisor (Peeling)
+Supervisor (Relief)
+Supervisor (Transport)
+Supervisor (Yards)
+Supervisor Clerk
+Supervisor for Garden and Construction Work
+Supervisor of Animals
+Supervisor of Census
+Supervisor of Commercial Crops
+Supervisor of Demonstration Parties
+Supervisor of Guards
+Supervisor of Home Workers
+Supervisor of Labour
+Supervisor of Midday Meals
+Supervisor of Savings Group
+Supervisor of Schools
+Supervisor of Translations
+Supervisor of Watchers
+Supervisor of Works
+Supervisor on Probation
+Supervisor Staff Abroad
+Supervisor, Central Duplicating Section
+Supervisor, Community Centers
+Supervisor, Disinfecting Station
+Supervisor, Farm Engineering
+Supervisor, Flood Schemes
+Supervisor, Grade I (Boat-Yard)
+Supervisor, Land Development Ordinance Allotments
+Supervisor, National Savings Movements
+Supervisor, Plan Printing Office
+Supervisor, State Farms
+Supervisor, Temple Trees and Lodge Nuwara Eliya
+Supplies and Sales Officer
+Supplies Assistant
+Supplies Division
+Supplies Manager
+Supplies Officer
+Supplies Supervisor
+Supply and Cadre Division
+Supply Assistant
+Supply Branch
+Supply Reserve Depot
+Supply Station Staff
+Supply Station Storekeeper
+Supra Grade Medical Officer
+Supreme Court
+Survey Camp
+Survey Clerical Service
+Survey Labourer
+Survey Labourer (Semi-Skilled)
+Survey Labourer (Skilled)
+Survey Labourer (UnSkilled)
+Survey Assistant
+Survey Department
+Survey General
+Survey Office
+Survey Overseer
+Survey Party
+Survey Planning and Execution Section
+Survey Probationer
+Survey Student
+Survey Superintendent
+Survey Training Centre
+Surveyor
+Surveyor and Leveller
+Surveyor-General
+Sweeper
+Sweeper and Punkah Puller
+Switch Board Operator
+Switch Board Attendant
+Switch Moulder
+Sword Bearer
+System Analyst Cum Programmer
+System Control Engineer
+Systematic Botanist
+Tax Officer
+Tea Research Institute of Sri Lanka
+Tea Small Holding Development Authority
+Teacher
+Technical Training Institute
+Technical Writer
+Technician
+Telecommunication Regulatory Commission of Sri Lanka
+Telephonist
+Tertiary and Vocational Education Commission
+Ticket Officer
+Ticketing Agent
+Timber Corporation(State Timber Corporation)
+Tourist Agent
+Tower Hall Theatre Foundation
+Translator
+Travel Agent
+Treasurer
+Under Writer
+University Grants Commission
+University of Colombo SRI Lanka
+University of Colombo School of Computing
+University of Vocational Technology
+University of Jaffna
+University of Kelaniya
+University of Moratuwa
+University of Peradeniya
+University of Ruhuna
+University of Sabaragamuwa
+University of Sri Jayawardenepura
+University of the Visual & Performing Arts
+University professor
+Urban Development Authority
+Uva Wellassa University of SRI Lanka
+Vacation Trainee
+Vaccinator
+Vagrant House
+Valuation Branch
+Valuation Department
+Valuation Inspector
+Valuation Officer
+Valuation Assistant
+Value Preparing Section Worker
+Valuer, Rating
+Van Driver
+Van, Car Driver
+Varicose Veins Clinic
+Veena Player
+Vegetable Collecting Organizations
+Vegetable Farm
+Vegetable Marketing Scheme
+Vegetable Oil Factory
+Vegetable Packing Station
+Vehicle Driver
+Vehicle Machanic
+Vehicles Division
+Vel Vidane
+Venereal Diseases Campaign
+Venereal Diseases Clinic
+Verifying Officer
+Veterinary Branch
+Veterinary Department
+Veterinary Hospital
+Veterinary Medical Storekeeper
+Veterinary Physician
+Veterinary Research Laboratory
+Veterinary research officer
+Veterinary Research Probationer
+Veterinary Service
+Veterinary Surgeon
+Vice Admiral
+Vice-Chairman
+Vice-Chancellor
+Vice-President
+Vice-Principal
+Vice-Principal and Registrar
+Victoria Home for Incurables
+Victoria Memorial Eye Hospital
+Victualling Store Caretaker
+Victualling Storekeeper
+Vidane
+Vidane Arachchi
+Vidyavisarada and Vidvan Certificated Teacher
+Village Committee
+Village Council
+Village Cultivation Officer
+Village Cultivation Overseer
+Village Expansion
+Village Headman
+Village Tank Survey
+Village Tribunal
+Violinist
+Visiting Lecturer
+Visiting Physician
+Visiting Senior Physician
+Visiting Staff
+Visiting Superintendent
+Visual Aid Technician
+Vocal Group Conductor
+Vocalist
+Vocational Instructor
+Vocational Instructor and Technician
+Vocational Section
+Vocational Trained Teacher
+Vocational Training Authority of Sri Lanka
+Voluntary Probation Officer
+Volunteer Force
+Volunteer Navak Force and Reserve
+Volunteer Air Force
+Voter
+Votes Ledger Clerk
+Wadiya Labourer
+Wages Board
+Wages Clerk
+Waiter
+Waiting Room
+Walking Training and Arm Training Instructor
+War Loan
+War Memorial
+War Office
+Ward
+Ward (Election)
+Ward Boy
+Ward Clerk
+Ward Headman
+Warden
+Warden of Children's Home
+Warehouse
+Warehouse Clerk
+Warehouse Keeper
+Warehouse Man
+Warehouse Officer
+Warehouse Storekeeper
+Warehouse Superintendent
+Warehouse Supervisor
+Warehouse Watcher
+Warehousing Port
+Warrant Officer
+Warrant Writer
+Wash Plant Operator
+Watch Maker
+Watcher
+Watchman
+Water Carrier
+Water Cart Driver
+Water Pipe Mechanic
+Water Pump Cleaner
+Water Pump Engine Driver Mechanic
+Water Pump Machineman
+Water Pump Operator
+Water Pumping Plant Attendant
+Water Resources Board
+Water Supply and Drainage Foreman
+Water Supply Engineer
+Water Supply Expert
+Waterworks Branch
+Waterworks Engineer
+Waterworks Extension Loan
+Waterworks Sub-Department
+Way and Works Department
+Wayamba University of Sri Lanka
+Wealth Tax
+Weaving and Dyeing Master
+Weaving Foreman
+Weaving Instructor
+Weaving Junior Assistant
+Weaving Master
+Weaving Senior Assistant
+Weigher
+Welded Mesh Machine Operator
+Welder
+Welfare Officer
+Welfare Orderly
+Welfare Supervisor
+Western Programme Section
+Wharf
+Wharf Assistant
+Wharf Clerk
+Wharf Clerk's Service
+Wharf Staff
+Wharf Station
+Wharf Superintendent
+Wharf Supervisor
+Wholesale Dealer
+Wholesale Depot
+Wholesale Establishment
+Widows' and Orphans' Pension Office
+Winchman
+Wing Commander
+Wire Drawer
+Wire Mill Department
+Wire Mill Engineer
+Wireless
+Wireless Operator
+Wireless Telephone Operator
+Wireman
+Woman Medical Officer
+Woman Police Constable
+Woman Police Sergeant
+Woman's Societies
+Woman's Health League
+Wood Polisher and Painter
+Wood Working Machine Shop
+Wood Working Machiner
+Wood Working Machinist
+Work Inspector
+Worker
+Workers' Union
+Working Staff
+Works Clerk
+Works Driver
+Works Engineer
+Works Experience Branch
+Works Foreman
+Works Foreman (Operation)
+Works Services Department
+Works Services Engineer
+Works Shed
+Works Supervisor
+Works Accountant
+Works Manager
+Works Officer
+Workshop Engineer
+Workshop Foreman
+Workshop Instructor
+Workshop Labourer
+Workshop Manager
+Workshop Superintendent
+Workshop Supervisor
+Workshop Technician
+Workshop Assistant
+World Bank Mission
+World Health Organization
+World Meteorological Organization
+Writ of Possession
+Writ Officer
+Writ Holder
+Writer
+X Ray Technician
+X-Ray Mechanic
+X-Ray and Electro-Medical Technologist
+X-Ray Assistant
+X-Ray Block
+Yard
+Yard Foreman
+Yard Worker
+Young Farmers' Club
+Zoological Survey
+Zoological Garden
